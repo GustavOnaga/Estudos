@@ -1,0 +1,4001 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU
+Quitinete;Copacabana;1;0;0;40;1700.0;500.0;60.0
+Apartamento;Centro;1;0;0;15;800.0;390.0;20.0
+Apartamento;Higienópolis;1;0;0;48;800.0;230.0;
+Apartamento;Centro;1;0;0;36;1200.0;;
+Apartamento;Copacabana;1;0;1;40;2000.0;561.0;50.0
+Quitinete;Copacabana;1;0;0;27;1800.0;501.0;
+Flat;Leblon;1;0;0;56;4500.0;1900.0;1500.0
+Apartamento;Tijuca;1;0;0;48;750.0;772.0;25.0
+Quitinete;Copacabana;1;0;0;27;1300.0;380.0;53.0
+Apartamento;Centro;1;0;0;27;750.0;371.0;19.0
+Apartamento;Ipanema;1;0;0;35;2000.0;650.0;75.0
+Apartamento;Ipanema;1;0;0;38;1400.0;530.0;77.0
+Apartamento;Centro;1;1;0;37;1100.0;540.0;900.0
+Apartamento;Barra da Tijuca;1;1;1;70;1700.0;870.0;143.0
+Quitinete;Copacabana;1;0;0;29;1200.0;460.0;
+Casa;Benfica;1;0;0;33;1200.0;;
+Quitinete;Glória;1;0;0;16;1400.0;300.0;210.0
+Apartamento;Vila Isabel;1;0;0;37;1000.0;285.0;24.0
+Apartamento;Botafogo;1;0;0;35;1500.0;470.0;50.0
+Apartamento;Barra da Tijuca;1;1;1;65;2350.0;;
+Apartamento;Flamengo;1;0;0;40;1900.0;430.0;54.0
+Flat;Copacabana;1;1;0;63;3600.0;1215.0;
+Flat;Leblon;1;0;1;50;4500.0;1300.0;150.0
+Apartamento;Tijuca;1;0;0;65;1200.0;320.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;102;1900.0;688.0;
+Apartamento;Cidade Nova;1;0;0;46;1000.0;;
+Quitinete;Copacabana;1;0;0;23;1000.0;562.0;
+Apartamento;Olaria;1;0;0;39;800.0;;
+Apartamento;Centro;1;0;0;35;1350.0;420.0;24.0
+Apartamento;Barra da Tijuca;1;1;1;60;2200.0;1600.0;350.0
+Quitinete;Centro;1;0;0;33;990.0;463.0;25.0
+Flat;Arpoador;1;1;1;55;3000.0;1865.0;337.0
+Apartamento;Botafogo;1;0;0;35;1000.0;293.0;86.0
+Apartamento;Tijuca;1;0;0;36;1300.0;295.0;24.0
+Quitinete;Copacabana;1;0;0;26;1400.0;370.0;21.0
+Apartamento;Humaitá;1;0;0;57;3990.0;860.0;100.0
+Apartamento;Flamengo;1;1;0;48;2100.0;580.0;70.0
+Casa de Vila;Oswaldo Cruz;1;0;1;40;800.0;;
+Quitinete;Copacabana;1;0;0;30;1300.0;370.0;30.0
+Apartamento;Lagoa;1;1;0;75;2800.0;800.0;210.0
+Loft;Barra da Tijuca;1;1;1;78;2700.0;1370.0;188.0
+Apartamento;Engenho Novo;1;1;0;63;700.0;625.0;36.0
+Quitinete;Leblon;1;0;0;30;1700.0;560.0;62.0
+Apartamento;Maracanã;1;1;1;120;1000.0;985.0;150.0
+Conjunto Comercial/Sala;São Cristóvão;1;1;0;25;800.0;427.0;471.0
+Flat;Humaitá;1;1;0;55;2000.0;1232.0;176.0
+Apartamento;Copacabana;1;0;0;43;1600.0;452.0;242.0
+Apartamento;Copacabana;1;0;0;45;2800.0;450.0;30.0
+Apartamento;Copacabana;1;0;1;37;2500.0;447.0;20.0
+Apartamento;Catete;1;0;0;45;1600.0;500.0;55.0
+Quitinete;Copacabana;1;0;0;15;1100.0;600.0;
+Apartamento;Centro;1;0;0;42;2200.0;619.0;202.0
+Quitinete;Leblon;1;0;0;25;1950.0;360.0;58.0
+Apartamento;Copacabana;1;0;0;43;1800.0;639.0;76.0
+Apartamento;Ipanema;1;0;1;50;2400.0;897.0;26.0
+Quitinete;Copacabana;1;0;0;35;1700.0;400.0;55.0
+Apartamento;Urca;1;0;0;53;2800.0;770.0;
+Quitinete;Glória;1;0;1;26;850.0;321.0;29.0
+Apartamento;Copacabana;1;0;0;60;2800.0;620.0;128.0
+Apartamento;Tijuca;1;1;1;84;2000.0;718.0;120.0
+Quitinete;Gardênia Azul;1;0;0;20;485.0;;
+Apartamento;Flamengo;1;0;0;30;1490.0;315.0;55.0
+Apartamento;Copacabana;1;1;0;150;3000.0;1200.0;390.0
+Apartamento;Flamengo;1;0;1;38;1450.0;690.0;55.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;49;1050.0;580.0;36.0
+Apartamento;Leme;1;0;0;31;1140.0;420.0;24.0
+Apartamento;Glória;1;0;0;48;1400.0;480.0;20.0
+Apartamento;Grajaú;1;0;0;30;800.0;283.0;187.0
+Apartamento;Botafogo;1;0;0;17;1100.0;330.0;15.0
+Apartamento;Flamengo;1;0;0;49;1700.0;440.0;68.0
+Apartamento;Méier;1;0;0;53;900.0;484.0;37.0
+Casa;Vila da Penha;1;0;0;40;850.0;;
+Quitinete;Copacabana;1;0;0;30;2600.0;500.0;
+Quitinete;Copacabana;1;0;0;30;3200.0;400.0;50.0
+Quitinete;Centro;1;0;1;15;750.0;;
+Apartamento;Flamengo;1;0;0;37;2300.0;485.0;56.0
+Apartamento;Curicica;1;1;0;45;700.0;356.0;126.0
+Apartamento;Barra da Tijuca;1;1;1;80;1700.0;980.0;250.0
+Casa;Vaz Lobo;1;0;0;35;400.0;;
+Apartamento;Tijuca;1;1;1;87;1400.0;1057.0;162.0
+Apartamento;Méier;1;0;0;50;1000.0;390.0;16.0
+Flat;Botafogo;1;1;1;50;2500.0;836.0;189.0
+Apartamento;Andaraí;1;0;1;30;1100.0;580.0;
+Quitinete;Copacabana;1;0;0;25;1200.0;318.0;
+Apartamento;Moneró;1;1;0;47;1200.0;290.0;49.0
+Apartamento;Leme;1;0;0;55;2000.0;585.0;79.0
+Quitinete;Copacabana;1;0;0;38;1800.0;500.0;100.0
+Apartamento;Copacabana;1;0;0;30;1200.0;650.0;54.0
+Apartamento;Barra da Tijuca;1;1;1;68;2800.0;1250.0;219.0
+Prédio Inteiro;Copacabana;1;1;0;450;63000.0;13500.0;3825.0
+Apartamento;Praça Seca;1;0;1;50;600.0;;
+Apartamento;Barra da Tijuca;1;0;0;71;2100.0;1200.0;220.0
+Apartamento;Botafogo;1;0;0;38;1300.0;400.0;25.0
+Flat;Barra da Tijuca;1;1;0;71;2700.0;1700.0;181.0
+Apartamento;Copacabana;1;0;0;36;1700.0;632.0;69.0
+Quitinete;Copacabana;1;0;0;30;1150.0;450.0;30.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;49;850.0;590.0;37.0
+Apartamento;Copacabana;1;0;0;37;2200.0;555.0;70.0
+Apartamento;Glória;1;0;0;28;1500.0;250.0;
+Loft;Barra da Tijuca;1;1;0;50;2634.0;1326.0;240.0
+Apartamento;Ipanema;1;0;1;46;1800.0;936.0;86.0
+Apartamento;Ipanema;1;0;1;48;2100.0;540.0;81.0
+Apartamento;Centro;1;0;1;38;1150.0;400.0;25.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;45;1500.0;1200.0;440.0
+Apartamento;Botafogo;1;1;0;65;2200.0;679.0;27.0
+Apartamento;Copacabana;1;0;1;39;1800.0;600.0;
+Apartamento;Santa Teresa;1;0;0;21;800.0;312.0;15.0
+Apartamento;Copacabana;1;0;0;36;2200.0;590.0;
+Apartamento;Ipanema;1;0;0;50;2100.0;630.0;
+Apartamento;Barra da Tijuca;1;1;1;69;1900.0;1007.0;159.0
+Quitinete;Copacabana;1;0;0;28;1500.0;450.0;
+Apartamento;Colégio;1;0;0;58;950.0;;
+Apartamento;Rocha Miranda;1;0;0;33;750.0;;
+Apartamento;Botafogo;1;0;0;53;1600.0;770.0;70.0
+Quitinete;Copacabana;1;0;0;15;800.0;305.0;24.0
+Apartamento;Copacabana;1;0;1;50;2500.0;516.0;25.0
+Apartamento;Centro;1;0;0;35;1000.0;300.0;
+Apartamento;Guadalupe;1;0;0;60;700.0;;
+Apartamento;Campo Grande;1;1;0;46;650.0;250.0;
+Apartamento;Copacabana;1;0;0;30;1300.0;400.0;25.0
+Quitinete;Glória;1;0;0;20;850.0;495.0;
+Apartamento;Catete;1;0;0;37;1300.0;360.0;24.0
+Apartamento;Copacabana;1;0;0;45;1600.0;420.0;72.0
+Apartamento;Copacabana;1;0;0;40;2000.0;617.0;24.0
+Apartamento;Botafogo;1;0;0;40;1800.0;350.0;
+Flat;Ipanema;1;1;1;43;2500.0;2117.0;304.0
+Apartamento;Vila Isabel;1;1;1;50;1050.0;450.0;
+Apartamento;Barra da Tijuca;1;1;0;80;5000.0;1100.0;200.0
+Apartamento;Leme;1;0;1;90;3500.0;550.0;
+Apartamento;Tijuca;1;0;0;34;1400.0;251.0;24.0
+Apartamento;Laranjeiras;1;1;0;57;1800.0;694.0;94.0
+Apartamento;Fátima;1;0;0;50;1100.0;558.0;20.0
+Apartamento;Higienópolis;1;0;0;55;750.0;120.0;
+Apartamento;Botafogo;1;0;0;35;1000.0;293.0;86.0
+Apartamento;Santa Teresa;1;1;0;49;1150.0;570.0;28.0
+Flat;Barra da Tijuca;1;1;1;35;6000.0;;
+Apartamento;Copacabana;1;0;0;40;1400.0;539.0;
+Flat;Botafogo;1;1;1;50;2900.0;1150.0;100.0
+Apartamento;Andaraí;1;0;0;30;1550.0;403.0;92.0
+Apartamento;Benfica;1;0;0;15;350.0;;
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;36;1300.0;900.0;
+Apartamento;Tijuca;1;0;0;42;1500.0;150.0;226.0
+Quitinete;Copacabana;1;0;0;30;1600.0;550.0;71.0
+Loja/Salão;Barra da Tijuca;1;3;0;165;6900.0;1200.0;1850.0
+Apartamento;Glória;1;0;0;42;1500.0;400.0;24.0
+Apartamento;Humaitá;1;1;0;60;2100.0;750.0;127.0
+Apartamento;Leblon;1;0;0;90;7500.0;1400.0;
+Apartamento;Barra da Tijuca;1;1;0;50;1900.0;1200.0;300.0
+Apartamento;Flamengo;1;0;0;36;1600.0;387.0;55.0
+Apartamento;Gávea;1;0;0;40;1950.0;492.0;
+Apartamento;Botafogo;1;1;0;59;2500.0;654.0;
+Flat;Barra da Tijuca;1;1;0;60;3200.0;1900.0;320.0
+Apartamento;Barra da Tijuca;1;1;0;68;1650.0;900.0;180.0
+Quitinete;Centro;1;0;0;40;1100.0;500.0;
+Apartamento;Copacabana;1;0;0;25;2000.0;;
+Apartamento;Flamengo;1;0;0;50;1800.0;525.0;45.0
+Apartamento;Ipanema;1;0;1;33;1800.0;565.0;
+Apartamento;Copacabana;1;0;0;30;1200.0;500.0;200.0
+Apartamento;Barra da Tijuca;1;1;1;85;2300.0;1009.0;
+Flat;Ipanema;1;1;1;52;3000.0;2386.0;312.0
+Apartamento;Copacabana;1;0;0;30;2000.0;420.0;80.0
+Apartamento;Copacabana;1;0;0;35;1100.0;400.0;55.0
+Quitinete;Botafogo;1;0;0;30;2100.0;366.0;250.0
+Apartamento;Tijuca;1;0;0;40;1100.0;350.0;50.0
+Apartamento;Ipanema;1;0;0;58;2500.0;477.0;144.0
+Quitinete;Botafogo;1;0;0;25;1000.0;440.0;25.0
+Apartamento;Copacabana;1;0;0;32;1400.0;580.0;60.0
+Quitinete;Centro;1;0;0;26;1500.0;490.0;
+Quitinete;Centro;1;0;0;34;1000.0;415.0;
+Apartamento;Barra da Tijuca;1;1;1;52;5000.0;2660.0;380.0
+Apartamento;Vila Isabel;1;1;0;52;1200.0;468.0;26.0
+Apartamento;Guadalupe;1;0;0;30;450.0;;
+Apartamento;Glória;1;0;0;34;1100.0;275.0;14.0
+Apartamento;Higienópolis;1;0;1;45;800.0;120.0;31.0
+Apartamento;Copacabana;1;0;1;90;3400.0;1000.0;
+Apartamento;Copacabana;1;0;0;30;1700.0;600.0;24.0
+Apartamento;Leblon;1;0;1;135;10000.0;1900.0;500.0
+Apartamento;Flamengo;1;0;0;42;1500.0;517.0;21.0
+Quitinete;Ipanema;1;0;0;45;3650.0;600.0;
+Apartamento;Copacabana;1;0;0;45;2150.0;550.0;
+Casa de Condomínio;Campo Grande;1;1;0;60;780.0;240.0;
+Apartamento;Andaraí;1;0;0;30;1300.0;510.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;860.0;205.0
+Quitinete;Ipanema;1;0;0;27;1500.0;528.0;
+Apartamento;Botafogo;1;1;0;57;2150.0;880.0;86.0
+Quitinete;Centro;1;1;1;37;1100.0;370.0;25.0
+Apartamento;Engenho Novo;1;0;0;37;600.0;414.0;16.0
+Apartamento;Ipanema;1;0;0;37;1800.0;490.0;40.0
+Apartamento;Ipanema;1;2;1;64;3770.0;1700.0;230.0
+Flat;Barra da Tijuca;1;1;0;60;2400.0;1400.0;300.0
+Apartamento;Ipanema;1;0;0;40;2400.0;380.0;80.0
+Flat;Curicica;1;1;0;36;1300.0;600.0;14.0
+Quitinete;Leblon;1;0;1;32;2000.0;650.0;84.0
+Apartamento;Lagoa;1;1;1;85;3000.0;1123.0;387.0
+Apartamento;Encantado;1;1;0;44;500.0;346.0;
+Flat;Leblon;1;1;0;50;4000.0;2035.0;236.0
+Apartamento;Barra da Tijuca;1;1;1;45;910.0;640.0;12.0
+Apartamento;Botafogo;1;0;0;45;1500.0;560.0;
+Apartamento;Centro;1;1;0;38;1500.0;530.0;
+Apartamento;Centro;1;0;0;30;900.0;320.0;
+Apartamento;Botafogo;1;0;0;40;1700.0;400.0;24.0
+Apartamento;Lagoa;1;1;0;66;2100.0;630.0;226.0
+Apartamento;Centro;1;0;0;21;900.0;289.0;20.0
+Apartamento;Botafogo;1;0;0;40;1500.0;550.0;57.0
+Apartamento;Copacabana;1;1;0;54;2400.0;613.0;131.0
+Apartamento;Praça da Bandeira;1;0;0;35;400.0;130.0;
+Quitinete;Copacabana;1;0;0;40;2000.0;400.0;24.0
+Apartamento;Copacabana;1;0;0;50;1300.0;420.0;24.0
+Quitinete;Ipanema;1;0;0;30;1200.0;400.0;29.0
+Quitinete;Copacabana;1;0;0;33;1450.0;350.0;56.0
+Apartamento;Catete;1;1;0;45;1700.0;725.0;
+Apartamento;Rio Comprido;1;0;0;33;800.0;275.0;24.0
+Quitinete;Curicica;1;0;0;38;750.0;;
+Apartamento;Ricardo de Albuquerque;1;0;0;25;320.0;;
+Quitinete;Copacabana;1;0;0;30;1000.0;300.0;30.0
+Conjunto Comercial/Sala;Centro;1;0;0;325;10000.0;;10828.0
+Apartamento;Barra da Tijuca;1;1;1;72;1800.0;920.0;198.0
+Apartamento;Ipanema;1;1;1;110;9000.0;2900.0;670.0
+Apartamento;Botafogo;1;1;0;73;2500.0;650.0;122.0
+Apartamento;Botafogo;1;0;0;30;1400.0;481.0;26.0
+Flat;Botafogo;1;1;0;39;2600.0;777.0;145.0
+Quitinete;Copacabana;1;0;0;26;1400.0;655.0;54.0
+Apartamento;Praça Seca;1;1;1;70;600.0;481.0;17.0
+Apartamento;Botafogo;1;0;0;31;1400.0;431.0;29.0
+Apartamento;São Cristóvão;1;0;0;56;850.0;450.0;15.0
+Apartamento;Copacabana;1;0;0;42;1800.0;1697.0;37.0
+Apartamento;Flamengo;1;0;0;38;1850.0;467.0;29.0
+Apartamento;Barra da Tijuca;1;1;1;60;1500.0;960.0;142.0
+Apartamento;Botafogo;1;0;0;70;1800.0;650.0;70.0
+Casa;Oswaldo Cruz;1;0;0;40;900.0;;
+Quitinete;Copacabana;1;0;0;30;1200.0;320.0;54.0
+Apartamento;Tijuca;1;1;0;68;1600.0;447.0;64.0
+Apartamento;Copacabana;1;0;0;38;1500.0;365.0;74.0
+Apartamento;Botafogo;1;1;0;50;2600.0;660.0;107.0
+Apartamento;Leblon;1;0;0;19;1450.0;502.0;
+Apartamento;Campo Grande;1;0;0;70;1000.0;;
+Apartamento;Lapa;1;0;0;99;1800.0;650.0;48.0
+Apartamento;Copacabana;1;0;0;57;2000.0;620.0;79.0
+Apartamento;Copacabana;1;0;0;41;1200.0;430.0;
+Apartamento;Ipanema;1;1;0;51;2800.0;635.0;100.0
+Quitinete;Gávea;1;0;1;50;1800.0;;
+Apartamento;Barra da Tijuca;1;1;0;55;2100.0;1200.0;
+Apartamento;Lagoa;1;1;0;46;2500.0;953.0;
+Apartamento;Barra da Tijuca;1;1;0;50;1600.0;950.0;100.0
+Quitinete;Catete;1;0;0;31;1300.0;370.0;56.0
+Apartamento;Ipanema;1;0;0;36;2100.0;580.0;25.0
+Flat;Copacabana;1;1;0;43;5000.0;2117.0;100.0
+Flat;Ipanema;1;1;0;45;6500.0;;
+Apartamento;Centro;1;0;0;38;900.0;223.0;15.0
+Apartamento;Barra da Tijuca;1;2;0;68;1800.0;850.0;207.0
+Quitinete;Laranjeiras;1;0;0;26;700.0;450.0;
+Apartamento;Jardim Guanabara;1;1;1;50;1300.0;250.0;
+Apartamento;Catete;1;0;0;31;1200.0;370.0;
+Apartamento;Méier;1;0;0;47;700.0;435.0;162.0
+Quitinete;Copacabana;1;0;0;40;4000.0;460.0;230.0
+Quitinete;Copacabana;1;0;0;35;2500.0;550.0;
+Apartamento;Ipanema;1;0;0;50;3800.0;450.0;30.0
+Apartamento;Botafogo;1;0;0;42;2200.0;400.0;58.0
+Apartamento;Barra da Tijuca;1;1;0;52;3500.0;2715.0;
+Apartamento;Engenho Novo;1;1;1;51;850.0;509.0;17.0
+Casa;Realengo;1;0;0;40;800.0;;
+Apartamento;Tijuca;1;0;0;63;1300.0;725.0;50.0
+Apartamento;Copacabana;1;0;0;28;1550.0;478.0;24.0
+Apartamento;Méier;1;0;0;55;850.0;340.0;16.0
+Quitinete;Centro;1;0;0;28;900.0;350.0;20.0
+Apartamento;Copacabana;1;0;0;40;1500.0;510.0;54.0
+Quitinete;Copacabana;1;0;0;40;1100.0;450.0;50.0
+Apartamento;Botafogo;1;1;0;66;2200.0;700.0;
+Apartamento;Barra da Tijuca;1;1;0;66;1800.0;1130.0;337.0
+Apartamento;Flamengo;1;0;1;26;1100.0;381.0;29.0
+Apartamento;Copacabana;1;0;0;55;3000.0;720.0;80.0
+Apartamento;Flamengo;1;0;0;45;2000.0;528.0;24.0
+Apartamento;Copacabana;1;0;0;50;2000.0;951.0;57.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;34;1700.0;1185.0;260.0
+Apartamento;Tijuca;1;1;0;55;1600.0;653.0;41.0
+Apartamento;Grajaú;1;0;0;60;1650.0;150.0;25.0
+Apartamento;Santa Teresa;1;0;0;45;740.0;180.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;69;2500.0;1400.0;300.0
+Apartamento;Tijuca;1;0;0;60;1800.0;470.0;
+Apartamento;Barra da Tijuca;1;2;1;100;7000.0;1990.0;2300.0
+Casa;Colégio;1;0;0;65;800.0;;
+Conjunto Comercial/Sala;Centro;1;0;0;76;1300.0;750.0;
+Apartamento;Copacabana;1;0;0;50;2500.0;1.0;1.0
+Quitinete;Copacabana;1;0;0;23;1400.0;300.0;
+Apartamento;Flamengo;1;0;0;42;1600.0;550.0;56.0
+Apartamento;Copacabana;1;0;0;45;1600.0;490.0;73.0
+Apartamento;Copacabana;1;0;0;35;1400.0;605.0;53.0
+Quitinete;Santa Teresa;1;0;0;20;700.0;303.0;14.0
+Quitinete;Centro;1;0;0;20;1090.0;300.0;15.0
+Apartamento;Leme;1;0;0;65;3000.0;590.0;90.0
+Apartamento;Copacabana;1;0;0;20;3000.0;;
+Apartamento;Barra da Tijuca;1;1;1;71;2500.0;1756.0;192.0
+Apartamento;Grajaú;1;0;1;73;2000.0;600.0;100.0
+Apartamento;Gávea;1;0;0;50;2700.0;510.0;86.0
+Apartamento;Tanque;1;1;1;64;900.0;470.0;15.0
+Apartamento;Ipanema;1;0;0;54;2100.0;781.0;
+Prédio Inteiro;Centro;1;92;0;6550;430000.0;;51985.0
+Apartamento;Copacabana;1;0;0;55;2500.0;;
+Apartamento;Glória;1;0;1;48;1100.0;500.0;
+Apartamento;Flamengo;1;0;1;41;1700.0;630.0;55.0
+Apartamento;Andaraí;1;2;0;67;1500.0;522.0;104.0
+Apartamento;Humaitá;1;1;0;60;3200.0;614.0;250.0
+Flat;Botafogo;1;1;1;70;2900.0;1071.0;85.0
+Quitinete;Flamengo;1;0;0;30;2150.0;260.0;25.0
+Quitinete;Centro;1;0;0;22;750.0;330.0;25.0
+Quitinete;Copacabana;1;0;0;30;5000.0;600.0;
+Apartamento;Leme;1;0;0;60;2600.0;600.0;60.0
+Quitinete;Centro;1;0;0;32;700.0;480.0;90.0
+Apartamento;Centro;1;0;0;50;1260.0;290.0;23.0
+Apartamento;Lagoa;1;1;1;120;7000.0;1500.0;285.0
+Apartamento;Copacabana;1;0;0;33;1400.0;561.0;29.0
+Quitinete;Copacabana;1;0;0;30;1100.0;423.0;242.0
+Apartamento;Flamengo;1;0;0;52;1550.0;620.0;
+Apartamento;Copacabana;1;0;1;30;2700.0;;
+Quitinete;Copacabana;1;0;0;40;1600.0;550.0;69.0
+Flat;Barra da Tijuca;1;2;1;110;4000.0;2500.0;450.0
+Apartamento;Catete;1;1;0;48;1700.0;725.0;
+Flat;Humaitá;1;1;1;50;2700.0;1200.0;163.0
+Apartamento;Lapa;1;0;0;32;1600.0;500.0;20.0
+Flat;Barra da Tijuca;1;1;0;50;2900.0;1350.0;294.0
+Apartamento;Ipanema;1;0;1;48;2400.0;766.0;87.0
+Quitinete;Catete;1;0;0;23;1350.0;320.0;25.0
+Apartamento;Tijuca;1;1;0;51;1300.0;412.0;21.0
+Apartamento;Centro;1;0;0;40;1000.0;510.0;21.0
+Apartamento;Copacabana;1;0;0;40;2000.0;510.0;
+Apartamento;Méier;1;1;0;55;900.0;250.0;17.0
+Apartamento;Barra da Tijuca;1;1;0;68;2100.0;1025.0;
+Apartamento;Copacabana;1;0;0;38;2000.0;560.0;69.0
+Apartamento;Barra da Tijuca;1;1;1;82;1800.0;1300.0;265.0
+Flat;Ipanema;1;1;0;65;3600.0;1200.0;200.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;21;950.0;740.0;169.0
+Apartamento;Santa Teresa;1;0;0;31;1300.0;500.0;
+Apartamento;Glória;1;0;0;50;1400.0;450.0;20.0
+Apartamento;Humaitá;1;1;0;62;2500.0;980.0;115.0
+Apartamento;Barra da Tijuca;1;1;0;58;1800.0;966.0;
+Apartamento;Centro;1;0;0;55;850.0;350.0;35.0
+Apartamento;Centro;1;0;0;28;900.0;446.0;24.0
+Apartamento;Catete;1;0;0;27;1000.0;359.0;29.0
+Apartamento;Copacabana;1;0;0;35;1800.0;1050.0;130.0
+Quitinete;Praça da Bandeira;1;0;0;22;800.0;313.0;25.0
+Apartamento;Engenho Novo;1;1;0;62;900.0;555.0;
+Apartamento;Tijuca;1;0;0;35;800.0;380.0;24.0
+Apartamento;Copacabana;1;0;0;50;1600.0;666.0;92.0
+Apartamento;Cascadura;1;0;0;40;680.0;240.0;
+Apartamento;Copacabana;1;0;0;50;1300.0;699.0;
+Flat;Leblon;1;1;0;55;7000.0;1.0;1.0
+Apartamento;Botafogo;1;0;0;40;1400.0;420.0;24.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;50;1000.0;590.0;36.0
+Apartamento;Leblon;1;0;1;57;3750.0;730.0;208.0
+Apartamento;Copacabana;1;0;0;39;1500.0;750.0;
+Apartamento;Barra da Tijuca;1;1;0;84;4000.0;;
+Loft;Leblon;1;1;0;50;3900.0;2045.0;308.0
+Apartamento;Flamengo;1;0;0;39;1100.0;580.0;20.0
+Apartamento;Centro;1;0;0;35;950.0;340.0;24.0
+Apartamento;Flamengo;1;0;0;33;1300.0;336.0;
+Quitinete;Copacabana;1;0;0;38;1500.0;430.0;
+Apartamento;Copacabana;1;0;0;35;4500.0;;
+Apartamento;Ipanema;1;0;0;45;2700.0;650.0;50.0
+Apartamento;Flamengo;1;0;0;43;2000.0;440.0;70.0
+Apartamento;Copacabana;1;1;1;42;1900.0;650.0;
+Apartamento;Barra da Tijuca;1;1;0;70;1500.0;1110.0;3050.0
+Apartamento;Curicica;1;1;0;36;1000.0;;
+Apartamento;Recreio dos Bandeirantes;1;1;1;70;2500.0;1700.0;150.0
+Apartamento;Vila Isabel;1;0;0;45;1200.0;424.0;24.0
+Apartamento;Leme;1;0;0;70;2500.0;526.0;
+Flat;Lagoa;1;1;0;57;4500.0;1885.0;250.0
+Apartamento;Botafogo;1;0;0;42;1500.0;293.0;86.0
+Quitinete;Centro;1;0;0;33;800.0;570.0;
+Apartamento;Gávea;1;0;0;50;30000.0;2500.0;5000.0
+Apartamento;Glória;1;0;0;50;1300.0;640.0;57.0
+Quitinete;Centro;1;0;0;35;700.0;312.0;28.0
+Apartamento;Ipanema;1;0;0;65;4000.0;500.0;150.0
+Apartamento;Tijuca;1;1;0;47;1100.0;600.0;
+Apartamento;Glória;1;0;0;60;1500.0;775.0;
+Apartamento;Lagoa;1;1;0;50;2300.0;1440.0;451.0
+Apartamento;Humaitá;1;1;0;62;2200.0;795.0;130.0
+Apartamento;Tijuca;1;0;0;80;1900.0;550.0;51.0
+Apartamento;Madureira;1;0;0;55;700.0;200.0;
+Quitinete;Catete;1;0;0;20;1190.0;450.0;22.0
+Apartamento;Copacabana;1;0;0;35;1500.0;700.0;
+Apartamento;Copacabana;1;0;0;55;1100.0;560.0;57.0
+Apartamento;Laranjeiras;1;0;0;27;1100.0;680.0;29.0
+Quitinete;Copacabana;1;0;0;40;1500.0;454.0;74.0
+Quitinete;Botafogo;1;0;0;20;980.0;500.0;29.0
+Quitinete;Centro;1;0;0;36;900.0;325.0;
+Apartamento;Glória;1;0;0;50;950.0;570.0;67.0
+Quitinete;Copacabana;1;0;1;32;2000.0;406.0;56.0
+Apartamento;Botafogo;1;0;0;56;1900.0;680.0;
+Loft;Lagoa;1;1;1;78;2500.0;1007.0;493.0
+Apartamento;Centro;1;1;0;42;1500.0;490.0;22.0
+Apartamento;Praça Seca;1;1;0;45;650.0;370.0;140.0
+Apartamento;Barra da Tijuca;1;1;0;61;1500.0;909.0;
+Apartamento;Higienópolis;1;0;1;37;900.0;308.0;
+Apartamento;Centro;1;0;0;34;1000.0;450.0;21.0
+Apartamento;Tijuca;1;0;0;35;800.0;420.0;
+Apartamento;Barra da Tijuca;1;1;1;66;2500.0;1396.0;141.0
+Flat;Copacabana;1;1;0;60;2000.0;1610.0;198.0
+Apartamento;Leme;1;0;0;32;1600.0;560.0;100.0
+Quitinete;Flamengo;1;0;0;35;2300.0;380.0;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;50;1050.0;590.0;37.0
+Apartamento;Centro;1;0;0;45;1100.0;400.0;
+Quitinete;Laranjeiras;1;0;0;24;1000.0;456.0;29.0
+Apartamento;Botafogo;1;0;0;30;1300.0;559.0;
+Casa de Vila;Jardim Botânico;1;0;0;35;2500.0;370.0;27.0
+Loja/Salão;Glória;1;0;0;37;2300.0;173.0;
+Quitinete;Centro;1;0;0;30;800.0;390.0;
+Apartamento;Vila Isabel;1;1;0;54;1700.0;600.0;70.0
+Apartamento;Flamengo;1;0;0;30;1500.0;386.0;29.0
+Apartamento;Copacabana;1;0;0;38;1300.0;612.0;24.0
+Apartamento;Cidade Nova;1;0;0;37;800.0;214.0;14.0
+Quitinete;Estácio;1;0;0;21;550.0;200.0;
+Galpão/Depósito/Armazém;Jardim América;1;0;0;2100;15000.0;;21000.0
+Apartamento;Copacabana;1;0;0;40;2050.0;585.0;
+Apartamento;Barra da Tijuca;1;1;0;70;3000.0;1650.0;
+Apartamento;Lapa;1;0;0;32;1100.0;380.0;
+Apartamento;Flamengo;1;0;0;50;1900.0;600.0;25.0
+Apartamento;Copacabana;1;0;0;27;1600.0;295.0;30.0
+Flat;Ipanema;1;1;0;90;7000.0;2500.0;400.0
+Quitinete;Centro;1;0;0;31;1000.0;465.0;106.0
+Apartamento;Leblon;1;1;1;105;5500.0;2800.0;450.0
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;1130.0;
+Flat;Lapa;1;1;0;29;2000.0;800.0;25.0
+Apartamento;Copacabana;1;0;0;63;1800.0;757.0;88.0
+Apartamento;Copacabana;1;0;0;28;1400.0;420.0;55.0
+Apartamento;Barra da Tijuca;1;1;1;50;3500.0;1000.0;200.0
+Apartamento;Caju;1;0;1;45;850.0;230.0;
+Quitinete;Flamengo;1;0;0;51;1800.0;680.0;
+Apartamento;Ipanema;1;0;0;40;2500.0;651.0;54.0
+Quitinete;Copacabana;1;0;0;10;800.0;;60.0
+Quitinete;Copacabana;1;0;1;29;1500.0;542.0;24.0
+Quitinete;Copacabana;1;0;0;34;1400.0;504.0;
+Apartamento;Glória;1;0;1;45;1200.0;515.0;
+Apartamento;Glória;1;0;1;40;1150.0;520.0;
+Apartamento;Catete;1;0;0;65;1800.0;423.0;
+Loja Shopping/ Ct Comercial;Guadalupe;1;0;0;53;2500.0;;
+Apartamento;Botafogo;1;0;0;45;2000.0;480.0;20.0
+Quitinete;Centro;1;0;0;27;850.0;143.0;24.0
+Casa de Vila;Encantado;1;0;0;30;850.0;;
+Apartamento;Ipanema;1;0;0;38;2000.0;495.0;
+Apartamento;Barra da Tijuca;1;1;1;52;2200.0;2300.0;326.0
+Apartamento;Barra da Tijuca;1;1;1;48;1200.0;650.0;50.0
+Quitinete;Copacabana;1;0;0;26;900.0;470.0;24.0
+Apartamento;Centro;1;0;0;33;800.0;380.0;25.0
+Apartamento;Praça Seca;1;1;0;48;450.0;275.0;
+Apartamento;Copacabana;1;0;0;39;1800.0;600.0;67.0
+Apartamento;São Conrado;1;1;1;80;3200.0;1050.0;15.0
+Quitinete;Ipanema;1;0;0;35;1800.0;534.0;87.0
+Apartamento;Copacabana;1;0;0;40;1700.0;;
+Quitinete;Copacabana;1;0;0;30;1400.0;614.0;
+Apartamento;Botafogo;1;1;0;80;2400.0;800.0;126.0
+Flat;Copacabana;1;1;0;63;2830.0;1600.0;7.0
+Apartamento;Flamengo;1;0;0;55;1800.0;700.0;56.0
+Casa de Vila;Vila da Penha;1;0;0;60;1100.0;80.0;
+Flat;Leblon;1;1;1;56;5000.0;1650.0;175.0
+Apartamento;Vila da Penha;1;1;0;45;900.0;;22.0
+Apartamento;Leme;1;0;0;53;1600.0;450.0;70.0
+Apartamento;Tijuca;1;0;0;47;1400.0;530.0;
+Apartamento;Ipanema;1;1;1;72;4400.0;3660.0;195.0
+Apartamento;Copacabana;1;0;0;42;2000.0;468.0;72.0
+Apartamento;Barra da Tijuca;1;1;0;60;2500.0;2000.0;
+Apartamento;Centro;1;0;0;42;1090.0;345.0;24.0
+Apartamento;Laranjeiras;1;1;0;59;2000.0;630.0;
+Quitinete;Copacabana;1;0;0;25;1400.0;480.0;25.0
+Apartamento;Copacabana;1;0;0;41;3000.0;575.0;68.0
+Casa de Vila;Marechal Hermes;1;0;0;88;750.0;76.0;
+Flat;Barra da Tijuca;1;1;1;35;1400.0;662.0;60.0
+Casa;Realengo;1;1;0;40;600.0;;
+Flat;Centro;1;0;1;32;2950.0;;
+Apartamento;Ipanema;1;0;0;67;2700.0;734.0;
+Apartamento;Gávea;1;1;1;60;3000.0;920.0;
+Apartamento;Copacabana;1;0;0;50;1600.0;534.0;70.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;77;1900.0;471.0;
+Apartamento;Copacabana;1;0;0;40;2900.0;;
+Apartamento;Copacabana;1;0;1;20;1800.0;;
+Apartamento;Copacabana;1;0;1;52;2500.0;650.0;
+Apartamento;Copacabana;1;1;0;40;3300.0;400.0;26.0
+Apartamento;Flamengo;1;0;0;35;1300.0;319.0;24.0
+Apartamento;Barra da Tijuca;1;1;0;65;2300.0;1600.0;3600.0
+Quitinete;Gardênia Azul;1;0;0;25;500.0;;
+Apartamento;Copacabana;1;0;1;30;2000.0;500.0;
+Quitinete;Copacabana;1;0;0;30;1400.0;450.0;100.0
+Apartamento;Glória;1;0;0;20;900.0;495.0;
+Flat;Copacabana;1;1;0;55;2600.0;1250.0;230.0
+Apartamento;Grajaú;1;0;0;50;1200.0;170.0;20.0
+Quitinete;Copacabana;1;0;0;22;1000.0;510.0;29.0
+Flat;Copacabana;1;1;0;50;2800.0;1300.0;146.0
+Casa;Campo Grande;1;0;0;40;450.0;;
+Apartamento;Vila Isabel;1;1;0;70;1200.0;770.0;
+Apartamento;Copacabana;1;0;0;40;1850.0;700.0;
+Apartamento;Flamengo;1;0;0;45;2500.0;400.0;262.0
+Quitinete;Copacabana;1;0;0;28;1600.0;300.0;
+Flat;Ipanema;1;1;0;45;2900.0;2263.0;252.0
+Apartamento;Recreio dos Bandeirantes;1;0;0;24;1000.0;364.0;
+Quitinete;Copacabana;1;0;0;22;950.0;430.0;67.0
+Apartamento;Quintino Bocaiúva;1;0;0;35;750.0;;
+Casa Comercial;Pavuna;1;0;0;15;750.0;;
+Apartamento;Tomás Coelho;1;0;0;65;800.0;;
+Apartamento;Copacabana;1;0;0;42;2000.0;500.0;50.0
+Quitinete;Copacabana;1;0;0;30;2000.0;;
+Loft;Ipanema;1;0;0;38;3000.0;459.0;79.0
+Apartamento;Tijuca;1;1;0;50;1200.0;390.0;30.0
+Quitinete;Tijuca;1;0;0;25;900.0;385.0;200.0
+Flat;Copacabana;1;0;0;55;2000.0;1983.0;1139.0
+Quitinete;Leme;1;0;0;25;1000.0;550.0;25.0
+Apartamento;Copacabana;1;0;0;40;1300.0;540.0;54.0
+Quitinete;Copacabana;1;0;0;29;1000.0;550.0;
+Apartamento;Leblon;1;0;1;35;2200.0;556.0;
+Apartamento;Vila Isabel;1;1;0;71;1500.0;630.0;79.0
+Apartamento;Barra da Tijuca;1;1;1;80;3300.0;1500.0;300.0
+Quitinete;Copacabana;1;0;0;30;2000.0;675.0;75.0
+Apartamento;Barra da Tijuca;1;1;1;64;2000.0;1130.0;290.0
+Quitinete;Copacabana;1;0;0;29;1500.0;500.0;
+Quitinete;Santa Teresa;1;0;0;20;1200.0;330.0;14.0
+Apartamento;Copacabana;1;0;0;48;1500.0;790.0;25.0
+Apartamento;Cachambi;1;0;1;39;850.0;320.0;
+Apartamento;Copacabana;1;0;0;35;1700.0;632.0;
+Apartamento;Barra da Tijuca;1;1;1;74;1900.0;1300.0;
+Apartamento;Tijuca;1;0;0;53;1200.0;402.0;19.0
+Apartamento;Leblon;1;0;0;50;2500.0;650.0;95.0
+Apartamento;Copacabana;1;0;0;33;1100.0;523.0;56.0
+Apartamento;Sampaio;1;0;0;51;800.0;205.0;
+Apartamento;Copacabana;1;0;0;33;2200.0;600.0;
+Casa;Vaz Lobo;1;1;0;80;800.0;;75.0
+Apartamento;Copacabana;1;0;0;26;1600.0;387.0;
+Casa;Jardim América;1;0;0;41;800.0;;
+Quitinete;Copacabana;1;0;0;30;850.0;550.0;54.0
+Quitinete;Catete;1;0;0;30;1200.0;470.0;
+Apartamento;Encantado;1;0;0;40;500.0;;12.0
+Apartamento;Laranjeiras;1;1;0;40;2000.0;903.0;80.0
+Apartamento;Vila Isabel;1;0;0;40;1300.0;307.0;24.0
+Apartamento;Ipanema;1;0;0;25;1700.0;614.0;29.0
+Apartamento;Copacabana;1;0;1;37;2500.0;447.0;20.0
+Apartamento;Copacabana;1;0;0;40;1800.0;450.0;227.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;49;1100.0;590.0;36.0
+Quitinete;Lapa;1;0;0;19;1100.0;256.0;
+Apartamento;Gávea;1;1;0;50;2600.0;726.0;152.0
+Apartamento;Flamengo;1;0;1;45;1500.0;520.0;56.0
+Casa de Vila;Pilares;1;0;0;22;450.0;131.0;17.0
+Casa de Condomínio;Botafogo;1;4;0;400;18000.0;;
+Apartamento;Leme;1;0;0;32;1500.0;483.0;55.0
+Casa de Vila;Bento Ribeiro;1;0;0;30;480.0;;
+Apartamento;Barra da Tijuca;1;2;0;70;2500.0;1500.0;
+Apartamento;Botafogo;1;1;0;43;1800.0;1072.0;100.0
+Flat;Leblon;1;1;0;65;4500.0;1600.0;100.0
+Apartamento;Marechal Hermes;1;0;0;50;800.0;280.0;
+Apartamento;Copacabana;1;0;0;26;1200.0;440.0;55.0
+Apartamento;Vila Isabel;1;1;0;60;1250.0;420.0;20.0
+Apartamento;Vila da Penha;1;0;0;45;1100.0;250.0;
+Flat;Laranjeiras;1;1;0;50;2800.0;800.0;90.0
+Apartamento;Bonsucesso;1;0;0;38;850.0;170.0;
+Apartamento;Ipanema;1;0;0;125;6000.0;1800.0;506.0
+Flat;Copacabana;1;1;1;38;2700.0;1100.0;90.0
+Flat;Copacabana;1;0;0;55;2000.0;1100.0;140.0
+Apartamento;Cachambi;1;1;0;48;750.0;250.0;
+Flat;Leblon;1;1;1;59;4000.0;1400.0;180.0
+Flat;Ipanema;1;1;0;60;3500.0;1500.0;244.0
+Quitinete;Leblon;1;0;0;30;1800.0;465.0;62.0
+Flat;Barra da Tijuca;1;1;1;52;1200.0;2020.0;587.0
+Apartamento;Copacabana;1;0;0;35;2200.0;317.0;
+Apartamento;Copacabana;1;0;0;35;2000.0;560.0;67.0
+Quitinete;Copacabana;1;0;0;30;1600.0;400.0;
+Apartamento;Botafogo;1;1;0;45;1500.0;1098.0;192.0
+Apartamento;Copacabana;1;0;0;47;1900.0;1400.0;185.0
+Quitinete;Copacabana;1;0;0;32;2300.0;;
+Apartamento;Leblon;1;1;0;53;3800.0;1520.0;
+Quitinete;Tijuca;1;0;0;28;1200.0;300.0;20.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;55;1800.0;534.0;85.0
+Apartamento;Copacabana;1;0;0;29;1450.0;800.0;
+Apartamento;Tijuca;1;0;1;48;1200.0;620.0;47.0
+Apartamento;Copacabana;1;0;0;55;2100.0;628.0;54.0
+Flat;Copacabana;1;1;0;60;1600.0;1500.0;170.0
+Apartamento;Botafogo;1;1;0;100;2500.0;935.0;155.0
+Apartamento;Leblon;1;0;0;30;2100.0;620.0;79.0
+Apartamento;Vila Isabel;1;1;0;54;1400.0;743.0;66.0
+Apartamento;Rocha Miranda;1;0;0;35;550.0;;
+Apartamento;Tijuca;1;0;0;52;1500.0;550.0;49.0
+Casa;Piedade;1;0;0;39;600.0;;16.0
+Flat;Botafogo;1;1;0;50;2400.0;775.0;150.0
+Apartamento;Maracanã;1;0;0;54;1000.0;450.0;20.0
+Apartamento;Lapa;1;0;0;46;1597.0;600.0;65.0
+Loft;Barra da Tijuca;1;2;1;100;2200.0;1441.0;348.0
+Quitinete;Botafogo;1;0;0;31;2100.0;341.0;53.0
+Casa de Condomínio;Vargem Grande;1;1;0;35;800.0;250.0;
+Apartamento;Barra da Tijuca;1;2;1;124;3000.0;982.0;316.0
+Apartamento;Leme;1;0;0;60;2200.0;600.0;76.0
+Apartamento;Centro;1;1;0;51;1500.0;405.0;40.0
+Apartamento;Copacabana;1;0;1;30;1300.0;630.0;
+Apartamento;Sampaio;1;0;0;51;800.0;205.0;
+Flat;Ipanema;1;1;1;46;4000.0;;
+Apartamento;Vila Isabel;1;0;0;41;1200.0;450.0;
+Apartamento;Madureira;1;1;1;133;1400.0;;
+Quitinete;Copacabana;1;0;0;35;2500.0;500.0;40.0
+Conjunto Comercial/Sala;Bonsucesso;1;0;0;25;500.0;;
+Apartamento;Copacabana;1;0;0;45;1900.0;670.0;30.0
+Apartamento;Copacabana;1;0;0;40;1500.0;340.0;71.0
+Apartamento;Tijuca;1;0;0;51;1200.0;670.0;
+Quitinete;Botafogo;1;0;0;24;1100.0;520.0;
+Apartamento;Maracanã;1;1;0;59;1500.0;410.0;
+Flat;Copacabana;1;1;0;60;890.0;1800.0;150.0
+Apartamento;Lins de Vasconcelos;1;1;0;60;800.0;460.0;250.0
+Apartamento;Leblon;1;0;0;65;3600.0;600.0;120.0
+Flat;Barra da Tijuca;1;2;1;110;3500.0;1700.0;200.0
+Apartamento;Moneró;1;1;0;47;1200.0;290.0;49.0
+Apartamento;Copacabana;1;0;0;34;1400.0;470.0;55.0
+Quitinete;Copacabana;1;1;0;42;1850.0;500.0;70.0
+Apartamento;Copacabana;1;0;0;30;1400.0;430.0;30.0
+Apartamento;Gardênia Azul;1;0;0;35;650.0;;
+Apartamento;Centro;1;0;1;40;950.0;350.0;24.0
+Apartamento;Botafogo;1;1;0;40;2000.0;360.0;25.0
+Apartamento;Botafogo;1;1;0;62;2600.0;650.0;100.0
+Apartamento;Laranjeiras;1;0;0;48;1700.0;490.0;
+Apartamento;Copacabana;1;0;0;31;1200.0;400.0;
+Apartamento;Leme;1;0;0;45;3000.0;743.0;57.0
+Flat;Barra da Tijuca;1;1;0;48;2200.0;1000.0;200.0
+Quitinete;Copacabana;1;0;0;30;2000.0;410.0;30.0
+Apartamento;Flamengo;1;0;0;38;1200.0;505.0;55.0
+Casa de Vila;Oswaldo Cruz;1;0;0;50;620.0;;
+Apartamento;Ipanema;1;0;0;50;2500.0;600.0;150.0
+Loft;Flamengo;1;0;0;19;800.0;346.0;29.0
+Apartamento;Barra da Tijuca;1;2;0;58;1800.0;800.0;207.0
+Apartamento;Leblon;1;1;1;95;5000.0;2880.0;351.0
+Apartamento;Leblon;1;1;0;55;4500.0;2000.0;
+Apartamento;Copacabana;1;0;0;42;1800.0;375.0;22.0
+Quitinete;Centro;1;0;0;28;950.0;350.0;
+Apartamento;Copacabana;1;0;0;35;1200.0;418.0;25.0
+Apartamento;Ipanema;1;0;0;47;2500.0;605.0;86.0
+Apartamento;Andaraí;1;0;1;59;1250.0;545.0;49.0
+Conjunto Comercial/Sala;Guadalupe;1;0;0;21;750.0;;
+Quitinete;Copacabana;1;0;0;28;1100.0;580.0;25.0
+Apartamento;Copacabana;1;0;0;50;2000.0;617.0;
+Apartamento;Vila Isabel;1;1;0;66;1000.0;750.0;20.0
+Casa de Vila;Maracanã;1;0;0;25;900.0;;
+Quitinete;Catete;1;0;0;29;850.0;364.0;29.0
+Apartamento;Centro;1;0;0;33;850.0;342.0;21.0
+Apartamento;Tijuca;1;0;0;50;1400.0;;
+Apartamento;Copacabana;1;0;0;30;1300.0;610.0;60.0
+Apartamento;Botafogo;1;0;1;52;2000.0;450.0;
+Apartamento;Ipanema;1;0;0;40;2500.0;551.0;26.0
+Apartamento;Riachuelo;1;0;0;60;1050.0;;
+Apartamento;Copacabana;1;0;0;28;950.0;647.0;56.0
+Apartamento;Vila da Penha;1;0;0;40;900.0;;
+Apartamento;Maracanã;1;0;0;45;1350.0;399.0;20.0
+Apartamento;Tijuca;1;0;0;50;1500.0;380.0;
+Apartamento;Leblon;1;1;0;55;4250.0;1600.0;
+Apartamento;Copacabana;1;0;1;40;2200.0;670.0;82.0
+Apartamento;Copacabana;1;0;0;27;1400.0;450.0;
+Casa;Anil;1;0;0;35;1000.0;;
+Quitinete;Vila da Penha;1;0;0;20;450.0;;
+Apartamento;Vila Valqueire;1;0;0;40;850.0;;
+Apartamento;Icaraí;1;1;1;55;2500.0;830.0;175.0
+Quitinete;Urca;1;0;0;40;2100.0;300.0;200.0
+Flat;Copacabana;1;1;0;60;3000.0;1295.0;150.0
+Apartamento;Flamengo;1;0;0;38;1700.0;400.0;
+Apartamento;Copacabana;1;0;0;51;2000.0;787.0;120.0
+Apartamento;Barra da Tijuca;1;1;0;50;2300.0;1640.0;292.0
+Flat;Barra da Tijuca;1;1;0;51;5500.0;1250.0;250.0
+Apartamento;Laranjeiras;1;0;0;32;1500.0;428.0;29.0
+Apartamento;Cachambi;1;0;0;55;850.0;;
+Quitinete;Jacarepaguá;1;0;0;20;300.0;15.0;7.0
+Apartamento;Copacabana;1;1;0;48;2200.0;1250.0;146.0
+Quitinete;Flamengo;1;0;0;23;1500.0;360.0;270.0
+Apartamento;Copacabana;1;0;1;47;2200.0;800.0;85.0
+Apartamento;Praça Seca;1;0;0;47;500.0;10.0;
+Apartamento;Botafogo;1;1;0;60;2500.0;550.0;111.0
+Apartamento;Barra da Tijuca;1;1;1;60;5000.0;;
+Casa;Maria da Graça;1;0;0;40;800.0;;
+Quitinete;Catete;1;0;0;26;1050.0;350.0;
+Quitinete;Laranjeiras;1;0;0;24;1300.0;428.0;29.0
+Apartamento;Botafogo;1;1;1;37;1800.0;1021.0;175.0
+Apartamento;Barra da Tijuca;1;1;1;36;2200.0;1141.0;
+Apartamento;Flamengo;1;0;0;40;1700.0;230.0;67.0
+Apartamento;Copacabana;1;0;0;33;1800.0;290.0;
+Apartamento;Catete;1;0;0;32;1200.0;338.0;30.0
+Apartamento;Copacabana;1;0;0;37;1500.0;565.0;70.0
+Apartamento;Tijuca;1;0;0;48;1500.0;376.0;21.0
+Apartamento;Copacabana;1;0;0;57;2000.0;770.0;116.0
+Quitinete;Laranjeiras;1;0;0;23;1000.0;400.0;25.0
+Apartamento;Jardim Botânico;1;0;0;50;1800.0;800.0;72.0
+Apartamento;Pechincha;1;1;0;61;1000.0;347.0;52.0
+Flat;Botafogo;1;1;1;45;4200.0;1071.0;1701.0
+Apartamento;Glória;1;0;0;35;1300.0;217.0;136.0
+Quitinete;Flamengo;1;0;0;26;1100.0;390.0;
+Apartamento;Campo Grande;1;0;1;70;600.0;;
+Apartamento;Barra da Tijuca;1;1;0;34;1500.0;663.0;920.0
+Apartamento;Leblon;1;1;0;50;5500.0;2034.0;
+Apartamento;Ipanema;1;1;0;50;3500.0;760.0;95.0
+Apartamento;Centro;1;0;0;46;1200.0;340.0;45.0
+Apartamento;Barra da Tijuca;1;1;0;56;1800.0;958.0;
+Apartamento;Santa Teresa;1;0;0;70;1900.0;612.0;14.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;41;750.0;357.0;16.0
+Quitinete;Engenho de Dentro;1;0;0;30;750.0;;
+Apartamento;Copacabana;1;0;0;50;2100.0;540.0;70.0
+Casa de Vila;Vicente de Carvalho;1;0;0;50;600.0;;
+Quitinete;Laranjeiras;1;0;0;26;1250.0;450.0;29.0
+Flat;Barra da Tijuca;1;1;0;50;1500.0;1235.0;273.0
+Apartamento;Copacabana;1;0;0;33;1300.0;631.0;
+Apartamento;Barra da Tijuca;1;1;0;60;2200.0;1200.0;273.0
+Casa de Vila;Oswaldo Cruz;1;0;0;40;700.0;140.0;
+Apartamento;Maracanã;1;0;1;40;1500.0;280.0;
+Casa de Vila;Bangu;1;0;0;20;400.0;;
+Flat;Curicica;1;1;1;48;1000.0;950.0;
+Apartamento;Centro;1;0;0;47;1400.0;400.0;20.0
+Apartamento;Leme;1;0;1;54;1800.0;576.0;
+Flat;Copacabana;1;1;0;38;2400.0;1200.0;200.0
+Apartamento;Leme;1;0;0;35;3000.0;500.0;
+Apartamento;Barra da Tijuca;1;1;1;42;1100.0;669.0;
+Apartamento;Flamengo;1;0;0;50;1700.0;490.0;28.0
+Quitinete;Leblon;1;0;0;30;1800.0;550.0;62.0
+Apartamento;Centro;1;0;0;40;1300.0;480.0;25.0
+Apartamento;Copacabana;1;0;0;50;2800.0;671.0;175.0
+Apartamento;Vargem Pequena;1;1;1;70;1000.0;680.0;89.0
+Apartamento;Catete;1;0;0;26;800.0;400.0;29.0
+Apartamento;Tijuca;1;0;0;35;1500.0;370.0;47.0
+Quitinete;Centro;1;0;0;25;700.0;260.0;20.0
+Apartamento;Botafogo;1;1;1;58;2750.0;1275.0;116.0
+Loft;Copacabana;1;0;0;32;2500.0;550.0;50.0
+Flat;Flamengo;1;0;0;38;2980.0;350.0;50.0
+Quitinete;Quintino Bocaiúva;1;0;0;40;400.0;240.0;
+Apartamento;Botafogo;1;0;0;35;2200.0;600.0;57.0
+Loja/Salão;Oswaldo Cruz;1;2;0;32;1200.0;;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;32;900.0;263.0;15.0
+Apartamento;Vila Isabel;1;0;0;40;1200.0;695.0;
+Apartamento;Barra da Tijuca;1;1;0;40;3000.0;475.0;920.0
+Apartamento;Campo Grande;1;0;0;45;550.0;;
+Flat;Recreio dos Bandeirantes;1;0;0;25;1350.0;300.0;
+Quitinete;Braz de Pina;1;0;0;30;450.0;;
+Apartamento;Vila da Penha;1;0;0;25;600.0;;
+Apartamento;Copacabana;1;0;0;36;1350.0;530.0;25.0
+Apartamento;Ipanema;1;0;0;60;2400.0;900.0;127.0
+Apartamento;Campo Grande;1;0;0;35;500.0;;
+Apartamento;Copacabana;1;0;0;31;1100.0;506.0;58.0
+Quitinete;Centro;1;0;0;19;850.0;300.0;24.0
+Quitinete;Centro;1;0;0;25;800.0;350.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;69;1300.0;490.0;104.0
+Apartamento;Copacabana;1;0;0;55;2100.0;628.0;54.0
+Apartamento;Leblon;1;1;0;40;2500.0;500.0;300.0
+Quitinete;Centro;1;0;0;31;750.0;350.0;20.0
+Apartamento;Ipanema;1;1;0;34;1900.0;800.0;30.0
+Apartamento;Centro;1;0;0;43;2000.0;;
+Quitinete;Copacabana;1;0;0;33;1900.0;450.0;57.0
+Apartamento;Flamengo;1;0;0;20;1200.0;393.0;29.0
+Apartamento;Barra da Tijuca;1;1;1;70;3500.0;1050.0;1.0
+Apartamento;Flamengo;1;0;1;48;1450.0;600.0;30.0
+Quitinete;Botafogo;1;0;0;32;1800.0;470.0;30.0
+Apartamento;Madureira;1;0;0;45;550.0;198.0;
+Apartamento;Flamengo;1;0;0;39;2500.0;410.0;45.0
+Flat;Jacarepaguá;1;0;1;16;1900.0;;
+Apartamento;Catete;1;0;0;50;1800.0;500.0;68.0
+Quitinete;Praça da Bandeira;1;0;0;23;900.0;363.0;25.0
+Casa de Condomínio;Vargem Grande;1;1;1;100;1750.0;220.0;
+Apartamento;Leblon;1;0;0;55;4700.0;2000.0;
+Apartamento;Copacabana;1;0;0;45;2000.0;400.0;
+Apartamento;Barra da Tijuca;1;1;0;60;2300.0;780.0;
+Apartamento;Centro;1;0;0;15;800.0;305.0;20.0
+Casa;Campo Grande;1;0;0;40;600.0;;
+Apartamento;Ipanema;1;1;0;56;4000.0;1400.0;180.0
+Apartamento;Tijuca;1;0;1;43;1300.0;530.0;
+Apartamento;Botafogo;1;0;0;93;2600.0;519.0;91.0
+Apartamento;Copacabana;1;0;0;30;1400.0;602.0;180.0
+Apartamento;Copacabana;1;1;0;70;2500.0;870.0;130.0
+Apartamento;Ipanema;1;1;1;83;4000.0;1350.0;410.0
+Apartamento;Barra da Tijuca;1;1;1;75;1500.0;1300.0;
+Quitinete;Tijuca;1;0;0;30;950.0;193.0;24.0
+Casa;Oswaldo Cruz;1;0;0;36;800.0;;
+Quitinete;Flamengo;1;0;0;30;1600.0;320.0;20.0
+Flat;Barra da Tijuca;1;1;0;55;2500.0;1150.0;300.0
+Apartamento;Copacabana;1;0;0;30;2100.0;487.0;
+Apartamento;Jacarepaguá;1;1;0;50;1100.0;480.0;14.0
+Casa;Senador Vasconcelos;1;1;0;50;650.0;;
+Apartamento;Lapa;1;0;0;32;1650.0;700.0;220.0
+Apartamento;Ipanema;1;1;0;80;4200.0;1350.0;335.0
+Apartamento;Flamengo;1;0;0;16;1200.0;344.0;29.0
+Apartamento;Braz de Pina;1;1;0;45;720.0;80.0;
+Quitinete;Catete;1;0;0;30;1000.0;403.0;
+Apartamento;Ipanema;1;1;1;105;10000.0;2900.0;700.0
+Apartamento;Copacabana;1;0;0;38;1500.0;435.0;58.0
+Quitinete;Tijuca;1;0;0;25;1200.0;381.0;25.0
+Apartamento;Copacabana;1;2;0;70;2300.0;681.0;139.0
+Apartamento;Centro;1;0;0;30;1100.0;400.0;
+Apartamento;Flamengo;1;1;0;60;2300.0;724.0;126.0
+Quitinete;Laranjeiras;1;0;0;27;1000.0;460.0;25.0
+Flat;Leblon;1;1;0;60;3500.0;1550.0;450.0
+Apartamento;Copacabana;1;0;0;55;2000.0;1930.0;
+Apartamento;Riachuelo;1;1;0;45;900.0;557.0;16.0
+Apartamento;Laranjeiras;1;0;0;49;2100.0;356.0;55.0
+Flat;Botafogo;1;1;1;60;2800.0;1200.0;90.0
+Apartamento;Centro;1;0;0;50;1400.0;520.0;47.0
+Apartamento;Botafogo;1;0;0;40;1500.0;430.0;
+Apartamento;Vaz Lobo;1;1;1;44;800.0;;
+Apartamento;Marechal Hermes;1;0;0;33;600.0;3.0;
+Apartamento;Tijuca;1;1;0;67;1500.0;705.0;67.0
+Apartamento;Barra da Tijuca;1;1;1;66;3000.0;2300.0;700.0
+Apartamento;Largo do Machado;1;0;0;50;1600.0;350.0;30.0
+Quitinete;Catete;1;0;0;26;1200.0;441.0;
+Apartamento;Copacabana;1;0;0;40;1500.0;750.0;70.0
+Apartamento;Barra da Tijuca;1;1;1;82;1800.0;1300.0;150.0
+Apartamento;Barra da Tijuca;1;1;0;33;1500.0;650.0;103.0
+Apartamento;Leblon;1;0;0;45;3000.0;;
+Apartamento;Barra da Tijuca;1;2;1;100;3300.0;1900.0;500.0
+Apartamento;Flamengo;1;1;0;65;2800.0;1000.0;200.0
+Apartamento;Copacabana;1;0;0;34;1700.0;590.0;
+Apartamento;Barra da Tijuca;1;1;0;72;1900.0;1050.0;220.0
+Apartamento;Maracanã;1;1;0;53;1600.0;530.0;47.0
+Casa de Vila;Pavuna;1;0;0;41;600.0;67.0;
+Apartamento;Centro;1;0;0;37;1200.0;393.0;24.0
+Apartamento;Tijuca;1;0;0;38;1200.0;485.0;20.0
+Apartamento;Copacabana;1;1;0;52;1800.0;1295.0;
+Quitinete;Rocha Miranda;1;0;0;30;400.0;;
+Apartamento;Botafogo;1;0;0;28;1480.0;400.0;
+Apartamento;Jardim Botânico;1;0;1;150;6900.0;2201.0;315.0
+Apartamento;Barra da Tijuca;1;1;1;60;1700.0;1103.0;
+Apartamento;Copacabana;1;0;0;45;1600.0;594.0;
+Apartamento;Ipanema;1;1;0;50;3500.0;796.0;
+Quitinete;Copacabana;1;0;1;22;1500.0;265.0;242.0
+Apartamento;Copacabana;1;0;1;57;2600.0;749.0;227.0
+Quitinete;Copacabana;1;0;1;28;1200.0;450.0;28.0
+Quitinete;Leme;1;0;0;34;1350.0;600.0;24.0
+Quitinete;Copacabana;1;0;0;42;1280.0;410.0;30.0
+Apartamento;Rocha Miranda;1;0;0;45;500.0;80.0;
+Apartamento;Recreio dos Bandeirantes;1;1;0;59;1400.0;478.0;
+Flat;Copacabana;1;1;0;60;2200.0;1000.0;
+Apartamento;Copacabana;1;0;1;40;1500.0;546.0;
+Apartamento;Leme;1;0;0;65;2800.0;590.0;90.0
+Flat;Recreio dos Bandeirantes;1;1;1;70;1700.0;1441.0;396.0
+Apartamento;Ipanema;1;0;0;55;3800.0;900.0;210.0
+Apartamento;Leme;1;0;0;40;2300.0;870.0;23.0
+Apartamento;Sampaio;1;1;0;60;1000.0;400.0;
+Flat;Ipanema;1;1;1;65;4200.0;;
+Apartamento;Copacabana;1;0;1;36;1600.0;722.0;68.0
+Apartamento;Barra da Tijuca;1;1;1;45;2375.0;1365.0;260.0
+Apartamento;Botafogo;1;1;0;45;1800.0;500.0;50.0
+Apartamento;Moneró;1;0;0;50;1100.0;360.0;49.0
+Apartamento;Lagoa;1;1;0;45;2300.0;1565.0;206.0
+Apartamento;Leblon;1;1;1;120;5000.0;3000.0;550.0
+Quitinete;Ipanema;1;0;0;37;1800.0;400.0;70.0
+Apartamento;Copacabana;1;1;0;40;6600.0;650.0;
+Quitinete;Copacabana;1;0;0;30;1300.0;435.0;
+Loft;Copacabana;1;0;0;32;2300.0;550.0;50.0
+Apartamento;Bonsucesso;1;0;0;35;850.0;;10.0
+Apartamento;Barra da Tijuca;1;1;0;56;1900.0;994.0;
+Flat;Barra da Tijuca;1;1;1;52;6000.0;2100.0;340.0
+Apartamento;Copacabana;1;0;1;32;1200.0;564.0;24.0
+Apartamento;Botafogo;1;1;0;50;1600.0;1080.0;160.0
+Quitinete;Copacabana;1;0;0;35;1800.0;350.0;57.0
+Apartamento;Barra da Tijuca;1;0;1;25;1625.0;735.0;140.0
+Apartamento;Leme;1;0;0;65;3000.0;590.0;90.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;0;0;60;2500.0;1260.0;370.0
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;550.0;;
+Apartamento;Botafogo;1;0;0;40;2000.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;51;1650.0;730.0;66.0
+Apartamento;Leme;1;0;0;50;1900.0;470.0;
+Apartamento;Barra da Tijuca;1;1;0;68;1700.0;1355.0;299.0
+Loft;Ipanema;1;0;0;36;2000.0;905.0;26.0
+Flat;Barra da Tijuca;1;1;1;71;2100.0;1660.0;181.0
+Apartamento;Copacabana;1;0;0;25;2800.0;;
+Apartamento;Botafogo;1;0;0;35;1000.0;293.0;86.0
+Apartamento;Andaraí;1;0;0;50;1300.0;420.0;
+Apartamento;Barra da Tijuca;1;1;0;80;2000.0;2000.0;
+Apartamento;Copacabana;1;0;0;60;1600.0;540.0;27.0
+Quitinete;Vargem Grande;1;0;0;35;800.0;230.0;
+Quitinete;Centro;1;0;0;35;650.0;398.0;
+Apartamento;Copacabana;1;0;0;51;1500.0;500.0;50.0
+Apartamento;Jardim Botânico;1;0;0;100;4700.0;;
+Apartamento;Barra da Tijuca;1;1;0;50;1350.0;1400.0;705.0
+Apartamento;Leblon;1;0;1;49;3500.0;536.0;
+Apartamento;Tijuca;1;0;0;40;1100.0;450.0;24.0
+Quitinete;Catete;1;0;0;30;2000.0;480.0;27.0
+Flat;Leblon;1;1;1;70;4300.0;2000.0;500.0
+Flat;Ipanema;1;1;1;40;5500.0;;
+Apartamento;Copacabana;1;0;0;35;1600.0;430.0;58.0
+Apartamento;Barra da Tijuca;1;0;0;57;2500.0;1800.0;
+Apartamento;Centro;1;0;0;36;1500.0;592.0;88.0
+Apartamento;Maracanã;1;0;0;50;1100.0;492.0;20.0
+Quitinete;Centro;1;0;0;30;750.0;330.0;25.0
+Apartamento;Jardim Botânico;1;1;0;72;3000.0;938.0;
+Flat;Barra da Tijuca;1;1;0;55;1800.0;3080.0;560.0
+Quitinete;Centro;1;0;0;25;700.0;292.0;24.0
+Quitinete;Botafogo;1;0;0;21;1000.0;350.0;291.0
+Apartamento;Ipanema;1;0;0;39;2600.0;649.0;
+Apartamento;Botafogo;1;1;1;45;2650.0;800.0;200.0
+Apartamento;Barra da Tijuca;1;1;0;65;1300.0;1050.0;150.0
+Apartamento;Maracanã;1;0;1;30;2500.0;230.0;
+Apartamento;Freguesia (Ilha do Governador);1;0;0;40;800.0;150.0;
+Quitinete;Copacabana;1;0;0;28;1000.0;567.0;
+Quitinete;Botafogo;1;0;0;20;1100.0;481.0;29.0
+Apartamento;Lagoa;1;1;0;70;3000.0;1135.0;260.0
+Apartamento;Jardim Botânico;1;1;1;60;2500.0;1400.0;110.0
+Quitinete;Flamengo;1;0;0;28;1300.0;350.0;25.0
+Apartamento;Tijuca;1;1;0;64;1850.0;738.0;123.0
+Apartamento;Copacabana;1;0;1;22;1500.0;490.0;37.0
+Apartamento;Praça da Bandeira;1;0;0;55;1300.0;150.0;36.0
+Quitinete;Centro;1;0;0;25;800.0;200.0;25.0
+Apartamento;Recreio dos Bandeirantes;1;0;0;50;900.0;100.0;62.0
+Apartamento;Oswaldo Cruz;1;1;0;50;650.0;227.0;
+Casa de Condomínio;Campo Grande;1;0;0;50;700.0;;
+Apartamento;Andaraí;1;1;0;60;1400.0;510.0;51.0
+Apartamento;Botafogo;1;1;1;60;3800.0;1275.0;80.0
+Quitinete;Botafogo;1;0;0;21;800.0;350.0;
+Apartamento;Copacabana;1;1;0;70;2500.0;765.0;
+Flat;Botafogo;1;1;0;50;2500.0;1250.0;
+Apartamento;Copacabana;1;0;0;36;1400.0;720.0;70.0
+Quitinete;Botafogo;1;0;0;28;1100.0;481.0;25.0
+Quitinete;Copacabana;1;0;0;25;1000.0;385.0;
+Loft;Leblon;1;1;1;60;4700.0;2000.0;
+Apartamento;Centro;1;0;0;40;1300.0;400.0;
+Apartamento;Barra da Tijuca;1;1;0;68;2500.0;1300.0;
+Apartamento;Leblon;1;1;0;30;3000.0;411.0;80.0
+Conjunto Comercial/Sala;Centro;1;0;0;25;700.0;321.0;107.0
+Apartamento;Centro;1;1;0;52;1500.0;550.0;60.0
+Apartamento;Jardim Sulacap;1;0;0;72;880.0;;13.0
+Apartamento;Santa Teresa;1;0;0;35;800.0;400.0;
+Apartamento;Centro;1;0;0;60;2000.0;500.0;
+Quitinete;Gardênia Azul;1;0;0;25;490.0;15.0;
+Apartamento;Ipanema;1;0;0;35;1600.0;315.0;30.0
+Apartamento;Ilha do Governador;1;0;0;45;1000.0;355.0;20.0
+Apartamento;Barra da Tijuca;1;1;1;67;1600.0;1641.0;358.0
+Apartamento;Copacabana;1;0;1;40;2800.0;500.0;
+Apartamento;Jardim Guanabara;1;1;0;65;1550.0;285.0;25.0
+Casa;Olaria;1;0;0;35;800.0;;
+Apartamento;Centro;1;0;0;56;1900.0;917.0;2004.0
+Apartamento;Copacabana;1;0;0;40;1500.0;;
+Apartamento;Copacabana;1;1;0;50;2500.0;585.0;94.0
+Quitinete;Ipanema;1;0;0;30;2400.0;455.0;133.0
+Apartamento;Copacabana;1;1;0;40;2000.0;580.0;75.0
+Quitinete;Centro;1;0;0;42;850.0;543.0;26.0
+Apartamento;Barra da Tijuca;1;1;0;40;3200.0;1680.0;
+Casa;Penha;1;0;0;27;800.0;;
+Quitinete;Copacabana;1;0;0;21;1700.0;470.0;291.0
+Apartamento;Copacabana;1;0;1;40;1800.0;168.0;118.0
+Apartamento;Copacabana;1;1;1;40;2500.0;748.0;670.0
+Apartamento;Copacabana;1;0;0;50;2300.0;610.0;
+Apartamento;Maracanã;1;1;1;55;1700.0;566.0;84.0
+Quitinete;Flamengo;1;0;0;20;1400.0;360.0;27.0
+Casa;Vaz Lobo;1;0;0;30;400.0;;
+Apartamento;Laranjeiras;1;0;0;55;2500.0;450.0;
+Casa de Vila;Engenho de Dentro;1;0;0;50;1000.0;90.0;
+Apartamento;Flamengo;1;0;1;79;2500.0;570.0;1530.0
+Casa;Vicente de Carvalho;1;0;0;32;500.0;;
+Apartamento;Barra da Tijuca;1;1;1;45;1300.0;900.0;50.0
+Apartamento;Vila Isabel;1;2;0;54;1200.0;479.0;48.0
+Apartamento;Vila Isabel;1;1;0;54;1800.0;682.0;49.0
+Apartamento;Leblon;1;0;0;35;2100.0;700.0;120.0
+Apartamento;Ipanema;1;0;1;40;3300.0;470.0;102.0
+Apartamento;Tijuca;1;1;0;60;1400.0;600.0;92.0
+Apartamento;Ipanema;1;0;0;32;1300.0;645.0;99.0
+Quitinete;Copacabana;1;0;0;45;1700.0;442.0;57.0
+Apartamento;Tijuca;1;1;0;40;1250.0;446.0;16.0
+Casa;Vicente de Carvalho;1;0;1;50;1000.0;;
+Apartamento;Ipanema;1;0;1;55;2790.0;420.0;90.0
+Apartamento;Campo Grande;1;0;0;50;439.0;;
+Apartamento;Praça da Bandeira;1;0;0;30;800.0;355.0;25.0
+Flat;Barra da Tijuca;1;1;0;55;2000.0;3080.0;560.0
+Conjunto Comercial/Sala;Recreio dos Bandeirantes;1;1;1;30;1200.0;300.0;112.0
+Apartamento;Pechincha;1;0;0;60;1100.0;347.0;55.0
+Apartamento;Barra da Tijuca;1;1;0;60;2100.0;3079.0;
+Apartamento;Leme;1;0;0;50;2100.0;425.0;26.0
+Flat;Ipanema;1;1;1;54;2600.0;2200.0;200.0
+Loft;Barra da Tijuca;1;1;1;60;2000.0;1350.0;200.0
+Apartamento;Santa Teresa;1;0;1;55;2490.0;520.0;95.0
+Quitinete;Centro;1;0;0;18;950.0;397.0;24.0
+Apartamento;Barra da Tijuca;1;1;1;90;2350.0;1300.0;273.0
+Quitinete;Botafogo;1;0;1;21;1600.0;375.0;242.0
+Apartamento;Laranjeiras;1;0;0;49;1800.0;392.0;25.0
+Apartamento;Cachambi;1;0;0;40;800.0;150.0;
+Apartamento;Botafogo;1;0;0;35;1300.0;439.0;23.0
+Quitinete;Botafogo;1;0;0;18;1200.0;456.0;25.0
+Quitinete;Grajaú;1;0;0;40;900.0;250.0;10.0
+Flat;Barra da Tijuca;1;1;0;48;3400.0;1200.0;330.0
+Quitinete;Centro;1;0;0;25;1750.0;;
+Apartamento;Grajaú;1;0;1;50;1500.0;20.0;50.0
+Apartamento;Barra da Tijuca;1;0;0;65;2800.0;903.0;
+Flat;Lagoa;1;1;0;55;2800.0;1700.0;300.0
+Apartamento;Glória;1;0;0;30;1100.0;361.0;24.0
+Quitinete;Flamengo;1;0;0;22;1400.0;480.0;53.0
+Quitinete;Glória;1;0;0;35;1100.0;495.0;
+Quitinete;Estácio;1;0;0;18;600.0;150.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;58;1700.0;1100.0;
+Casa;Inhoaíba;1;0;0;50;600.0;;
+Apartamento;Copacabana;1;0;0;42;1400.0;650.0;50.0
+Apartamento;Lapa;1;0;0;45;1500.0;500.0;180.0
+Apartamento;Barra da Tijuca;1;1;0;65;3000.0;1603.0;
+Apartamento;Copacabana;1;0;0;35;2300.0;;
+Apartamento;Centro;1;0;0;40;1500.0;400.0;24.0
+Apartamento;Rio Comprido;1;1;0;40;1200.0;352.0;340.0
+Apartamento;Copacabana;1;0;1;35;1800.0;560.0;68.0
+Quitinete;Copacabana;1;0;0;30;1000.0;488.0;54.0
+Apartamento;São Conrado;1;2;1;105;6500.0;2014.0;629.0
+Apartamento;Botafogo;1;0;0;37;1500.0;400.0;53.0
+Studio;Santa Teresa;1;1;0;25;1600.0;600.0;90.0
+Apartamento;Botafogo;1;0;0;36;1300.0;616.0;57.0
+Quitinete;Botafogo;1;0;0;18;1000.0;436.0;25.0
+Apartamento;Copacabana;1;0;0;60;2300.0;550.0;86.0
+Apartamento;Ipanema;1;1;1;74;6500.0;3561.0;465.0
+Apartamento;Centro;1;0;0;45;2000.0;633.0;779.0
+Flat;Copacabana;1;1;1;55;2300.0;1500.0;130.0
+Apartamento;Cachambi;1;1;0;45;700.0;210.0;
+Conjunto Comercial/Sala;Barra da Tijuca;1;8;0;250;12000.0;10068.0;2513.0
+Apartamento;Tijuca;1;0;0;40;1500.0;611.0;24.0
+Apartamento;Botafogo;1;1;0;40;2990.0;1020.0;183.0
+Apartamento;Méier;1;0;0;40;1100.0;500.0;13.0
+Apartamento;Penha;1;0;0;50;900.0;250.0;
+Apartamento;Jacarepaguá;1;1;1;42;1200.0;720.0;30.0
+Apartamento;Botafogo;1;1;1;45;2600.0;1100.0;180.0
+Apartamento;Botafogo;1;0;0;34;1200.0;506.0;54.0
+Apartamento;Barra da Tijuca;1;1;0;73;1500.0;1200.0;237.0
+Apartamento;Humaitá;1;1;0;34;2500.0;333.0;
+Apartamento;Tijuca;1;0;0;50;1200.0;600.0;48.0
+Flat;Copacabana;1;1;0;55;2500.0;1200.0;
+Apartamento;Andaraí;1;0;0;40;1000.0;340.0;190.0
+Apartamento;Copacabana;1;0;0;18;1500.0;;
+Apartamento;Todos os Santos;1;1;1;48;1000.0;490.0;
+Apartamento;Barra da Tijuca;1;1;0;84;2000.0;1300.0;
+Apartamento;Engenho de Dentro;1;0;0;30;300.0;50.0;
+Apartamento;Barra da Tijuca;1;1;1;39;1500.0;439.0;
+Quitinete;Leblon;1;0;0;50;1700.0;560.0;62.0
+Casa de Vila;Ramos;1;0;0;40;750.0;;
+Apartamento;Jacarepaguá;1;0;0;30;550.0;18.0;8.0
+Quitinete;Catete;1;0;0;24;1100.0;357.0;
+Apartamento;Barra da Tijuca;1;1;1;73;1300.0;1015.0;149.0
+Apartamento;Campo Grande;1;0;0;50;500.0;;
+Apartamento;Copacabana;1;0;0;28;1100.0;450.0;54.0
+Quitinete;Centro;1;0;0;40;1000.0;275.0;20.0
+Apartamento;Praça da Bandeira;1;0;0;38;1200.0;128.0;25.0
+Quitinete;Taquara;1;0;0;20;500.0;;
+Apartamento;Botafogo;1;0;0;40;2300.0;402.0;
+Flat;Leblon;1;0;0;65;4000.0;1820.0;193.0
+Apartamento;Flamengo;1;0;0;30;1400.0;370.0;
+Apartamento;Botafogo;1;0;0;60;2200.0;645.0;1100.0
+Flat;Leblon;1;1;1;50;7000.0;;
+Casa;Santa Teresa;1;0;0;22;500.0;98.0;6.0
+Flat;Lagoa;1;1;0;55;2700.0;1900.0;300.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;50;1200.0;590.0;37.0
+Apartamento;Centro;1;0;0;30;800.0;400.0;
+Quitinete;Catete;1;0;0;27;1800.0;420.0;
+Apartamento;Praça da Bandeira;1;0;0;39;900.0;437.0;
+Apartamento;Ipanema;1;0;1;40;3500.0;750.0;50.0
+Apartamento;Barra da Tijuca;1;1;1;60;2900.0;2000.0;500.0
+Flat;Barra da Tijuca;1;1;0;52;2200.0;3000.0;350.0
+Apartamento;Catete;1;0;1;36;1600.0;416.0;
+Apartamento;Lapa;1;0;0;22;1800.0;;
+Apartamento;Santa Teresa;1;0;0;49;660.0;235.0;14.0
+Apartamento;Barra da Tijuca;1;1;0;70;1800.0;967.0;214.0
+Quitinete;Largo do Machado;1;0;0;35;1900.0;285.0;17.0
+Apartamento;Glória;1;0;0;49;1400.0;477.0;242.0
+Quitinete;Copacabana;1;0;0;21;700.0;508.0;
+Casa de Vila;Água Santa;1;0;0;40;600.0;100.0;14.0
+Apartamento;Barra da Tijuca;1;1;0;65;1600.0;915.0;235.0
+Flat;Copacabana;1;0;0;60;4000.0;;
+Apartamento;Tijuca;1;1;0;65;1250.0;790.0;81.0
+Apartamento;Botafogo;1;1;0;62;2000.0;770.0;94.0
+Apartamento;Flamengo;1;0;0;34;1800.0;418.0;56.0
+Apartamento;Copacabana;1;0;0;35;2000.0;;
+Apartamento;Botafogo;1;0;1;65;2400.0;507.0;76.0
+Apartamento;Tijuca;1;0;0;34;1400.0;228.0;24.0
+Apartamento;Leblon;1;2;0;130;8500.0;1920.0;356.0
+Apartamento;Tijuca;1;1;0;48;1400.0;556.0;46.0
+Apartamento;Barra da Tijuca;1;1;0;70;2700.0;900.0;172.0
+Apartamento;Centro;1;0;0;25;1000.0;321.0;24.0
+Apartamento;Copacabana;1;0;0;35;1700.0;480.0;
+Apartamento;Tijuca;1;0;1;70;1200.0;300.0;25.0
+Apartamento;Lagoa;1;1;0;50;3000.0;1600.0;380.0
+Quitinete;Centro;1;0;0;23;1290.0;326.0;136.0
+Apartamento;Barra da Tijuca;1;0;1;90;4000.0;3067.0;275.0
+Apartamento;Rocha Miranda;1;1;0;35;699.0;99.0;
+Apartamento;Centro;1;1;0;42;2400.0;600.0;150.0
+Quitinete;Botafogo;1;0;0;25;1350.0;206.0;
+Casa de Condomínio;Jacarepaguá;1;0;0;230;2750.0;300.0;400.0
+Apartamento;Leblon;1;0;0;50;2000.0;948.0;151.0
+Apartamento;Copacabana;1;0;0;41;3500.0;;
+Apartamento;Copacabana;1;0;1;35;2000.0;600.0;
+Apartamento;Botafogo;1;0;0;29;1200.0;366.0;53.0
+Apartamento;Ipanema;1;0;1;60;3200.0;675.0;90.0
+Apartamento;Flamengo;1;1;0;80;3300.0;1000.0;200.0
+Casa;Campo Grande;1;0;0;50;450.0;;2.0
+Apartamento;Botafogo;1;0;0;40;2380.0;390.0;54.0
+Apartamento;Pechincha;1;1;0;46;800.0;585.0;
+Apartamento;Catete;1;0;0;39;1580.0;595.0;24.0
+Apartamento;Copacabana;1;0;0;92;5100.0;;
+Loft;Urca;1;0;0;45;1700.0;360.0;40.0
+Quitinete;Centro;1;0;0;30;800.0;400.0;23.0
+Apartamento;Copacabana;1;0;0;44;1600.0;562.0;24.0
+Casa de Vila;Glória;1;0;0;89;2200.0;;80.0
+Apartamento;Barra da Tijuca;1;1;0;55;1800.0;1300.0;331.0
+Apartamento;Copacabana;1;0;0;40;2600.0;490.0;250.0
+Apartamento;Centro;1;0;0;20;1000.0;216.0;21.0
+Apartamento;Catete;1;1;0;48;1900.0;725.0;
+Apartamento;Realengo;1;0;0;60;700.0;;
+Quitinete;Centro;1;0;0;27;800.0;450.0;15.0
+Apartamento;Praça da Bandeira;1;0;0;50;1600.0;;
+Apartamento;Praça da Bandeira;1;0;0;35;1090.0;450.0;25.0
+Apartamento;Ipanema;1;0;0;35;1300.0;798.0;82.0
+Casa;Barra da Tijuca;1;0;0;130;5000.0;;
+Apartamento;Ramos;1;0;0;45;600.0;240.0;
+Apartamento;Copacabana;1;0;0;35;3000.0;700.0;80.0
+Apartamento;Tijuca;1;0;0;33;1000.0;515.0;14.0
+Conjunto Comercial/Sala;Tijuca;1;1;0;41;2000.0;388.0;
+Apartamento;Barra da Tijuca;1;1;0;61;1800.0;1030.0;203.0
+Apartamento;Tijuca;1;0;0;58;1500.0;426.0;4810.0
+Apartamento;Barra da Tijuca;1;1;0;36;1600.0;630.0;
+Apartamento;Ipanema;1;0;0;70;2700.0;815.0;2315.0
+Apartamento;Ipanema;1;0;0;40;1800.0;700.0;100.0
+Casa de Vila;Pavuna;1;0;0;30;450.0;20.0;50.0
+Apartamento;Centro;1;0;0;96;2500.0;660.0;100.0
+Apartamento;Flamengo;1;0;0;50;1700.0;480.0;250.0
+Apartamento;Campo Grande;1;1;0;40;500.0;182.0;
+Casa de Vila;Bento Ribeiro;1;0;0;53;700.0;40.0;
+Apartamento;Copacabana;1;0;1;45;1400.0;552.0;66.0
+Apartamento;Centro;1;0;0;55;950.0;433.0;47.0
+Apartamento;Botafogo;1;0;0;29;1390.0;400.0;
+Apartamento;Copacabana;1;0;0;50;3000.0;;
+Quitinete;Fátima;1;0;0;35;900.0;310.0;25.0
+Quitinete;Tijuca;1;1;0;33;1500.0;415.0;159.0
+Apartamento;Ipanema;1;1;1;131;6400.0;1650.0;280.0
+Quitinete;Ipanema;1;0;0;23;1500.0;700.0;27.0
+Apartamento;Ipanema;1;8;1;97;8000.0;1800.0;250.0
+Apartamento;Centro;1;0;0;34;800.0;424.0;25.0
+Apartamento;Campo Grande;1;1;0;50;500.0;180.0;
+Apartamento;Gávea;1;1;1;60;2700.0;929.0;214.0
+Apartamento;Barra da Tijuca;1;1;0;68;1500.0;875.0;210.0
+Apartamento;Gávea;1;0;0;33;1700.0;731.0;61.0
+Apartamento;Copacabana;1;0;0;35;1700.0;695.0;114.0
+Apartamento;Honório Gurgel;1;0;0;80;750.0;;
+Apartamento;Copacabana;1;0;0;47;2300.0;720.0;30.0
+Apartamento;Botafogo;1;0;0;35;1000.0;293.0;86.0
+Quitinete;Botafogo;1;0;0;25;1100.0;570.0;
+Apartamento;Colégio;1;0;0;45;660.0;;
+Apartamento;Leme;1;0;0;40;1500.0;650.0;68.0
+Apartamento;Vila Isabel;1;0;0;65;1800.0;155.0;70.0
+Apartamento;Botafogo;1;0;0;52;1500.0;1000.0;27.0
+Apartamento;Tijuca;1;0;0;25;1450.0;485.0;25.0
+Apartamento;Copacabana;1;1;0;50;2200.0;1250.0;150.0
+Apartamento;Copacabana;1;0;0;30;1200.0;513.0;25.0
+Flat;Ipanema;1;1;1;43;2500.0;2117.0;304.0
+Apartamento;Ipanema;1;1;0;35;2300.0;1200.0;
+Conjunto Comercial/Sala;São Cristóvão;1;1;0;22;980.0;400.0;
+Casa Comercial;Botafogo;1;5;0;563;18000.0;;1600.0
+Apartamento;Copacabana;1;0;0;30;1200.0;440.0;60.0
+Casa;Campo Grande;1;0;0;70;700.0;;
+Apartamento;Centro;1;1;0;45;2300.0;600.0;88.0
+Apartamento;Glória;1;0;0;48;1600.0;480.0;30.0
+Apartamento;Centro;1;0;0;29;1300.0;336.0;20.0
+Apartamento;Catete;1;0;0;47;1600.0;650.0;53.0
+Apartamento;Cachambi;1;1;0;35;800.0;407.0;
+Apartamento;Gávea;1;0;1;145;6000.0;1000.0;350.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;55;900.0;395.0;88.0
+Apartamento;Copacabana;1;0;0;52;3500.0;2055.0;
+Casa;Rocha Miranda;1;2;0;47;850.0;;
+Loft;Flamengo;1;0;0;51;2800.0;567.0;86.0
+Apartamento;Leblon;1;1;1;75;3000.0;968.0;154.0
+Apartamento;Copacabana;1;0;0;40;2800.0;;
+Casa de Vila;Turiaçu;1;0;0;50;900.0;;
+Apartamento;Centro;1;0;0;55;2000.0;350.0;75.0
+Apartamento;Ipanema;1;0;0;46;2800.0;700.0;850.0
+Apartamento;Ilha do Governador;1;0;0;35;750.0;;60.0
+Apartamento;Méier;1;1;0;63;1300.0;400.0;13.0
+Quitinete;Botafogo;1;0;0;27;1400.0;258.0;24.0
+Apartamento;Catete;1;0;1;34;1000.0;400.0;53.0
+Apartamento;Copacabana;1;0;0;50;1500.0;658.0;74.0
+Quitinete;Flamengo;1;0;0;26;1500.0;360.0;35.0
+Apartamento;Copacabana;1;0;0;32;1400.0;448.0;25.0
+Apartamento;Copacabana;1;0;0;20;1200.0;330.0;29.0
+Apartamento;Flamengo;1;0;0;38;1300.0;505.0;59.0
+Apartamento;Flamengo;1;0;0;40;1950.0;200.0;67.0
+Quitinete;Copacabana;1;1;0;24;1100.0;341.0;22.0
+Apartamento;Copacabana;1;0;0;30;1500.0;900.0;25.0
+Apartamento;Flamengo;1;0;0;31;1200.0;366.0;179.0
+Flat;Copacabana;1;1;0;50;2000.0;1250.0;160.0
+Casa;Jardim América;1;0;0;45;500.0;;
+Apartamento;Gávea;1;1;0;71;2500.0;850.0;180.0
+Apartamento;Flamengo;1;0;0;36;2000.0;500.0;189.0
+Apartamento;Copacabana;1;0;0;30;2800.0;;
+Casa de Vila;Vila Militar;1;0;0;30;500.0;;
+Quitinete;Copacabana;1;0;0;32;1100.0;530.0;28.0
+Apartamento;Copacabana;1;0;0;40;2300.0;440.0;25.0
+Flat;Ipanema;1;1;1;85;2375.0;2000.0;3000.0
+Apartamento;Lapa;1;0;0;30;1100.0;420.0;
+Casa de Vila;Padre Miguel;1;0;0;40;670.0;;2.0
+Apartamento;Flamengo;1;0;0;70;2000.0;400.0;84.0
+Apartamento;Centro;1;0;0;30;1000.0;394.0;20.0
+Casa de Vila;Pilares;1;0;0;24;500.0;8.0;13.0
+Quitinete;Pedra de Guaratiba;1;0;0;70;400.0;;
+Casa;Maria da Graça;1;0;0;40;900.0;;
+Apartamento;Vila Isabel;1;0;0;36;1050.0;385.0;
+Conjunto Comercial/Sala;Tijuca;1;1;0;30;1300.0;520.0;
+Loja/Salão;Centro;1;0;0;200;25000.0;4000.0;
+Quitinete;Copacabana;1;0;0;42;2000.0;370.0;26.0
+Flat;Ipanema;1;1;0;49;2000.0;2411.0;3024.0
+Apartamento;Barra da Tijuca;1;1;1;67;3000.0;678.0;
+Apartamento;Barra da Tijuca;1;1;0;76;2000.0;1300.0;190.0
+Loft;Barra da Tijuca;1;1;0;56;2200.0;1719.0;322.0
+Apartamento;Flamengo;1;0;0;34;1500.0;408.0;54.0
+Quitinete;Centro;1;0;0;21;800.0;306.0;
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;500.0;;
+Apartamento;Copacabana;1;0;0;50;1800.0;564.0;73.0
+Apartamento;Flamengo;1;11;0;60;2100.0;840.0;950.0
+Apartamento;Leme;1;0;0;60;2600.0;600.0;55.0
+Apartamento;Leme;1;0;0;45;1500.0;430.0;
+Flat;Botafogo;1;1;0;55;2800.0;1116.0;100.0
+Apartamento;Barra da Tijuca;1;1;1;52;6000.0;2430.0;166.0
+Apartamento;Leblon;1;0;0;39;1800.0;215.0;
+Quitinete;Santa Teresa;1;0;0;30;500.0;;31.0
+Apartamento;Copacabana;1;0;1;40;1900.0;730.0;70.0
+Loft;Ipanema;1;0;0;40;3550.0;600.0;303.0
+Apartamento;Ipanema;1;0;1;56;3200.0;495.0;
+Apartamento;Campo Grande;1;0;0;21;330.0;;
+Apartamento;Botafogo;1;0;0;50;1700.0;500.0;69.0
+Apartamento;Jacarepaguá;1;1;1;42;1200.0;750.0;40.0
+Apartamento;Flamengo;1;0;0;45;1300.0;400.0;68.0
+Apartamento;Ipanema;1;1;1;66;6500.0;1060.0;
+Casa;Pavuna;1;0;0;40;550.0;;
+Flat;Barra da Tijuca;1;1;0;56;3000.0;1200.0;300.0
+Casa Comercial;Botafogo;1;4;0;450;22000.0;;3142.0
+Apartamento;Laranjeiras;1;0;0;59;1900.0;580.0;
+Apartamento;Barra da Tijuca;1;1;1;78;1900.0;1100.0;180.0
+Apartamento;Botafogo;1;0;0;36;1400.0;400.0;148.0
+Apartamento;Barra da Tijuca;1;1;0;67;1700.0;880.0;142.0
+Apartamento;Copacabana;1;0;0;55;1500.0;700.0;
+Quitinete;Copacabana;1;0;0;18;1000.0;530.0;25.0
+Apartamento;Olaria;1;1;0;60;860.0;555.0;80.0
+Apartamento;Santa Teresa;1;0;0;47;1350.0;495.0;32.0
+Apartamento;Barra da Tijuca;1;1;0;69;2000.0;1500.0;290.0
+Quitinete;Irajá;1;0;0;30;500.0;;
+Apartamento;Leblon;1;0;0;48;1600.0;526.0;95.0
+Apartamento;Maracanã;1;0;0;48;1400.0;300.0;
+Casa;Abolição;1;0;0;50;1100.0;;18.0
+Apartamento;Senador Vasconcelos;1;1;1;50;800.0;180.0;
+Apartamento;Barra da Tijuca;1;1;0;71;4500.0;;
+Quitinete;Botafogo;1;0;0;25;1500.0;360.0;
+Apartamento;Copacabana;1;0;0;50;2000.0;900.0;156.0
+Flat;Leblon;1;1;1;45;4500.0;1860.0;120.0
+Apartamento;Santa Teresa;1;0;1;45;2090.0;520.0;95.0
+Quitinete;Copacabana;1;0;0;28;1000.0;387.0;24.0
+Apartamento;Copacabana;1;0;0;40;2100.0;400.0;
+Quitinete;Botafogo;1;0;0;28;950.0;290.0;27.0
+Apartamento;Engenho Novo;1;1;0;62;650.0;612.0;
+Apartamento;Tijuca;1;0;0;50;1250.0;500.0;50.0
+Quitinete;Flamengo;1;0;0;18;890.0;300.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;58;1600.0;534.0;85.0
+Apartamento;Marechal Hermes;1;0;0;50;800.0;200.0;
+Apartamento;Flamengo;1;0;0;35;1950.0;450.0;20.0
+Apartamento;Ipanema;1;1;0;62;4800.0;1304.0;
+Apartamento;Santa Teresa;1;1;0;40;1350.0;510.0;35.0
+Apartamento;Barra da Tijuca;1;1;0;70;1650.0;1050.0;151.0
+Apartamento;Botafogo;1;1;0;65;2200.0;1382.0;110.0
+Quitinete;Glória;1;0;0;26;900.0;402.0;
+Quitinete;Piedade;1;0;0;35;670.0;;
+Flat;Botafogo;1;0;0;55;2800.0;1171.0;1195.0
+Quitinete;Ipanema;1;0;1;45;2200.0;560.0;50.0
+Casa de Vila;Campo Grande;1;0;0;50;550.0;;
+Apartamento;Recreio dos Bandeirantes;1;1;0;50;2100.0;860.0;
+Apartamento;Gávea;1;1;0;50;2500.0;810.0;131.0
+Quitinete;Copacabana;1;0;0;23;1200.0;430.0;25.0
+Apartamento;Centro;1;0;0;37;1200.0;310.0;21.0
+Flat;Leblon;1;0;0;56;4300.0;1800.0;
+Apartamento;Riachuelo;1;0;0;35;850.0;;
+Apartamento;Praça Seca;1;1;0;37;500.0;322.0;
+Apartamento;Copacabana;1;0;0;35;5000.0;;
+Quitinete;Copacabana;1;0;0;25;1100.0;431.0;30.0
+Flat;Copacabana;1;1;0;55;2200.0;1400.0;135.0
+Flat;Ipanema;1;1;0;50;2500.0;1581.0;
+Apartamento;Barra da Tijuca;1;1;0;67;3500.0;1300.0;
+Apartamento;Ipanema;1;0;0;48;2100.0;586.0;155.0
+Apartamento;Copacabana;1;0;1;46;1499.0;660.0;68.0
+Apartamento;Botafogo;1;0;0;48;1600.0;500.0;25.0
+Apartamento;Andaraí;1;0;0;42;900.0;447.0;20.0
+Conjunto Comercial/Sala;Curicica;1;1;0;18;990.0;277.0;
+Apartamento;Copacabana;1;0;0;40;1400.0;958.0;25.0
+Quitinete;Leblon;1;0;0;30;1600.0;560.0;29.0
+Apartamento;Leblon;1;1;0;81;5500.0;1520.0;509.0
+Apartamento;Copacabana;1;0;0;45;2000.0;396.0;
+Apartamento;Copacabana;1;0;0;59;1800.0;600.0;125.0
+Apartamento;Centro;1;0;0;43;1000.0;400.0;18.0
+Apartamento;Lins de Vasconcelos;1;1;1;98;800.0;913.0;82.0
+Quitinete;Urca;1;0;0;35;1300.0;300.0;
+Flat;Copacabana;1;0;0;61;2800.0;1600.0;220.0
+Quitinete;Botafogo;1;0;0;25;1600.0;450.0;30.0
+Apartamento;Barra da Tijuca;1;1;0;58;1400.0;1624.0;314.0
+Loft;Copacabana;1;1;1;46;3000.0;;
+Apartamento;Ipanema;1;0;0;34;1500.0;404.0;28.0
+Apartamento;Barra da Tijuca;1;1;1;70;2200.0;950.0;120.0
+Casa;Senador Vasconcelos;1;0;0;40;700.0;;
+Apartamento;Flamengo;1;0;0;77;1700.0;811.0;98.0
+Apartamento;Barra da Tijuca;1;1;1;84;4000.0;1950.0;380.0
+Apartamento;Catete;1;1;0;35;2500.0;520.0;25.0
+Apartamento;Copacabana;1;0;0;35;1700.0;335.0;
+Apartamento;Higienópolis;1;0;0;30;850.0;;
+Apartamento;Centro;1;0;0;35;1350.0;460.0;
+Apartamento;Flamengo;1;0;0;44;1800.0;486.0;57.0
+Apartamento;Glória;1;0;0;42;1500.0;450.0;50.0
+Apartamento;Flamengo;1;0;0;42;1650.0;610.0;
+Apartamento;Botafogo;1;1;0;90;3600.0;1030.0;350.0
+Apartamento;Copacabana;1;0;0;40;2500.0;;
+Quitinete;Catete;1;0;0;24;1200.0;450.0;24.0
+Quitinete;Copacabana;1;0;0;25;1000.0;490.0;56.0
+Apartamento;Flamengo;1;1;0;50;2500.0;490.0;26.0
+Quitinete;Copacabana;1;0;0;35;2400.0;500.0;250.0
+Apartamento;Glória;1;0;0;43;1500.0;510.0;48.0
+Quitinete;Flamengo;1;0;0;23;1100.0;348.0;30.0
+Apartamento;Méier;1;1;0;40;900.0;657.0;
+Apartamento;Barra da Tijuca;1;1;0;74;1600.0;1067.0;
+Apartamento;Copacabana;1;0;0;40;2000.0;510.0;
+Apartamento;Tijuca;1;1;0;65;1700.0;501.0;
+Quitinete;Centro;1;0;0;31;1100.0;480.0;
+Apartamento;Barra da Tijuca;1;1;1;60;1800.0;543.0;1100.0
+Apartamento;Copacabana;1;0;0;35;1200.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;33;1400.0;561.0;29.0
+Flat;Laranjeiras;1;1;0;39;2600.0;970.0;94.0
+Apartamento;Botafogo;1;0;0;19;980.0;481.0;29.0
+Apartamento;Andaraí;1;1;1;80;1500.0;684.0;85.0
+Apartamento;Santa Teresa;1;0;0;50;1800.0;340.0;120.0
+Casa;Piedade;1;0;0;30;650.0;;
+Quitinete;Leme;1;0;0;36;1600.0;550.0;24.0
+Flat;Botafogo;1;1;1;45;1800.0;1070.0;169.0
+Apartamento;Copacabana;1;0;0;35;1350.0;650.0;
+Apartamento;Copacabana;1;2;0;60;3100.0;1001.0;191.0
+Apartamento;Vila Isabel;1;0;0;50;1000.0;400.0;
+Apartamento;Copacabana;1;0;0;46;1600.0;423.0;95.0
+Quitinete;Ipanema;1;0;0;28;2000.0;300.0;25.0
+Apartamento;Flamengo;1;0;0;42;1700.0;435.0;24.0
+Quitinete;Centro;1;0;0;30;1100.0;440.0;24.0
+Quitinete;Copacabana;1;0;0;35;2400.0;612.0;
+Apartamento;Centro;1;0;0;32;1000.0;450.0;30.0
+Apartamento;Leblon;1;0;0;25;1650.0;390.0;27.0
+Apartamento;Praça Seca;1;1;0;41;800.0;320.0;20.0
+Apartamento;Barra da Tijuca;1;1;0;65;2200.0;890.0;133.0
+Apartamento;Tijuca;1;1;0;57;1200.0;690.0;21.0
+Apartamento;Copacabana;1;0;0;38;1800.0;655.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;40;1500.0;475.0;900.0
+Apartamento;Barra da Tijuca;1;1;0;60;2500.0;1200.0;270.0
+Apartamento;Leblon;1;0;1;58;4000.0;258.0;120.0
+Apartamento;Copacabana;1;0;0;50;2200.0;459.0;76.0
+Apartamento;Barra da Tijuca;1;1;0;55;1900.0;1400.0;285.0
+Apartamento;Copacabana;1;0;0;36;2600.0;520.0;71.0
+Quitinete;Catete;1;0;0;24;1000.0;474.0;29.0
+Apartamento;Jacarepaguá;1;0;0;53;1000.0;363.0;13.0
+Apartamento;Copacabana;1;0;0;50;1800.0;629.0;119.0
+Apartamento;Centro;1;0;0;41;800.0;384.0;17.0
+Apartamento;Botafogo;1;1;1;45;2600.0;1000.0;
+Apartamento;Honório Gurgel;1;0;0;80;750.0;;
+Apartamento;Penha;1;0;0;75;1500.0;;
+Apartamento;Flamengo;1;0;0;46;1500.0;480.0;58.0
+Apartamento;Tijuca;1;0;0;50;1500.0;511.0;
+Quitinete;Copacabana;1;0;0;30;1650.0;340.0;291.0
+Apartamento;Braz de Pina;1;0;0;30;850.0;;
+Apartamento;Catete;1;1;0;63;1400.0;500.0;
+Apartamento;Jacarepaguá;1;0;0;37;1100.0;308.0;16.0
+Apartamento;Botafogo;1;1;0;42;1800.0;499.0;58.0
+Apartamento;Copacabana;1;0;0;40;1900.0;600.0;70.0
+Apartamento;Leblon;1;0;1;60;3950.0;730.0;
+Apartamento;Andaraí;1;1;0;50;1000.0;464.0;25.0
+Quitinete;Copacabana;1;0;0;28;1250.0;521.0;25.0
+Apartamento;Copacabana;1;1;0;45;4000.0;;
+Apartamento;Copacabana;1;0;0;55;1900.0;564.0;68.0
+Apartamento;Anil;1;0;0;30;550.0;13.0;8.0
+Apartamento;Copacabana;1;0;0;40;1700.0;450.0;
+Apartamento;Leblon;1;1;0;60;3500.0;612.0;151.0
+Apartamento;Guadalupe;1;0;0;60;700.0;;
+Quitinete;Tijuca;1;0;1;26;800.0;483.0;24.0
+Apartamento;Barra da Tijuca;1;2;0;68;2200.0;851.0;
+Flat;Barra da Tijuca;1;1;1;55;4500.0;2803.0;299.0
+Quitinete;Botafogo;1;0;0;35;1700.0;450.0;50.0
+Quitinete;Copacabana;1;0;0;40;1300.0;380.0;
+Apartamento;Laranjeiras;1;1;0;82;1500.0;1130.0;
+Apartamento;Vila da Penha;1;0;0;48;750.0;245.0;
+Apartamento;Catete;1;0;0;30;2500.0;;
+Apartamento;Méier;1;1;0;42;900.0;405.0;17.0
+Quitinete;Flamengo;1;0;0;26;950.0;420.0;25.0
+Flat;Lagoa;1;1;1;65;3000.0;1549.0;476.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;80;1700.0;460.0;158.0
+Quitinete;Copacabana;1;0;0;30;1180.0;455.0;70.0
+Loft;Copacabana;1;0;0;30;2400.0;;
+Apartamento;Copacabana;1;0;0;44;1850.0;500.0;
+Apartamento;Tijuca;1;0;0;50;1300.0;450.0;60.0
+Quitinete;Botafogo;1;0;0;21;900.0;350.0;24.0
+Apartamento;Tijuca;1;0;0;39;1400.0;450.0;47.0
+Apartamento;Centro;1;0;0;33;750.0;486.0;25.0
+Apartamento;Copacabana;1;0;0;31;1200.0;640.0;69.0
+Flat;Barra da Tijuca;1;1;0;58;2800.0;1600.0;340.0
+Quitinete;Copacabana;1;0;0;35;1300.0;470.0;25.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;2;0;60;2000.0;2250.0;309.0
+Apartamento;Glória;1;0;0;45;1300.0;435.0;159.0
+Flat;Copacabana;1;1;1;65;6000.0;1640.0;250.0
+Apartamento;Barra da Tijuca;1;1;0;60;1800.0;1350.0;350.0
+Apartamento;Méier;1;1;0;45;800.0;200.0;50.0
+Quitinete;Glória;1;0;0;32;1200.0;680.0;55.0
+Apartamento;Barra da Tijuca;1;1;0;65;600000.0;980.0;120.0
+Apartamento;Tijuca;1;0;1;36;1200.0;458.0;20.0
+Apartamento;Glória;1;0;0;43;1000.0;503.0;15.0
+Loft;Copacabana;1;0;0;31;1800.0;520.0;25.0
+Apartamento;Flamengo;1;0;0;40;2000.0;450.0;56.0
+Apartamento;Pechincha;1;0;0;46;800.0;545.0;14.0
+Apartamento;Pedra de Guaratiba;1;0;0;42;580.0;;
+Apartamento;Tijuca;1;0;0;39;1300.0;250.0;
+Apartamento;Copacabana;1;0;1;50;1900.0;600.0;55.0
+Apartamento;Barra da Tijuca;1;1;0;42;800.0;758.0;
+Apartamento;Engenho Novo;1;1;0;40;1200.0;505.0;17.0
+Apartamento;Leblon;1;1;1;75;4100.0;1100.0;296.0
+Apartamento;Tijuca;1;1;0;52;1400.0;375.0;
+Apartamento;Copacabana;1;0;0;55;1800.0;585.0;90.0
+Apartamento;Barra da Tijuca;1;1;1;51;5000.0;2700.0;
+Quitinete;Centro;1;0;0;30;750.0;350.0;
+Apartamento;Tijuca;1;0;0;39;1400.0;450.0;47.0
+Apartamento;Leblon;1;0;0;50;2650.0;530.0;136.0
+Quitinete;Copacabana;1;0;0;30;1300.0;350.0;250.0
+Apartamento;Copacabana;1;0;1;50;1700.0;530.0;24.0
+Casa de Vila;Ramos;1;0;0;40;500.0;;
+Flat;Humaitá;1;1;1;75;3000.0;1562.0;196.0
+Casa;Campo Grande;1;0;0;65;600.0;;
+Quitinete;Copacabana;1;0;0;25;1200.0;550.0;54.0
+Apartamento;Copacabana;1;0;0;50;1700.0;650.0;25.0
+Flat;Barra da Tijuca;1;1;1;45;4300.0;;
+Apartamento;Botafogo;1;0;0;60;1800.0;636.0;28.0
+Apartamento;Vila Isabel;1;0;0;41;1100.0;390.0;24.0
+Casa;Campo Grande;1;0;0;50;550.0;;
+Apartamento;Copacabana;1;0;0;50;1800.0;750.0;50.0
+Apartamento;Leblon;1;0;1;61;4700.0;830.0;130.0
+Flat;Barra da Tijuca;1;1;0;55;2200.0;1100.0;295.0
+Quitinete;Leme;1;0;0;31;1200.0;450.0;553.0
+Apartamento;Laranjeiras;1;0;0;26;1400.0;455.0;30.0
+Apartamento;Botafogo;1;1;0;63;2000.0;1382.0;
+Casa;Irajá;1;1;0;45;800.0;;
+Apartamento;Copacabana;1;1;0;50;2200.0;1250.0;150.0
+Apartamento;Barra da Tijuca;1;0;1;80;2600.0;1000.0;
+Apartamento;Leblon;1;1;1;108;5950.0;1000.0;283.0
+Quitinete;Copacabana;1;0;0;30;1200.0;320.0;54.0
+Apartamento;Copacabana;1;0;0;44;1500.0;580.0;76.0
+Apartamento;Tijuca;1;1;0;50;1380.0;430.0;22.0
+Quitinete;Centro;1;0;0;28;1700.0;320.0;202.0
+Quitinete;Tijuca;1;0;0;30;990.0;;
+Apartamento;Copacabana;1;1;0;50;2800.0;1150.0;115.0
+Apartamento;Botafogo;1;0;0;23;850.0;581.0;30.0
+Apartamento;Copacabana;1;0;0;24;2500.0;487.0;29.0
+Apartamento;Flamengo;1;1;0;45;1800.0;553.0;69.0
+Apartamento;Copacabana;1;1;0;70;2700.0;650.0;250.0
+Apartamento;Barra da Tijuca;1;1;1;75;2500.0;1100.0;266.0
+Casa;Campo Grande;1;0;0;55;650.0;;
+Casa de Vila;Campo Grande;1;0;0;40;550.0;;
+Apartamento;Tijuca;1;0;0;63;1300.0;245.0;47.0
+Apartamento;Flamengo;1;1;0;63;2500.0;768.0;133.0
+Apartamento;Leme;1;0;0;40;2100.0;700.0;
+Apartamento;Catete;1;0;0;42;1000.0;530.0;
+Loja/Salão;Del Castilho;1;0;0;40;1100.0;;
+Quitinete;Centro;1;0;0;23;650.0;439.0;25.0
+Apartamento;Laranjeiras;1;0;0;55;1700.0;442.0;53.0
+Apartamento;Senador Vasconcelos;1;1;0;80;690.0;;
+Apartamento;Andaraí;1;0;0;36;1400.0;480.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;70;1900.0;984.0;280.0
+Flat;Botafogo;1;1;0;50;3200.0;1150.0;150.0
+Apartamento;Barra da Tijuca;1;1;0;60;1990.0;1400.0;280.0
+Quitinete;Copacabana;1;0;0;38;1900.0;363.0;71.0
+Apartamento;Copacabana;1;0;0;30;1600.0;411.0;23.0
+Apartamento;Santa Teresa;1;0;0;25;850.0;370.0;14.0
+Apartamento;Copacabana;1;0;0;41;900.0;700.0;
+Apartamento;Cachambi;1;1;0;54;900.0;500.0;39.0
+Flat;Barra da Tijuca;1;1;1;36;1500.0;474.0;89.0
+Apartamento;Botafogo;1;0;0;33;1500.0;330.0;30.0
+Apartamento;Copacabana;1;0;0;40;1200.0;840.0;126.0
+Apartamento;Barra da Tijuca;1;1;0;42;850.0;762.0;40.0
+Quitinete;Centro;1;0;0;28;900.0;172.0;24.0
+Apartamento;Copacabana;1;0;0;55;1500.0;380.0;94.0
+Apartamento;Campo Grande;1;0;0;40;500.0;;
+Quitinete;Flamengo;1;0;0;50;1050.0;800.0;70.0
+Apartamento;Tijuca;1;1;0;50;1100.0;567.0;20.0
+Apartamento;Lagoa;1;1;0;43;2500.0;1563.0;1674.0
+Apartamento;Barra da Tijuca;1;1;1;70;2200.0;1400.0;347.0
+Quitinete;Copacabana;1;0;0;26;1000.0;415.0;56.0
+Apartamento;Glória;1;0;0;42;1500.0;440.0;24.0
+Apartamento;Leme;1;0;0;40;2000.0;550.0;
+Apartamento;Botafogo;1;1;0;52;1900.0;668.0;78.0
+Apartamento;Barra da Tijuca;1;1;1;62;1900.0;1196.0;201.0
+Flat;Barra da Tijuca;1;1;0;60;1800.0;1800.0;
+Apartamento;Flamengo;1;0;0;44;1400.0;395.0;
+Apartamento;Centro;1;0;0;46;850.0;550.0;45.0
+Casa;Campo Grande;1;0;0;55;500.0;;
+Apartamento;Botafogo;1;1;1;45;2800.0;772.0;97.0
+Apartamento;Laranjeiras;1;0;0;55;2000.0;590.0;89.0
+Quitinete;Copacabana;1;0;0;35;1900.0;470.0;25.0
+Quitinete;Copacabana;1;0;0;25;1500.0;520.0;25.0
+Quitinete;Copacabana;1;0;0;17;800.0;520.0;17.0
+Apartamento;Barra da Tijuca;1;2;0;60;2000.0;958.0;295.0
+Apartamento;Copacabana;1;0;0;30;1500.0;380.0;
+Quitinete;Copacabana;1;0;0;41;1100.0;640.0;68.0
+Flat;Leblon;1;1;1;70;8000.0;;
+Apartamento;Copacabana;1;1;0;60;2300.0;600.0;
+Apartamento;Tijuca;1;0;0;20;1200.0;380.0;
+Apartamento;Humaitá;1;0;0;53;1800.0;270.0;
+Quitinete;Centro;1;0;0;25;800.0;350.0;20.0
+Flat;Leblon;1;1;0;60;6500.0;2000.0;230.0
+Apartamento;Encantado;1;1;0;45;900.0;496.0;
+Apartamento;Tijuca;1;0;0;43;1200.0;410.0;20.0
+Apartamento;Barra da Tijuca;1;1;0;50;2200.0;;565.0
+Apartamento;Botafogo;1;0;0;26;1100.0;270.0;
+Apartamento;Copacabana;1;0;0;37;1200.0;600.0;25.0
+Apartamento;Tijuca;1;0;0;50;1300.0;650.0;25.0
+Apartamento;Marechal Hermes;1;1;0;48;600.0;155.0;
+Apartamento;Tijuca;1;0;1;40;1100.0;390.0;25.0
+Apartamento;Copacabana;1;0;0;58;2500.0;515.0;120.0
+Apartamento;Leblon;1;0;1;38;2200.0;550.0;50.0
+Quitinete;Copacabana;1;0;0;35;1800.0;420.0;55.0
+Apartamento;Vila Isabel;1;0;0;30;1100.0;385.0;21.0
+Apartamento;Méier;1;0;0;60;900.0;582.0;20.0
+Apartamento;Vila da Penha;1;0;0;35;800.0;;
+Apartamento;Jardim Botânico;1;0;0;50;1800.0;350.0;103.0
+Loft;Copacabana;1;0;0;30;1600.0;550.0;50.0
+Flat;Copacabana;1;0;1;52;5500.0;1500.0;
+Casa;Campo Grande;1;0;0;100;1500.0;;
+Quitinete;Flamengo;1;0;0;31;1200.0;316.0;25.0
+Apartamento;Copacabana;1;0;1;40;1400.0;435.0;24.0
+Apartamento;Gardênia Azul;1;0;0;30;705.0;;
+Apartamento;Ipanema;1;0;0;85;2000.0;605.0;180.0
+Apartamento;Vila Isabel;1;0;0;30;1100.0;400.0;
+Quitinete;Copacabana;1;0;0;25;900.0;270.0;
+Apartamento;São Conrado;1;1;0;55;2970.0;960.0;190.0
+Quitinete;Centro;1;0;1;24;1500.0;500.0;18.0
+Apartamento;Copacabana;1;0;0;33;1300.0;430.0;30.0
+Flat;Recreio dos Bandeirantes;1;1;0;50;2300.0;1200.0;170.0
+Apartamento;Vila Isabel;1;0;0;60;800.0;303.0;25.0
+Apartamento;Copacabana;1;0;0;55;1500.0;650.0;100.0
+Apartamento;Centro;1;0;0;50;1500.0;450.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;70;1900.0;1100.0;1450.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;55;1500.0;1200.0;220.0
+Apartamento;Santa Teresa;1;0;0;27;900.0;340.0;
+Quitinete;Copacabana;1;0;0;30;1600.0;411.0;23.0
+Apartamento;Penha;1;0;0;45;900.0;;
+Quitinete;Centro;1;0;0;30;700.0;450.0;25.0
+Apartamento;Leblon;1;1;0;50;3200.0;1012.0;180.0
+Apartamento;Ipanema;1;1;0;85;12500.0;4000.0;500.0
+Apartamento;Ipanema;1;0;0;43;3200.0;520.0;125.0
+Apartamento;Copacabana;1;0;0;35;1800.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;28;2000.0;300.0;26.0
+Apartamento;Leblon;1;0;1;45;3000.0;890.0;95.0
+Quitinete;Copacabana;1;0;0;33;1300.0;350.0;25.0
+Loft;Copacabana;1;0;0;50;3900.0;800.0;20.0
+Apartamento;Leme;1;1;0;50;2550.0;600.0;27.0
+Apartamento;Glória;1;0;0;30;1000.0;500.0;20.0
+Apartamento;Lagoa;1;1;0;57;4500.0;1885.0;250.0
+Apartamento;Copacabana;1;0;0;55;3000.0;900.0;100.0
+Quitinete;Centro;1;0;0;32;1100.0;400.0;22.0
+Quitinete;Copacabana;1;1;0;35;2200.0;560.0;64.0
+Apartamento;Copacabana;1;0;0;50;1500.0;685.0;110.0
+Apartamento;Leblon;1;0;1;57;3750.0;730.0;208.0
+Apartamento;Barra da Tijuca;1;1;1;109;3000.0;1500.0;2289.0
+Quitinete;Centro;1;0;0;20;850.0;390.0;24.0
+Apartamento;Flamengo;1;0;0;48;1450.0;580.0;67.0
+Apartamento;Glória;1;0;0;30;1400.0;450.0;30.0
+Apartamento;Barra da Tijuca;1;1;0;68;2000.0;800.0;230.0
+Apartamento;Ipanema;1;1;0;46;4000.0;651.0;78.0
+Apartamento;Copacabana;1;0;0;50;2300.0;530.0;75.0
+Apartamento;Copacabana;1;0;0;20;2000.0;260.0;150.0
+Quitinete;Flamengo;1;0;0;25;1250.0;460.0;
+Apartamento;Senador Vasconcelos;1;1;1;50;800.0;180.0;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;60;950.0;583.0;140.0
+Casa de Vila;Madureira;1;1;0;45;750.0;30.0;
+Apartamento;Lapa;1;1;0;50;2150.0;885.0;50.0
+Apartamento;Flamengo;1;0;0;35;2200.0;315.0;55.0
+Quitinete;Centro;1;0;0;28;780.0;420.0;24.0
+Apartamento;Barra da Tijuca;1;1;1;82;2200.0;1405.0;24.0
+Flat;Copacabana;1;1;1;60;4500.0;;
+Quitinete;Botafogo;1;0;0;35;2400.0;500.0;50.0
+Quitinete;Copacabana;1;0;0;25;750.0;496.0;29.0
+Apartamento;Copacabana;1;0;0;33;1700.0;470.0;56.0
+Apartamento;Higienópolis;1;0;0;45;700.0;;25.0
+Apartamento;Engenho Novo;1;0;1;40;500.0;456.0;36.0
+Apartamento;Ipanema;1;1;0;55;4000.0;780.0;120.0
+Apartamento;Barra da Tijuca;1;1;0;63;2200.0;996.0;116.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;48;1000.0;450.0;
+Apartamento;Ricardo de Albuquerque;1;0;0;25;350.0;;
+Apartamento;Grajaú;1;0;0;68;1700.0;150.0;25.0
+Quitinete;Copacabana;1;0;1;40;4000.0;400.0;
+Casa de Vila;Paquetá;1;0;0;50;1100.0;;7.0
+Quitinete;Centro;1;0;0;25;780.0;350.0;20.0
+Quitinete;Copacabana;1;0;0;28;1700.0;460.0;55.0
+Apartamento;Leblon;1;1;0;60;3600.0;728.0;
+Apartamento;Vila Isabel;1;0;0;42;1250.0;385.0;25.0
+Apartamento;Praça da Bandeira;1;0;0;22;800.0;130.0;25.0
+Apartamento;Ipanema;1;0;0;37;2500.0;550.0;134.0
+Apartamento;Botafogo;1;0;0;24;1000.0;500.0;30.0
+Apartamento;Ipanema;1;0;0;27;1700.0;395.0;24.0
+Flat;Copacabana;1;1;0;43;1887.0;2117.0;495.0
+Apartamento;São Conrado;1;2;1;60;1800.0;1170.0;60.0
+Quitinete;Catete;1;0;0;24;1300.0;489.0;
+Casa;Senador Vasconcelos;1;0;0;50;500.0;;
+Apartamento;Copacabana;1;0;0;35;1600.0;403.0;24.0
+Apartamento;Botafogo;1;0;0;70;1550.0;320.0;90.0
+Quitinete;Centro;1;0;0;30;900.0;435.0;80.0
+Apartamento;Anil;1;0;0;52;1000.0;;
+Apartamento;Barra da Tijuca;1;1;1;44;1000.0;790.0;15.0
+Apartamento;Barra da Tijuca;1;1;0;75;2200.0;1160.0;333.0
+Apartamento;Barra da Tijuca;1;1;0;67;1500.0;1170.0;
+Flat;Copacabana;1;1;0;35;2900.0;1200.0;135.0
+Apartamento;Ipanema;1;0;0;31;2000.0;635.0;79.0
+Casa;Inhaúma;1;0;0;40;550.0;;
+Apartamento;Copacabana;1;0;0;60;2500.0;500.0;24.0
+Apartamento;Rocha Miranda;1;0;0;28;800.0;;
+Apartamento;Centro;1;0;0;40;1000.0;383.0;25.0
+Quitinete;Copacabana;1;0;0;26;1800.0;335.0;53.0
+Quitinete;Botafogo;1;0;0;21;1250.0;472.0;25.0
+Apartamento;Riachuelo;1;0;1;40;1100.0;229.0;
+Casa;Campo Grande;1;1;0;50;800.0;;
+Apartamento;Copacabana;1;0;0;30;1000.0;600.0;56.0
+Quitinete;Copacabana;1;0;0;30;1300.0;606.0;24.0
+Apartamento;Catumbi;1;0;0;40;1000.0;146.0;
+Apartamento;Catete;1;0;0;50;2000.0;597.0;68.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;56;700.0;770.0;18.0
+Apartamento;Leblon;1;1;1;90;3300.0;1800.0;340.0
+Apartamento;Copacabana;1;0;0;33;1400.0;550.0;
+Apartamento;Botafogo;1;1;0;70;2950.0;750.0;90.0
+Apartamento;Flamengo;1;0;0;38;1600.0;503.0;
+Apartamento;Copacabana;1;0;0;28;1000.0;350.0;
+Apartamento;Tijuca;1;0;0;30;1600.0;;
+Apartamento;Copacabana;1;0;0;25;1200.0;440.0;30.0
+Apartamento;Tanque;1;0;0;75;1100.0;625.0;14.0
+Apartamento;Copacabana;1;0;0;32;1200.0;472.0;24.0
+Apartamento;Vila da Penha;1;0;0;42;600.0;210.0;
+Galpão/Depósito/Armazém;Botafogo;1;20;0;3500;50000.0;;
+Quitinete;Catete;1;0;0;26;1000.0;405.0;
+Apartamento;Copacabana;1;0;0;40;1700.0;620.0;62.0
+Apartamento;Vicente de Carvalho;1;0;0;33;500.0;;17.0
+Apartamento;Barra da Tijuca;1;1;0;65;1900.0;910.0;152.0
+Quitinete;Ipanema;1;0;0;29;1600.0;350.0;244.0
+Apartamento;Méier;1;1;0;54;1400.0;800.0;14.0
+Apartamento;Centro;1;0;0;27;600.0;420.0;89.0
+Apartamento;Méier;1;0;0;40;600.0;250.0;13.0
+Apartamento;Gávea;1;0;0;45;2000.0;700.0;350.0
+Apartamento;Riachuelo;1;1;0;57;1200.0;380.0;
+Flat;Lagoa;1;1;0;45;2400.0;1500.0;200.0
+Quitinete;Flamengo;1;0;0;35;2000.0;;29.0
+Apartamento;Jardim Botânico;1;0;1;20;1550.0;550.0;
+Apartamento;Glória;1;0;0;49;1300.0;500.0;35.0
+Apartamento;Flamengo;1;0;1;40;2000.0;387.0;56.0
+Apartamento;Vaz Lobo;1;0;0;60;600.0;92.0;33.0
+Apartamento;Glória;1;0;0;65;2700.0;270.0;15.0
+Flat;Botafogo;1;1;0;45;2400.0;780.0;180.0
+Apartamento;Tijuca;1;0;0;46;1300.0;600.0;48.0
+Quitinete;Gardênia Azul;1;0;0;20;500.0;;
+Apartamento;Barra da Tijuca;1;1;1;67;1700.0;1177.0;223.0
+Flat;Ipanema;1;1;0;55;3000.0;2000.0;400.0
+Apartamento;Copacabana;1;0;1;140;7000.0;3000.0;1000.0
+Apartamento;Barra da Tijuca;1;1;0;62;1500.0;1046.0;140.0
+Apartamento;Barra da Tijuca;1;2;1;70;1650.0;990.0;223.0
+Apartamento;Gávea;1;0;1;50;3500.0;816.0;1094.0
+Apartamento;Flamengo;1;1;0;46;1800.0;610.0;
+Apartamento;Botafogo;1;1;0;37;1800.0;1021.0;
+Apartamento;Copacabana;1;1;0;47;2300.0;614.0;78.0
+Quitinete;Copacabana;1;0;0;22;2000.0;340.0;160.0
+Apartamento;Méier;1;0;0;52;1300.0;260.0;12.0
+Apartamento;Copacabana;1;0;0;48;2000.0;650.0;30.0
+Apartamento;Campo Grande;1;0;0;35;500.0;;
+Apartamento;Humaitá;1;1;1;60;3200.0;674.0;99.0
+Quitinete;Vila da Penha;1;0;0;30;650.0;;
+Apartamento;Jardim Guanabara;1;1;0;35;1000.0;171.0;25.0
+Apartamento;Copacabana;1;0;0;60;2000.0;550.0;30.0
+Apartamento;Centro;1;0;0;39;1460.0;290.0;
+Apartamento;Centro;1;0;0;40;1200.0;350.0;21.0
+Quitinete;Copacabana;1;0;0;33;1500.0;410.0;
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;1006.0;160.0
+Apartamento;Flamengo;1;0;0;35;1600.0;680.0;20.0
+Apartamento;Copacabana;1;0;0;40;1700.0;550.0;
+Apartamento;Campo Grande;1;0;0;40;480.0;;
+Apartamento;Copacabana;1;0;0;45;2000.0;650.0;
+Apartamento;Copacabana;1;0;0;60;1800.0;550.0;99.0
+Apartamento;Olaria;1;0;0;25;790.0;;
+Quitinete;Flamengo;1;0;0;26;1200.0;230.0;24.0
+Apartamento;Humaitá;1;1;0;65;2100.0;1272.0;164.0
+Quitinete;Centro;1;0;0;35;900.0;400.0;170.0
+Flat;Barra da Tijuca;1;1;0;50;2000.0;;
+Apartamento;Ipanema;1;0;0;56;2200.0;912.0;156.0
+Apartamento;Riachuelo;1;1;0;46;950.0;550.0;16.0
+Apartamento;Ipanema;1;0;0;45;2500.0;570.0;
+Apartamento;Flamengo;1;0;1;124;9000.0;500.0;
+Apartamento;Leme;1;0;0;31;1800.0;468.0;553.0
+Apartamento;Copacabana;1;0;0;35;2000.0;;
+Apartamento;Flamengo;1;0;0;43;2100.0;652.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;65;1850.0;824.0;
+Apartamento;Botafogo;1;0;0;40;1800.0;600.0;23.0
+Apartamento;Copacabana;1;0;0;40;1700.0;610.0;
+Apartamento;Flamengo;1;1;0;68;2800.0;877.0;124.0
+Apartamento;Flamengo;1;0;1;38;1500.0;695.0;56.0
+Casa;Quintino Bocaiúva;1;0;1;45;750.0;1.0;
+Apartamento;Copacabana;1;0;0;40;1900.0;700.0;65.0
+Quitinete;Botafogo;1;0;0;21;980.0;445.0;30.0
+Quitinete;Copacabana;1;0;0;45;1600.0;442.0;67.0
+Quitinete;Copacabana;1;0;0;41;1300.0;690.0;72.0
+Apartamento;Copacabana;1;0;0;38;3500.0;600.0;653.0
+Quitinete;Centro;1;0;0;22;800.0;450.0;254.0
+Quitinete;Botafogo;1;0;0;25;1000.0;366.0;50.0
+Apartamento;Copacabana;1;0;0;34;1500.0;575.0;57.0
+Apartamento;Copacabana;1;0;0;38;1700.0;550.0;38.0
+Apartamento;Méier;1;1;0;40;900.0;456.0;20.0
+Casa Comercial;Alto da Boa Vista;1;0;0;2150;30000.0;;
+Casa de Vila;Cascadura;1;0;0;23;750.0;;
+Apartamento;Copacabana;1;0;1;38;2200.0;450.0;
+Apartamento;Andaraí;1;1;0;55;1200.0;870.0;25.0
+Quitinete;Catete;1;0;0;24;1100.0;400.0;30.0
+Apartamento;Guadalupe;1;0;0;35;450.0;;
+Apartamento;Lapa;1;0;0;44;1300.0;480.0;34.0
+Apartamento;Copacabana;1;0;0;35;1300.0;689.0;30.0
+Apartamento;Pechincha;1;0;0;40;900.0;;13.0
+Apartamento;Barra da Tijuca;1;1;0;69;2000.0;1547.0;2100.0
+Apartamento;Copacabana;1;0;0;36;1600.0;440.0;
+Apartamento;Penha;1;0;0;40;850.0;;
+Apartamento;Tijuca;1;1;0;55;1400.0;407.0;59.0
+Casa;Oswaldo Cruz;1;0;0;35;650.0;;
+Quitinete;Copacabana;1;0;0;34;1400.0;754.0;69.0
+Apartamento;Cosme Velho;1;0;0;36;1200.0;180.0;53.0
+Apartamento;Campinho;1;0;0;35;700.0;66.0;
+Apartamento;Ipanema;1;1;0;45;3500.0;600.0;100.0
+Loja Shopping/ Ct Comercial;Guadalupe;1;0;0;58;4800.0;;
+Apartamento;Centro;1;0;0;33;1150.0;370.0;20.0
+Quitinete;Flamengo;1;0;0;40;1000.0;490.0;
+Apartamento;Copacabana;1;0;0;45;1600.0;530.0;30.0
+Flat;Barra da Tijuca;1;1;0;51;4200.0;;
+Apartamento;Vila Isabel;1;0;0;40;1500.0;480.0;20.0
+Quitinete;Botafogo;1;0;0;25;1200.0;450.0;60.0
+Apartamento;Centro;1;0;0;35;1000.0;335.0;25.0
+Apartamento;Leme;1;0;0;45;1800.0;400.0;75.0
+Flat;Barra da Tijuca;1;1;0;52;2100.0;2600.0;322.0
+Apartamento;Guadalupe;1;0;0;25;450.0;;
+Apartamento;Centro;1;0;0;46;1500.0;280.0;47.0
+Quitinete;Copacabana;1;0;0;30;2000.0;600.0;29.0
+Apartamento;Centro;1;0;0;57;1400.0;450.0;220.0
+Loft;Centro;1;0;0;35;1800.0;;
+Apartamento;Copacabana;1;0;0;35;1130.0;500.0;
+Apartamento;Laranjeiras;1;0;0;42;1500.0;475.0;55.0
+Apartamento;Barra da Tijuca;1;1;1;70;2800.0;850.0;210.0
+Apartamento;Penha;1;1;0;60;850.0;314.0;
+Flat;Ipanema;1;1;0;50;2000.0;2120.0;570.0
+Apartamento;Barra da Tijuca;1;1;1;70;3500.0;;
+Flat;Leblon;1;1;0;55;7000.0;;
+Quitinete;Copacabana;1;0;0;32;1600.0;578.0;55.0
+Apartamento;Ipanema;1;0;0;33;1600.0;564.0;71.0
+Conjunto Comercial/Sala;Centro;1;0;0;406;20000.0;8130.0;2000.0
+Apartamento;São Francisco Xavier;1;0;0;51;700.0;505.0;
+Quitinete;Catete;1;0;0;31;1100.0;434.0;55.0
+Apartamento;Botafogo;1;0;0;30;2300.0;;
+Quitinete;Copacabana;1;0;0;25;1200.0;310.0;
+Quitinete;Copacabana;1;0;0;35;1600.0;481.0;26.0
+Apartamento;Santa Teresa;1;0;0;50;1200.0;;27.0
+Apartamento;Gávea;1;0;0;43;2200.0;399.0;51.0
+Apartamento;Copacabana;1;0;1;40;2000.0;510.0;
+Apartamento;Flamengo;1;0;0;44;1600.0;610.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;50;1500.0;1035.0;221.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;45;1200.0;340.0;16.0
+Quitinete;Copacabana;1;0;0;20;1500.0;500.0;
+Apartamento;Tijuca;1;1;0;60;900.0;556.0;24.0
+Apartamento;Copacabana;1;0;1;50;2700.0;;
+Apartamento;Copacabana;1;0;0;30;1400.0;450.0;23.0
+Apartamento;Copacabana;1;0;0;50;2200.0;750.0;
+Apartamento;Tijuca;1;0;0;50;1200.0;330.0;
+Apartamento;Maracanã;1;1;0;63;1200.0;590.0;50.0
+Apartamento;Barra da Tijuca;1;1;1;61;1700.0;2154.0;271.0
+Quitinete;Centro;1;0;0;30;800.0;250.0;25.0
+Apartamento;Barra da Tijuca;1;2;0;55;1700.0;1780.0;
+Apartamento;Cachambi;1;0;0;40;800.0;130.0;14.0
+Flat;Jardim Botânico;1;1;0;55;1950.0;1400.0;144.0
+Quitinete;Copacabana;1;0;0;24;2500.0;570.0;56.0
+Flat;Lapa;1;0;1;32;2950.0;;
+Apartamento;Copacabana;1;0;0;50;1500.0;340.0;76.0
+Apartamento;Méier;1;0;0;50;1200.0;280.0;20.0
+Apartamento;Barra da Tijuca;1;1;0;28;3000.0;;
+Apartamento;Copacabana;1;0;0;44;1480.0;470.0;25.0
+Apartamento;Botafogo;1;0;0;43;2400.0;1076.0;260.0
+Quitinete;Copacabana;1;0;0;35;1300.0;380.0;68.0
+Quitinete;Flamengo;1;0;0;21;900.0;455.0;29.0
+Apartamento;Leme;1;0;1;60;2300.0;600.0;51.0
+Apartamento;Copacabana;1;0;0;50;1800.0;600.0;30.0
+Quitinete;Flamengo;1;0;0;42;1550.0;300.0;
+Flat;Recreio dos Bandeirantes;1;1;0;48;3400.0;;
+Apartamento;Praça Seca;1;0;0;60;750.0;30.0;
+Apartamento;Leblon;1;1;0;82;1900.0;1700.0;348.0
+Apartamento;Barra da Tijuca;1;1;0;69;1300.0;1470.0;
+Apartamento;Botafogo;1;1;0;63;2000.0;880.0;100.0
+Casa de Vila;Bonsucesso;1;0;0;30;800.0;;
+Apartamento;Tijuca;1;0;0;40;1100.0;500.0;20.0
+Apartamento;Quintino Bocaiúva;1;1;0;39;600.0;354.0;
+Flat;Leblon;1;1;1;60;5500.0;1900.0;200.0
+Apartamento;Copacabana;1;1;0;45;2300.0;1100.0;
+Casa;Campo Grande;1;0;0;50;500.0;;
+Apartamento;Lins de Vasconcelos;1;1;0;62;900.0;500.0;
+Apartamento;Flamengo;1;1;0;35;1000.0;490.0;
+Apartamento;Copacabana;1;0;0;45;2000.0;610.0;
+Apartamento;Leme;1;0;0;35;1900.0;500.0;350.0
+Apartamento;Tijuca;1;1;0;48;1200.0;650.0;21.0
+Quitinete;Copacabana;1;0;0;20;1150.0;450.0;71.0
+Quitinete;Jacarepaguá;1;0;0;45;590.0;70.0;
+Apartamento;Leblon;1;1;0;59;2450.0;1707.0;313.0
+Apartamento;Flamengo;1;0;0;36;1000.0;495.0;55.0
+Quitinete;Centro;1;0;0;25;800.0;350.0;10.0
+Apartamento;Ipanema;1;1;0;38;2300.0;630.0;102.0
+Quitinete;Lapa;1;0;0;26;850.0;366.0;25.0
+Casa de Vila;Bento Ribeiro;1;1;0;50;900.0;;
+Apartamento;Vila Isabel;1;0;0;45;1000.0;350.0;20.0
+Apartamento;Guadalupe;1;0;0;33;500.0;;
+Apartamento;Campo Grande;1;1;0;55;750.0;517.0;
+Studio;Copacabana;1;0;0;28;1500.0;498.0;120.0
+Apartamento;Copacabana;1;0;0;150;3000.0;1750.0;215.0
+Flat;Barra da Tijuca;1;1;1;70;1695.0;980.0;
+Apartamento;Flamengo;1;0;0;65;2900.0;622.0;130.0
+Apartamento;Botafogo;1;1;0;65;2200.0;880.0;125.0
+Apartamento;Taquara;1;1;0;83;1200.0;578.0;
+Apartamento;Botafogo;1;1;1;58;2900.0;1275.0;126.0
+Apartamento;Copacabana;1;0;0;44;1900.0;460.0;25.0
+Apartamento;Copacabana;1;0;0;32;1200.0;430.0;29.0
+Apartamento;Leblon;1;0;1;50;2990.0;1725.0;259.0
+Apartamento;Copacabana;1;0;0;31;1100.0;397.0;67.0
+Apartamento;Catete;1;0;0;35;2700.0;;
+Conjunto Comercial/Sala;Centro;1;0;0;36;850.0;600.0;
+Casa de Vila;Taquara;1;0;0;60;1000.0;;
+Quitinete;Copacabana;1;0;0;42;5000.0;500.0;1300.0
+Apartamento;Flamengo;1;1;0;44;1799.0;440.0;20.0
+Apartamento;Copacabana;1;0;0;35;1600.0;500.0;
+Quitinete;Copacabana;1;0;0;39;1300.0;650.0;76.0
+Quitinete;Glória;1;0;0;29;900.0;335.0;24.0
+Apartamento;Leblon;1;1;0;54;3990.0;1590.0;110.0
+Apartamento;Barra da Tijuca;1;1;0;70;2500.0;1000.0;200.0
+Apartamento;Centro;1;1;0;38;1200.0;381.0;14.0
+Apartamento;Flamengo;1;0;0;55;1800.0;500.0;30.0
+Apartamento;Tijuca;1;1;0;54;1600.0;690.0;
+Apartamento;Barra da Tijuca;1;1;1;60;1600.0;1095.0;107.0
+Quitinete;Copacabana;1;0;1;44;1500.0;376.0;25.0
+Apartamento;Engenho Novo;1;0;0;46;1100.0;500.0;
+Apartamento;Laranjeiras;1;0;0;24;900.0;415.0;29.0
+Apartamento;Ipanema;1;1;0;90;7000.0;;
+Quitinete;Copacabana;1;0;0;30;1600.0;540.0;25.0
+Casa de Vila;Guadalupe;1;0;0;45;700.0;;
+Quitinete;Realengo;1;0;0;60;650.0;;
+Apartamento;Laranjeiras;1;0;0;25;1300.0;450.0;25.0
+Apartamento;Vila da Penha;1;0;0;40;800.0;;
+Quitinete;Glória;1;0;0;30;1000.0;357.0;
+Apartamento;Madureira;1;0;0;40;600.0;;
+Quitinete;Barra da Tijuca;1;1;0;35;1300.0;1700.0;
+Apartamento;Botafogo;1;1;0;42;2700.0;507.0;68.0
+Apartamento;Taquara;1;1;0;55;700.0;406.0;
+Apartamento;Copacabana;1;0;0;35;1250.0;380.0;17.0
+Apartamento;Copacabana;1;0;0;46;1600.0;600.0;25.0
+Apartamento;Botafogo;1;0;1;40;2800.0;800.0;180.0
+Apartamento;Flamengo;1;1;0;90;2000.0;1540.0;197.0
+Quitinete;Ramos;1;0;0;25;680.0;;
+Apartamento;Andaraí;1;1;0;60;1300.0;1.0;25.0
+Apartamento;Copacabana;1;0;0;31;1200.0;521.0;25.0
+Apartamento;Flamengo;1;0;0;45;2600.0;480.0;70.0
+Apartamento;Flamengo;1;0;0;50;2300.0;440.0;220.0
+Apartamento;Taquara;1;0;0;50;800.0;;13.0
+Apartamento;Flamengo;1;0;0;44;1500.0;330.0;
+Apartamento;Ipanema;1;0;0;36;2500.0;450.0;45.0
+Apartamento;Copacabana;1;0;0;35;1400.0;400.0;220.0
+Quitinete;Ipanema;1;0;0;23;2200.0;;300.0
+Apartamento;Ipanema;1;0;0;33;2000.0;650.0;
+Apartamento;Recreio dos Bandeirantes;1;3;1;200;1500.0;1500.0;450.0
+Apartamento;Botafogo;1;1;1;60;2300.0;550.0;120.0
+Apartamento;Barra da Tijuca;1;2;1;85;3800.0;;
+Apartamento;Copacabana;1;1;0;38;1600.0;684.0;55.0
+Apartamento;Copacabana;1;0;0;49;1500.0;580.0;
+Apartamento;Todos os Santos;1;0;0;70;800.0;656.0;39.0
+Apartamento;Catete;1;0;0;40;1300.0;590.0;680.0
+Quitinete;Copacabana;1;0;1;30;1350.0;453.0;24.0
+Apartamento;Botafogo;1;1;1;43;1800.0;1036.0;130.0
+Quitinete;Botafogo;1;0;0;23;1200.0;561.0;29.0
+Quitinete;Flamengo;1;0;0;30;1200.0;580.0;
+Apartamento;Vila da Penha;1;1;1;90;1500.0;295.0;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;45;1400.0;566.0;
+Apartamento;Ipanema;1;1;1;120;9000.0;3500.0;526.0
+Apartamento;Santa Teresa;1;0;1;45;1700.0;310.0;
+Flat;Barra da Tijuca;1;0;1;25;1456.0;884.0;160.0
+Quitinete;Copacabana;1;0;0;21;1800.0;300.0;25.0
+Apartamento;Leme;1;0;0;52;1500.0;608.0;77.0
+Apartamento;Laranjeiras;1;0;0;24;1600.0;215.0;13.0
+Apartamento;Ipanema;1;0;0;50;4000.0;;
+Flat;Copacabana;1;0;0;48;3500.0;1400.0;30.0
+Quitinete;Copacabana;1;0;0;35;1400.0;503.0;
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;36;1800.0;;
+Apartamento;Rocha Miranda;1;0;0;65;650.0;;
+Apartamento;Copacabana;1;1;0;60;2000.0;1450.0;175.0
+Quitinete;Centro;1;0;0;35;850.0;480.0;9.0
+Casa;Campo Grande;1;0;0;50;700.0;;
+Apartamento;Tijuca;1;1;0;35;900.0;335.0;20.0
+Apartamento;Lagoa;1;1;0;45;2400.0;1565.0;235.0
+Apartamento;Leblon;1;0;0;53;2400.0;445.0;
+Flat;Humaitá;1;1;0;50;2500.0;1318.0;163.0
+Apartamento;Copacabana;1;0;0;36;1100.0;805.0;70.0
+Flat;Ipanema;1;1;0;44;3500.0;2117.0;3127.0
+Casa de Vila;Guadalupe;1;0;0;40;650.0;;10.0
+Quitinete;Botafogo;1;0;0;14;850.0;366.0;25.0
+Apartamento;Flamengo;1;0;0;50;1700.0;360.0;
+Flat;Leblon;1;1;1;50;4200.0;1680.0;272.0
+Apartamento;Leme;1;0;0;32;1500.0;550.0;58.0
+Apartamento;Tijuca;1;1;1;40;1000.0;594.0;
+Apartamento;Tijuca;1;0;0;58;1100.0;408.0;
+Apartamento;Barra da Tijuca;1;1;0;64;1600.0;960.0;180.0
+Flat;Lagoa;1;1;1;60;2800.0;1465.0;460.0
+Apartamento;Flamengo;1;1;1;120;3200.0;2200.0;357.0
+Quitinete;Glória;1;0;0;25;1700.0;380.0;20.0
+Apartamento;Vila da Penha;1;0;0;37;700.0;50.0;
+Flat;Barra da Tijuca;1;2;1;71;2200.0;1723.0;4400.0
+Apartamento;Barra da Tijuca;1;2;1;124;3400.0;980.0;316.0
+Quitinete;Cordovil;1;0;0;30;400.0;;
+Apartamento;Santa Teresa;1;0;0;51;1300.0;284.0;
+Quitinete;Vila da Penha;1;0;0;25;550.0;;
+Apartamento;Higienópolis;1;0;0;45;800.0;;
+Quitinete;Copacabana;1;0;0;21;700.0;508.0;
+Apartamento;Ipanema;1;0;0;60;2800.0;700.0;78.0
+Apartamento;Lagoa;1;1;0;43;2400.0;1500.0;167.0
+Apartamento;Copacabana;1;0;0;22;1600.0;450.0;
+Apartamento;Leme;1;0;0;32;2000.0;558.0;569.0
+Apartamento;Ipanema;1;2;1;91;5200.0;2605.0;592.0
+Apartamento;Tanque;1;0;0;45;750.0;75.0;
+Apartamento;Copacabana;1;0;0;28;1600.0;470.0;29.0
+Apartamento;Copacabana;1;0;0;60;2000.0;560.0;132.0
+Apartamento;Botafogo;1;0;0;60;1950.0;710.0;100.0
+Apartamento;Laranjeiras;1;2;0;82;3000.0;1391.0;130.0
+Quitinete;Copacabana;1;0;0;31;950.0;450.0;55.0
+Apartamento;Copacabana;1;0;0;35;2400.0;750.0;
+Apartamento;Catete;1;1;1;44;2100.0;520.0;55.0
+Flat;Lagoa;1;1;0;70;2500.0;1631.0;
+Quitinete;Copacabana;1;0;1;38;1500.0;580.0;20.0
+Flat;Copacabana;1;0;0;56;1700.0;1900.0;150.0
+Apartamento;Tijuca;1;0;1;33;900.0;460.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;56;1500.0;1020.0;
+Apartamento;Centro;1;0;0;35;900.0;517.0;25.0
+Quitinete;Flamengo;1;0;0;30;1400.0;450.0;
+Apartamento;Flamengo;1;0;0;40;1600.0;555.0;54.0
+Apartamento;Quintino Bocaiúva;1;0;0;50;1100.0;145.0;
+Apartamento;Madureira;1;0;0;50;750.0;200.0;
+Quitinete;Centro;1;0;0;40;800.0;385.0;84.0
+Quitinete;Flamengo;1;0;0;24;1350.0;250.0;
+Apartamento;Tijuca;1;1;0;50;1650.0;577.0;453.0
+Apartamento;Marechal Hermes;1;0;0;29;490.0;;
+Flat;Leblon;1;1;0;60;5500.0;2030.0;260.0
+Flat;Copacabana;1;1;0;80;2000.0;1300.0;120.0
+Flat;Leblon;1;1;1;60;5500.0;1900.0;220.0
+Casa;Campo Grande;1;1;0;80;750.0;;2.0
+Apartamento;Copacabana;1;0;0;50;1800.0;590.0;28.0
+Quitinete;Copacabana;1;0;0;28;1700.0;596.0;56.0
+Flat;Ipanema;1;1;1;50;3000.0;2400.0;340.0
+Apartamento;Leme;1;0;0;38;2300.0;852.0;30.0
+Quitinete;Copacabana;1;0;0;35;1300.0;629.0;56.0
+Apartamento;Centro;1;0;0;26;750.0;400.0;
+Apartamento;Botafogo;1;1;0;45;2400.0;780.0;
+Apartamento;Humaitá;1;0;1;34;1600.0;410.0;
+Quitinete;Copacabana;1;0;0;23;1700.0;430.0;30.0
+Quitinete;Copacabana;1;0;0;30;1100.0;528.0;
+Apartamento;Jardim Botânico;1;0;0;45;2200.0;300.0;
+Apartamento;Barra da Tijuca;1;2;0;55;1900.0;1000.0;
+Casa;Irajá;1;0;0;40;750.0;;
+Apartamento;Leblon;1;1;1;92;4000.0;1232.0;
+Quitinete;Copacabana;1;0;0;27;1080.0;450.0;54.0
+Flat;Ipanema;1;1;0;60;7000.0;;
+Apartamento;Barra da Tijuca;1;1;0;71;1800.0;800.0;
+Apartamento;Barra da Tijuca;1;1;1;66;2000.0;1300.0;
+Apartamento;Flamengo;1;0;0;50;2200.0;426.0;73.0
+Apartamento;Glória;1;0;0;47;1150.0;500.0;25.0
+Apartamento;Copacabana;1;0;0;50;1650.0;550.0;
+Apartamento;Flamengo;1;0;0;40;2000.0;580.0;80.0
+Casa;Vista Alegre;1;0;0;50;900.0;;
+Casa;Campo Grande;1;0;0;50;650.0;;55.0
+Flat;Barra da Tijuca;1;1;1;50;1700.0;1430.0;180.0
+Apartamento;Méier;1;0;0;35;1100.0;200.0;35.0
+Apartamento;Tauá;1;0;0;40;1150.0;80.0;20.0
+Apartamento;Cachambi;1;0;0;35;600.0;274.0;22.0
+Apartamento;Copacabana;1;0;0;25;1500.0;537.0;
+Apartamento;Copacabana;1;0;0;50;1600.0;600.0;25.0
+Flat;Copacabana;1;0;0;65;5000.0;1717.0;298.0
+Apartamento;Copacabana;1;0;0;20;1300.0;335.0;30.0
+Apartamento;Laranjeiras;1;0;0;41;1500.0;609.0;
+Apartamento;Flamengo;1;0;0;27;1000.0;366.0;25.0
+Quitinete;Lapa;1;0;0;22;950.0;400.0;20.0
+Apartamento;Catete;1;0;0;44;950.0;300.0;29.0
+Casa de Vila;São Cristóvão;1;0;0;60;1100.0;;
+Quitinete;Copacabana;1;0;0;24;1300.0;450.0;
+Apartamento;Barra da Tijuca;1;1;0;66;4500.0;1400.0;
+Apartamento;Copacabana;1;0;0;30;2000.0;500.0;23.0
+Apartamento;Ipanema;1;0;0;40;4000.0;;
+Conjunto Comercial/Sala;Centro;1;0;0;65;1690.0;1100.0;200.0
+Quitinete;Botafogo;1;0;0;25;1300.0;485.0;30.0
+Quitinete;Centro;1;0;0;20;750.0;245.0;
+Apartamento;Barra da Tijuca;1;1;0;68;3000.0;606.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;58;1400.0;800.0;240.0
+Apartamento;Barra da Tijuca;1;1;0;55;2200.0;1100.0;227.0
+Casa de Vila;Tijuca;1;0;0;35;1200.0;10.0;260.0
+Apartamento;Leblon;1;1;0;55;6200.0;980.0;90.0
+Apartamento;Flamengo;1;0;0;40;1900.0;711.0;
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;100;4000.0;1300.0;700.0
+Apartamento;Barra da Tijuca;1;2;0;68;2200.0;702.0;230.0
+Apartamento;Recreio dos Bandeirantes;1;0;0;54;1800.0;458.0;112.0
+Apartamento;Copacabana;1;0;0;70;1800.0;990.0;
+Quitinete;Bento Ribeiro;1;1;0;30;480.0;;
+Apartamento;Copacabana;1;0;0;30;1200.0;350.0;
+Apartamento;Copacabana;1;0;0;42;1500.0;390.0;24.0
+Apartamento;Flamengo;1;1;1;76;3200.0;662.0;198.0
+Casa;Campo Grande;1;0;0;55;500.0;;
+Apartamento;Leblon;1;1;1;55;3000.0;1053.0;160.0
+Apartamento;Copacabana;1;0;0;37;1800.0;402.0;73.0
+Apartamento;Campo Grande;1;1;0;41;600.0;195.0;
+Apartamento;Flamengo;1;0;0;37;2300.0;485.0;56.0
+Flat;Copacabana;1;1;1;60;3300.0;1369.0;160.0
+Apartamento;Praça da Bandeira;1;0;0;36;1100.0;350.0;130.0
+Apartamento;Leblon;1;0;1;58;6000.0;950.0;150.0
+Apartamento;Ribeira;1;1;0;58;1100.0;565.0;500.0
+Apartamento;Copacabana;1;0;0;25;1200.0;420.0;25.0
+Quitinete;Centro;1;0;0;30;700.0;480.0;80.0
+Casa de Vila;Ramos;1;1;0;47;1000.0;;
+Apartamento;Tijuca;1;0;0;25;1400.0;310.0;
+Quitinete;Flamengo;1;0;0;22;1000.0;370.0;25.0
+Apartamento;Leme;1;0;0;35;2000.0;450.0;50.0
+Flat;Humaitá;1;1;0;50;2000.0;1233.0;142.0
+Quitinete;Guadalupe;1;0;0;21;500.0;9.0;
+Quitinete;Flamengo;1;0;0;23;1500.0;340.0;
+Apartamento;Tijuca;1;0;0;33;1350.0;260.0;24.0
+Apartamento;Ipanema;1;0;0;32;2300.0;279.0;23.0
+Apartamento;Cachambi;1;0;0;36;600.0;407.0;
+Apartamento;Barra da Tijuca;1;1;0;48;3200.0;1670.0;
+Apartamento;Santa Teresa;1;0;1;45;2150.0;700.0;100.0
+Flat;Ipanema;1;1;0;56;4400.0;1500.0;180.0
+Flat;Barra da Tijuca;1;1;1;62;2133.0;970.0;140.0
+Flat;Barra da Tijuca;1;0;0;60;2000.0;1550.0;
+Quitinete;Copacabana;1;0;0;35;1500.0;790.0;
+Apartamento;Tijuca;1;0;0;50;1400.0;511.0;
+Apartamento;Barra da Tijuca;1;1;0;76;1600.0;1007.0;181.0
+Apartamento;Copacabana;1;1;1;45;2250.0;1200.0;270.0
+Apartamento;Copacabana;1;0;0;50;2000.0;660.0;25.0
+Apartamento;Leblon;1;0;0;35;4000.0;;
+Apartamento;Glória;1;0;0;50;1400.0;480.0;20.0
+Apartamento;Leme;1;0;1;27;1400.0;385.0;
+Apartamento;Leblon;1;0;1;75;3200.0;900.0;130.0
+Apartamento;Méier;1;0;0;42;1200.0;380.0;15.0
+Flat;Barra da Tijuca;1;1;1;52;5500.0;2264.0;554.0
+Apartamento;Copacabana;1;0;0;38;1300.0;520.0;74.0
+Apartamento;Botafogo;1;1;0;61;2650.0;569.0;138.0
+Apartamento;Copacabana;1;0;0;35;3000.0;700.0;80.0
+Apartamento;Barra da Tijuca;1;1;0;42;1000.0;740.0;
+Casa;Bangu;1;0;0;40;600.0;;
+Flat;Barra da Tijuca;1;1;1;55;5000.0;2600.0;
+Apartamento;Engenho de Dentro;1;1;0;50;800.0;250.0;
+Loft;Copacabana;1;0;0;56;1500.0;678.0;56.0
+Quitinete;Copacabana;1;0;0;30;1600.0;390.0;24.0
+Quitinete;Centro;1;0;0;28;600.0;369.0;
+Apartamento;Glória;1;0;0;52;1700.0;560.0;
+Apartamento;Barra da Tijuca;1;2;1;90;3200.0;982.0;316.0
+Flat;Botafogo;1;1;1;45;2400.0;700.0;100.0
+Casa;Piedade;1;0;0;40;750.0;;16.0
+Apartamento;Méier;1;1;0;54;1300.0;900.0;14.0
+Apartamento;Gávea;1;0;0;45;2180.0;500.0;120.0
+Apartamento;Gardênia Azul;1;1;0;39;790.0;;
+Flat;Barra da Tijuca;1;1;0;55;2200.0;1624.0;260.0
+Apartamento;Grajaú;1;0;0;40;1000.0;460.0;25.0
+Apartamento;Copacabana;1;0;0;44;1500.0;531.0;25.0
+Apartamento;Leblon;1;0;0;45;3000.0;570.0;130.0
+Apartamento;Copacabana;1;0;0;21;1400.0;439.0;25.0
+Apartamento;Méier;1;1;0;55;800.0;400.0;17.0
+Apartamento;Grajaú;1;1;0;58;1100.0;670.0;360.0
+Apartamento;Copacabana;1;1;0;47;2500.0;900.0;500.0
+Loft;Leme;1;0;0;35;3500.0;450.0;50.0
+Apartamento;Botafogo;1;0;0;33;1350.0;480.0;60.0
+Apartamento;Barra da Tijuca;1;1;1;65;6000.0;1180.0;3000.0
+Apartamento;Copacabana;1;0;0;45;1700.0;470.0;58.0
+Apartamento;Largo do Machado;1;0;0;40;1300.0;335.0;
+Apartamento;Botafogo;1;1;0;50;2000.0;854.0;240.0
+Casa de Condomínio;Cachambi;1;1;0;70;1000.0;150.0;13.0
+Apartamento;Jardim Botânico;1;0;1;45;2200.0;650.0;
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;38;1600.0;935.0;217.0
+Flat;Ipanema;1;1;0;50;2500.0;2300.0;350.0
+Apartamento;Vila Isabel;1;0;0;35;1100.0;455.0;
+Apartamento;Praça Seca;1;1;0;46;700.0;300.0;107.0
+Quitinete;Copacabana;1;0;0;27;800.0;626.0;20.0
+Flat;Ipanema;1;1;1;45;4000.0;2425.0;271.0
+Apartamento;Barra da Tijuca;1;1;0;67;1850.0;900.0;232.0
+Apartamento;Botafogo;1;0;1;45;1600.0;270.0;77.0
+Apartamento;Jardim Guanabara;1;1;0;44;1100.0;230.0;48.0
+Loft;Barra da Tijuca;1;1;0;50;1000.0;2050.0;340.0
+Apartamento;Glória;1;0;0;50;2100.0;;27.0
+Apartamento;Botafogo;1;0;0;35;1700.0;620.0;25.0
+Apartamento;Copacabana;1;0;0;36;1800.0;605.0;68.0
+Apartamento;Maracanã;1;1;0;62;1500.0;688.0;53.0
+Casa;Taquara;1;0;0;60;1000.0;;
+Quitinete;Leblon;1;0;0;25;1550.0;360.0;58.0
+Casa;Campo Grande;1;0;0;50;400.0;;
+Casa;Vila da Penha;1;0;0;100;800.0;;
+Apartamento;Barra da Tijuca;1;1;0;60;2700.0;1580.0;350.0
+Apartamento;Cachambi;1;1;0;64;900.0;600.0;
+Quitinete;Centro;1;0;0;46;800.0;350.0;
+Apartamento;Tijuca;1;0;0;40;900.0;640.0;21.0
+Apartamento;Barra da Tijuca;1;1;0;57;1200.0;1512.0;280.0
+Apartamento;Urca;1;0;0;45;1700.0;250.0;75.0
+Casa;Campo Grande;1;0;0;60;450.0;;20.0
+Apartamento;Copacabana;1;1;0;69;2700.0;836.0;166.0
+Apartamento;Copacabana;1;0;0;45;1700.0;505.0;67.0
+Casa;Oswaldo Cruz;1;0;0;50;700.0;;
+Loft;Urca;1;0;1;64;2500.0;650.0;1577.0
+Quitinete;Copacabana;1;0;1;23;1500.0;400.0;
+Apartamento;Copacabana;1;0;0;24;1400.0;475.0;53.0
+Apartamento;Leme;1;0;0;40;1200.0;700.0;633.0
+Apartamento;Copacabana;1;0;1;40;1700.0;510.0;23.0
+Apartamento;Barra da Tijuca;1;1;1;72;1800.0;920.0;198.0
+Apartamento;Ipanema;1;0;1;39;7000.0;460.0;1024.0
+Apartamento;Leblon;1;1;1;57;4300.0;1631.0;304.0
+Quitinete;Praça da Bandeira;1;0;0;23;850.0;397.0;25.0
+Apartamento;Vila Isabel;1;1;0;66;1200.0;750.0;20.0
+Casa de Vila;Oswaldo Cruz;1;0;0;50;730.0;;
+Apartamento;Barra da Tijuca;1;1;0;82;1700.0;2114.0;
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;1550.0;350.0
+Apartamento;Centro;1;0;1;39;1650.0;580.0;51.0
+Apartamento;Barra da Tijuca;1;0;0;38;3600.0;;
+Apartamento;Flamengo;1;0;0;30;1350.0;250.0;40.0
+Apartamento;Leblon;1;1;0;55;3000.0;728.0;183.0
+Casa de Condomínio;Pechincha;1;0;0;72;1200.0;100.0;
+Flat;Ipanema;1;1;1;80;6000.0;2700.0;300.0
+Apartamento;Barra da Tijuca;1;1;0;50;2000.0;1130.0;
+Quitinete;Tijuca;1;0;0;27;900.0;385.0;20.0
+Casa;Irajá;1;0;0;45;600.0;;17.0
+Apartamento;Praça da Bandeira;1;0;0;30;900.0;310.0;
+Flat;Leblon;1;1;0;50;4300.0;1897.0;214.0
+Apartamento;Campo Grande;1;0;0;65;650.0;110.0;
+Apartamento;Copacabana;1;0;0;27;1200.0;300.0;
+Apartamento;Barra da Tijuca;1;1;0;62;3000.0;1300.0;
+Apartamento;Urca;1;0;0;45;2300.0;330.0;75.0
+Quitinete;Botafogo;1;0;0;26;1200.0;320.0;
+Apartamento;Barra da Tijuca;1;1;0;52;2000.0;1966.0;450.0
+Quitinete;Tijuca;1;0;0;25;1000.0;449.0;
+Apartamento;Barra da Tijuca;1;1;0;55;3000.0;1238.0;
+Apartamento;Barra da Tijuca;1;1;0;55;1500.0;2092.0;400.0
+Apartamento;Méier;1;1;0;87;1100.0;411.0;
+Apartamento;Grajaú;1;1;0;50;1100.0;500.0;
+Quitinete;Laranjeiras;1;0;0;30;1200.0;380.0;
+Apartamento;Centro;1;0;0;40;1100.0;707.0;70.0
+Apartamento;Copacabana;1;0;0;30;2900.0;;
+Apartamento;Copacabana;1;1;0;55;4000.0;1200.0;
+Apartamento;Copacabana;1;0;0;42;1600.0;590.0;
+Flat;Leblon;1;1;1;40;6000.0;;
+Loft;Barra da Tijuca;1;1;1;100;6000.0;1500.0;200.0
+Apartamento;Catete;1;0;0;47;1900.0;380.0;
+Apartamento;Copacabana;1;0;1;52;1500.0;530.0;24.0
+Apartamento;Catete;1;0;0;29;1100.0;320.0;25.0
+Apartamento;Gávea;1;1;0;52;2800.0;775.0;106.0
+Apartamento;São Cristóvão;1;0;0;55;900.0;450.0;
+Apartamento;Botafogo;1;0;1;90;3500.0;1000.0;380.0
+Apartamento;Flamengo;1;0;0;50;1600.0;580.0;
+Flat;Botafogo;1;1;0;50;2400.0;1100.0;30.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;56;1200.0;647.0;
+Apartamento;Copacabana;1;0;0;42;4000.0;2060.0;30.0
+Apartamento;Centro;1;0;0;40;1050.0;340.0;
+Apartamento;Cascadura;1;0;0;54;760.0;80.0;
+Apartamento;Recreio dos Bandeirantes;1;1;0;40;1800.0;350.0;112.0
+Apartamento;Flamengo;1;0;0;40;1700.0;540.0;30.0
+Apartamento;Barra da Tijuca;1;1;1;60;6500.0;;
+Quitinete;Centro;1;0;0;29;1200.0;325.0;
+Apartamento;Tijuca;1;0;0;45;1300.0;400.0;
+Apartamento;Tijuca;1;0;0;45;1000.0;440.0;
+Casa de Vila;Quintino Bocaiúva;1;0;0;34;600.0;;
+Apartamento;Leblon;1;1;0;50;3200.0;1850.0;215.0
+Apartamento;Ipanema;1;1;1;80;5500.0;1200.0;260.0
+Apartamento;Leme;1;0;0;50;2500.0;600.0;
+Apartamento;Ramos;1;0;0;58;900.0;;
+Quitinete;Copacabana;1;0;0;20;2200.0;;
+Apartamento;Centro;1;0;0;34;1000.0;454.0;25.0
+Apartamento;Copacabana;1;0;0;42;2100.0;500.0;67.0
+Apartamento;Ipanema;1;0;1;50;2400.0;500.0;1200.0
+Apartamento;Vila Isabel;1;1;0;30;1100.0;620.0;
+Apartamento;Tijuca;1;0;0;40;1100.0;534.0;25.0
+Quitinete;Copacabana;1;0;0;25;1950.0;310.0;25.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;37;1200.0;1130.0;227.0
+Apartamento;Leme;1;0;0;44;1300.0;560.0;69.0
+Casa;Rocha Miranda;1;0;0;55;800.0;;
+Apartamento;Leblon;1;0;0;50;1900.0;780.0;
+Apartamento;Tijuca;1;0;0;59;1250.0;500.0;
+Apartamento;Anil;1;1;0;40;1100.0;320.0;13.0
+Apartamento;Copacabana;1;0;0;42;1800.0;460.0;78.0
+Apartamento;Centro;1;0;0;35;1100.0;340.0;20.0
+Quitinete;Vila Isabel;1;0;0;16;980.0;80.0;
+Apartamento;Copacabana;1;0;0;40;2000.0;620.0;30.0
+Apartamento;Flamengo;1;1;0;50;2200.0;682.0;22.0
+Flat;Ipanema;1;1;0;50;2500.0;2100.0;333.0
+Apartamento;Copacabana;1;0;0;30;1800.0;454.0;53.0
+Apartamento;Vila da Penha;1;0;0;35;500.0;;
+Casa de Vila;Cascadura;1;0;0;36;750.0;;
+Apartamento;Barra da Tijuca;1;1;0;30;1500.0;475.0;89.0
+Quitinete;Copacabana;1;0;0;30;1000.0;425.0;29.0
+Quitinete;Centro;1;0;0;22;900.0;350.0;24.0
+Apartamento;Botafogo;1;1;0;70;2100.0;872.0;162.0
+Apartamento;Tijuca;1;0;0;48;1200.0;310.0;47.0
+Apartamento;Barra da Tijuca;1;2;1;65;3500.0;1600.0;250.0
+Quitinete;Copacabana;1;0;0;33;900.0;800.0;30.0
+Apartamento;Flamengo;1;0;0;44;1500.0;450.0;70.0
+Apartamento;Lins de Vasconcelos;1;1;0;44;800.0;435.0;14.0
+Quitinete;Botafogo;1;0;0;21;900.0;350.0;24.0
+Apartamento;Botafogo;1;0;0;24;2000.0;481.0;25.0
+Flat;Jacarepaguá;1;1;0;40;1200.0;1000.0;126.0
+Quitinete;Grajaú;1;0;0;30;900.0;590.0;20.0
+Apartamento;Tijuca;1;1;0;52;1500.0;505.0;21.0
+Apartamento;Copacabana;1;0;0;35;1700.0;440.0;58.0
+Apartamento;Engenho Novo;1;0;0;45;800.0;460.0;
+Flat;Barra da Tijuca;1;1;0;54;2300.0;1735.0;290.0
+Quitinete;Copacabana;1;0;0;25;1000.0;545.0;30.0
+Apartamento;Copacabana;1;0;1;40;1900.0;900.0;69.0
+Apartamento;Copacabana;1;0;0;60;2300.0;400.0;30.0
+Apartamento;Copacabana;1;0;0;50;2000.0;;
+Quitinete;Copacabana;1;0;0;40;1550.0;420.0;133.0
+Apartamento;São Conrado;1;1;1;55;2970.0;960.0;190.0
+Quitinete;Tijuca;1;0;0;24;1000.0;380.0;20.0
+Apartamento;Centro;1;0;0;43;1400.0;420.0;47.0
+Apartamento;Centro;1;0;0;25;850.0;223.0;24.0
+Apartamento;Jardim Guanabara;1;1;0;30;1000.0;450.0;24.0
+Apartamento;Copacabana;1;0;1;60;2200.0;400.0;25.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;55;900.0;690.0;40.0
+Quitinete;Flamengo;1;0;0;30;1500.0;280.0;29.0
+Apartamento;Laranjeiras;1;0;0;90;2600.0;730.0;100.0
+Loft;Copacabana;1;1;0;39;5500.0;550.0;
+Apartamento;Ipanema;1;0;0;40;1200.0;640.0;29.0
+Apartamento;Tijuca;1;1;1;40;1600.0;493.0;
+Apartamento;Barra da Tijuca;1;1;1;45;2800.0;1180.0;240.0
+Flat;Botafogo;1;1;0;40;2900.0;1071.0;102.0
+Casa;Vila da Penha;1;0;0;45;800.0;;
+Apartamento;Barra da Tijuca;1;1;1;70;2500.0;1400.0;347.0
+Apartamento;Botafogo;1;0;0;25;2000.0;;
+Apartamento;Copacabana;1;0;1;41;2200.0;630.0;
+Apartamento;Ipanema;1;0;0;50;3500.0;379.0;88.0
+Apartamento;Guadalupe;1;1;1;45;800.0;250.0;
+Apartamento;Copacabana;1;1;1;130;10000.0;1200.0;
+Apartamento;Copacabana;1;1;0;55;2400.0;1766.0;147.0
+Apartamento;Barra da Tijuca;1;1;0;68;1800.0;1354.0;299.0
+Apartamento;Copacabana;1;0;0;40;2600.0;605.0;253.0
+Apartamento;Ipanema;1;1;0;80;2700.0;800.0;80.0
+Flat;Ipanema;1;1;0;60;6500.0;;
+Apartamento;Catete;1;0;0;55;1300.0;519.0;291.0
+Apartamento;Copacabana;1;0;0;50;1300.0;550.0;
+Apartamento;Botafogo;1;1;1;60;2800.0;1200.0;90.0
+Apartamento;Barra da Tijuca;1;1;0;45;1300.0;638.0;120.0
+Quitinete;Centro;1;0;0;26;900.0;350.0;19.0
+Quitinete;Laranjeiras;1;0;0;24;1500.0;500.0;
+Apartamento;Copacabana;1;0;1;74;2900.0;700.0;183.0
+Apartamento;Ipanema;1;0;0;42;2800.0;775.0;173.0
+Quitinete;Glória;1;0;0;26;1000.0;360.0;
+Quitinete;Copacabana;1;0;0;27;1500.0;400.0;
+Apartamento;Centro;1;0;0;32;900.0;342.0;24.0
+Casa;Praça Seca;1;1;0;30;800.0;40.0;
+Apartamento;Barra da Tijuca;1;1;0;50;2000.0;1298.0;
+Apartamento;Flamengo;1;0;0;36;1900.0;430.0;55.0
+Apartamento;Leblon;1;1;1;81;4500.0;1717.0;363.0
+Apartamento;Santa Teresa;1;0;0;60;1700.0;260.0;
+Quitinete;Copacabana;1;0;0;26;1100.0;607.0;225.0
+Apartamento;Copacabana;1;0;0;60;2450.0;730.0;27.0
+Quitinete;Botafogo;1;0;0;20;1200.0;481.0;
+Apartamento;Copacabana;1;0;0;21;1100.0;405.0;
+Apartamento;Copacabana;1;0;0;46;1500.0;580.0;100.0
+Apartamento;Copacabana;1;0;1;34;2000.0;480.0;
+Apartamento;Barra da Tijuca;1;1;1;62;1500.0;1080.0;261.0
+Apartamento;Centro;1;0;0;25;1100.0;;
+Quitinete;Largo do Machado;1;0;0;26;1300.0;407.0;26.0
+Apartamento;Flamengo;1;0;0;32;1400.0;650.0;30.0
+Flat;Barra da Tijuca;1;1;1;54;10000.0;2200.0;250.0
+Apartamento;Botafogo;1;1;0;45;2200.0;561.0;55.0
+Apartamento;Flamengo;1;0;0;23;800.0;480.0;29.0
+Apartamento;Flamengo;1;0;0;35;1800.0;418.0;25.0
+Apartamento;Flamengo;1;0;1;30;1200.0;467.0;250.0
+Apartamento;Flamengo;1;1;0;45;2200.0;620.0;240.0
+Apartamento;Copacabana;1;0;0;43;1600.0;549.0;75.0
+Apartamento;Centro;1;0;0;71;1800.0;400.0;66.0
+Quitinete;Centro;1;0;0;30;400.0;615.0;25.0
+Quitinete;Ipanema;1;0;0;30;3500.0;600.0;120.0
+Apartamento;Copacabana;1;0;0;48;2000.0;558.0;29.0
+Apartamento;Copacabana;1;0;0;23;1400.0;631.0;62.0
+Quitinete;Copacabana;1;0;0;40;1700.0;550.0;69.0
+Apartamento;Centro;1;0;0;47;1840.0;418.0;24.0
+Quitinete;Pechincha;1;0;0;30;500.0;;
+Apartamento;Campo Grande;1;1;0;48;650.0;250.0;12.0
+Apartamento;Ipanema;1;1;0;55;2600.0;648.0;126.0
+Quitinete;Centro;1;0;0;25;800.0;330.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;65;2800.0;1100.0;150.0
+Apartamento;Barra da Tijuca;1;2;1;107;7000.0;2200.0;
+Apartamento;Leme;1;0;1;50;2300.0;891.0;68.0
+Apartamento;Barra da Tijuca;1;1;1;68;4000.0;1002.0;1400.0
+Apartamento;Flamengo;1;0;0;50;1600.0;680.0;73.0
+Apartamento;Flamengo;1;0;0;52;1400.0;609.0;101.0
+Apartamento;Botafogo;1;1;1;85;2700.0;832.0;210.0
+Apartamento;Copacabana;1;0;0;42;1700.0;506.0;58.0
+Apartamento;Botafogo;1;0;0;50;1650.0;450.0;
+Apartamento;Laranjeiras;1;1;0;59;1900.0;695.0;45.0
+Casa de Vila;Magalhães Bastos;1;0;0;20;380.0;;
+Apartamento;Barra da Tijuca;1;1;0;68;1700.0;1600.0;
+Apartamento;Copacabana;1;0;0;39;1800.0;490.0;71.0
+Apartamento;Centro;1;0;0;28;900.0;370.0;20.0
+Apartamento;Centro;1;0;0;250;35000.0;;
+Apartamento;Catete;1;0;0;38;1700.0;582.0;24.0
+Casa de Vila;Madureira;1;0;0;40;600.0;;
+Apartamento;Centro;1;0;0;37;940.0;385.0;24.0
+Quitinete;Copacabana;1;0;0;30;1650.0;500.0;30.0
+Flat;Centro;1;0;0;32;1900.0;420.0;50.0
+Quitinete;Centro;1;0;0;31;750.0;350.0;24.0
+Apartamento;Urca;1;0;0;48;2900.0;648.0;26.0
+Apartamento;Ipanema;1;0;0;70;2600.0;920.0;
+Apartamento;Leblon;1;1;0;55;5250.0;2000.0;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;45;1100.0;485.0;36.0
+Apartamento;Catete;1;1;0;58;1900.0;700.0;117.0
+Apartamento;Copacabana;1;0;0;55;2200.0;510.0;20.0
+Quitinete;Laranjeiras;1;0;0;25;1200.0;400.0;29.0
+Quitinete;Copacabana;1;0;0;35;1200.0;;48.0
+Apartamento;Tijuca;1;0;0;35;1000.0;300.0;50.0
+Apartamento;Barra da Tijuca;1;1;1;58;2500.0;1170.0;300.0
+Casa;Maria da Graça;1;0;0;57;850.0;;
+Apartamento;Copacabana;1;0;0;22;1250.0;285.0;23.0
+Apartamento;Botafogo;1;1;0;59;2200.0;730.0;127.0
+Flat;Leblon;1;0;0;50;3800.0;1897.0;214.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;54;1550.0;1113.0;
+Apartamento;Flamengo;1;0;0;42;2500.0;510.0;335.0
+Apartamento;Flamengo;1;0;0;65;3000.0;623.0;172.0
+Apartamento;Barra da Tijuca;1;1;0;68;3500.0;1624.0;
+Apartamento;Cascadura;1;0;0;45;650.0;250.0;
+Apartamento;Barra da Tijuca;1;1;1;36;1580.0;475.0;89.0
+Apartamento;Centro;1;0;0;34;850.0;410.0;24.0
+Apartamento;Barra da Tijuca;1;1;0;34;1600.0;600.0;129.0
+Flat;Centro;1;0;0;35;1700.0;360.0;20.0
+Quitinete;Leblon;1;0;0;26;2800.0;600.0;30.0
+Apartamento;Copacabana;1;0;1;68;3000.0;700.0;
+Apartamento;Vila Isabel;1;1;1;52;1000.0;750.0;25.0
+Apartamento;Andaraí;1;0;0;60;1100.0;150.0;20.0
+Apartamento;Quintino Bocaiúva;1;0;0;40;700.0;66.0;
+Flat;Lagoa;1;0;0;56;3000.0;1700.0;295.0
+Apartamento;Tijuca;1;0;1;32;1750.0;320.0;
+Apartamento;Copacabana;1;0;0;50;1800.0;520.0;30.0
+Flat;Botafogo;1;1;0;40;2500.0;1070.0;183.0
+Apartamento;Ipanema;1;0;0;30;1300.0;470.0;24.0
+Apartamento;Tijuca;1;0;1;31;1300.0;534.0;24.0
+Quitinete;Ipanema;1;0;0;60;1800.0;580.0;79.0
+Quitinete;Copacabana;1;0;0;30;1300.0;500.0;
+Apartamento;Copacabana;1;0;0;35;3500.0;;
+Apartamento;Tijuca;1;0;0;40;1250.0;499.0;
+Apartamento;Ipanema;1;0;0;55;2300.0;820.0;90.0
+Apartamento;Barra da Tijuca;1;1;1;65;1500.0;1800.0;320.0
+Quitinete;Copacabana;1;0;0;35;1200.0;450.0;15.0
+Quitinete;Copacabana;1;0;0;25;1300.0;420.0;
+Casa;Jardim América;1;0;0;15;400.0;;
+Apartamento;Ipanema;1;0;0;65;2800.0;700.0;180.0
+Flat;Copacabana;1;1;0;55;1900.0;1900.0;190.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;45;2700.0;1000.0;100.0
+Apartamento;Ipanema;1;0;0;46;2600.0;525.0;124.0
+Apartamento;Jacarepaguá;1;1;0;36;1200.0;960.0;14.0
+Flat;Ipanema;1;1;1;65;4000.0;1518.0;224.0
+Apartamento;Copacabana;1;0;0;60;2500.0;535.0;60.0
+Quitinete;Gardênia Azul;1;0;0;30;500.0;;
+Apartamento;Ipanema;1;0;1;55;2597.0;420.0;90.0
+Quitinete;Centro;1;0;0;40;1800.0;384.0;202.0
+Conjunto Comercial/Sala;Centro;1;0;0;36;850.0;600.0;
+Apartamento;Tijuca;1;1;0;55;2100.0;1.0;
+Apartamento;Oswaldo Cruz;1;0;0;50;700.0;;
+Apartamento;Maracanã;1;1;0;60;1400.0;492.0;25.0
+Flat;Leblon;1;1;0;60;3000.0;1960.0;236.0
+Apartamento;Botafogo;1;0;0;35;1590.0;399.0;25.0
+Apartamento;Campo Grande;1;0;0;50;600.0;;
+Apartamento;Copacabana;1;0;0;55;2300.0;530.0;80.0
+Apartamento;Centro;1;0;0;38;900.0;355.0;21.0
+Quitinete;Ipanema;1;0;0;25;2000.0;433.0;61.0
+Quitinete;Bonsucesso;1;0;0;40;600.0;;12.0
+Casa de Vila;Oswaldo Cruz;1;0;0;25;500.0;;
+Apartamento;Olaria;1;0;0;56;780.0;318.0;
+Casa;Curicica;1;0;0;50;800.0;;80.0
+Apartamento;Copacabana;1;0;1;60;3500.0;;
+Apartamento;Copacabana;1;0;1;100;3300.0;;
+Apartamento;Centro;1;0;0;53;1350.0;354.0;50.0
+Apartamento;Copacabana;1;0;0;45;1200.0;600.0;58.0
+Apartamento;Barra da Tijuca;1;1;0;60;1700.0;838.0;
+Quitinete;Botafogo;1;0;0;20;850.0;360.0;
+Quitinete;Centro;1;0;0;20;1000.0;286.0;19.0
+Apartamento;Botafogo;1;1;0;45;2300.0;1020.0;191.0
+Apartamento;Barra da Tijuca;1;1;0;70;1800.0;1050.0;150.0
+Apartamento;Rocha Miranda;1;0;0;32;1000.0;;
+Quitinete;Flamengo;1;0;0;24;1000.0;287.0;24.0
+Apartamento;Copacabana;1;1;0;34;3000.0;730.0;54.0
+Apartamento;Tijuca;1;0;1;46;1400.0;320.0;21.0
+Apartamento;Leblon;1;0;0;50;3000.0;460.0;95.0
+Apartamento;Barra da Tijuca;1;1;0;72;1600.0;1000.0;200.0
+Casa de Condomínio;Irajá;1;0;0;35;750.0;;
+Loft;Gardênia Azul;1;0;0;35;500.0;10.0;
+Apartamento;Barra da Tijuca;1;1;1;82;1600.0;1396.0;241.0
+Apartamento;Copacabana;1;0;1;48;1500.0;680.0;
+Apartamento;Copacabana;1;0;0;39;1600.0;500.0;71.0
+Apartamento;Barra da Tijuca;1;2;0;71;2900.0;1412.0;
+Flat;Copacabana;1;1;1;43;2500.0;2117.0;304.0
+Apartamento;Vila Isabel;1;1;1;75;1300.0;671.0;100.0
+Apartamento;Barra da Tijuca;1;1;1;65;2000.0;1550.0;350.0
+Apartamento;Laranjeiras;1;0;0;25;900.0;450.0;30.0
+Apartamento;Glória;1;0;0;36;1200.0;638.0;56.0
+Apartamento;Urca;1;0;0;38;2300.0;460.0;
+Apartamento;Gávea;1;0;0;62;2900.0;450.0;120.0
+Apartamento;Olaria;1;0;0;55;850.0;40.0;
+Apartamento;Copacabana;1;0;0;37;1500.0;560.0;24.0
+Casa de Vila;Vila Isabel;1;0;0;48;1200.0;;66.0
+Loft;Catete;1;0;0;69;2400.0;450.0;75.0
+Apartamento;Leblon;1;0;0;53;2900.0;730.0;195.0
+Apartamento;Flamengo;1;0;0;60;2700.0;1000.0;200.0
+Apartamento;Barra da Tijuca;1;1;1;40;1300.0;630.0;12.0
+Flat;Leblon;1;1;0;50;6500.0;2034.0;214.0
+Apartamento;Tijuca;1;0;0;42;1600.0;550.0;20.0
+Apartamento;Vicente de Carvalho;1;0;0;55;600.0;;16.0
+Apartamento;Barra da Tijuca;1;1;0;70;2800.0;1250.0;219.0
+Apartamento;Copacabana;1;1;0;55;2100.0;1450.0;180.0
+Apartamento;Botafogo;1;0;0;22;830.0;599.0;29.0
+Apartamento;Catete;1;0;1;30;1600.0;455.0;29.0
+Apartamento;Copacabana;1;0;0;60;2500.0;500.0;24.0
+Casa de Vila;Riachuelo;1;0;0;24;680.0;;16.0
+Apartamento;Copacabana;1;0;0;35;2500.0;500.0;
+Quitinete;Copacabana;1;0;0;34;1350.0;573.0;28.0
+Apartamento;Tijuca;1;1;0;62;1600.0;690.0;25.0
+Apartamento;Cacuia;1;0;0;37;800.0;200.0;24.0
+Apartamento;Ipanema;1;0;1;45;1500.0;970.0;
+Flat;Barra da Tijuca;1;1;0;45;1500.0;3080.0;560.0
+Quitinete;Centro;1;0;0;28;1200.0;570.0;
+Apartamento;Copacabana;1;0;0;35;1500.0;695.0;110.0
+Apartamento;Vila Isabel;1;0;0;36;1000.0;480.0;20.0
+Quitinete;Anil;1;0;0;30;450.0;;
+Flat;Barra da Tijuca;1;1;0;60;2000.0;1600.0;300.0
+Quitinete;Copacabana;1;0;0;39;2100.0;600.0;
+Apartamento;Copacabana;1;0;0;40;2000.0;377.0;77.0
+Apartamento;Laranjeiras;1;1;0;36;1900.0;815.0;
+Apartamento;Pedra de Guaratiba;1;0;0;35;450.0;;
+Quitinete;Copacabana;1;0;0;35;2000.0;;
+Casa de Vila;Irajá;1;0;0;60;800.0;;
+Apartamento;Campinho;1;0;1;35;660.0;66.0;
+Apartamento;Del Castilho;1;0;0;50;1000.0;;18.0
+Apartamento;Méier;1;0;0;67;800.0;430.0;
+Flat;Ipanema;1;1;0;60;2500.0;2000.0;350.0
+Flat;Botafogo;1;1;1;45;2500.0;1050.0;324.0
+Apartamento;Centro;1;0;0;48;1300.0;335.0;21.0
+Apartamento;Copacabana;1;0;0;50;2500.0;;
+Apartamento;Ipanema;1;0;0;54;2300.0;444.0;
+Apartamento;Lagoa;1;0;0;110;4500.0;1200.0;200.0
+Quitinete;Glória;1;0;0;29;600.0;335.0;25.0
+Apartamento;Flamengo;1;0;0;45;2000.0;530.0;
+Flat;Botafogo;1;1;1;60;2400.0;1115.0;100.0
+Casa;Santíssimo;1;1;0;55;900.0;;
+Apartamento;Copacabana;1;0;0;20;1100.0;400.0;
+Apartamento;Rio Comprido;1;0;0;39;1200.0;250.0;15.0
+Apartamento;Freguesia (Jacarepaguá);1;1;0;49;950.0;430.0;35.0
+Apartamento;Copacabana;1;0;0;30;2250.0;650.0;55.0
+Quitinete;Botafogo;1;0;0;25;1580.0;206.0;24.0
+Apartamento;Estácio;1;1;1;32;1000.0;410.0;21.0
+Apartamento;Copacabana;1;0;1;43;1600.0;600.0;25.0
+Apartamento;Copacabana;1;0;1;30;1700.0;500.0;200.0
+Apartamento;Andaraí;1;0;0;40;1250.0;565.0;21.0
+Apartamento;Leblon;1;1;0;55;4000.0;1000.0;
+Apartamento;Copacabana;1;0;0;50;1800.0;620.0;73.0
+Apartamento;Copacabana;1;0;0;52;1850.0;600.0;
+Apartamento;Flamengo;1;0;1;33;1200.0;350.0;
+Apartamento;Campinho;1;0;0;69;600.0;;
+Apartamento;Glória;1;0;0;60;1200.0;550.0;70.0
+Apartamento;Botafogo;1;1;0;60;2150.0;903.0;131.0
+Casa;Bento Ribeiro;1;0;0;50;790.0;;
+Apartamento;Flamengo;1;0;0;18;1000.0;373.0;29.0
+Flat;Centro;1;1;0;30;1700.0;701.0;25.0
+Casa de Condomínio;Piedade;1;0;0;30;560.0;90.0;10.0
+Quitinete;Copacabana;1;0;0;42;1300.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;40;1500.0;550.0;48.0
+Apartamento;Méier;1;0;0;40;700.0;355.0;17.0
+Quitinete;Copacabana;1;0;0;20;1600.0;350.0;20.0
+Quitinete;Copacabana;1;0;0;28;1300.0;410.0;25.0
+Apartamento;Centro;1;0;0;35;1200.0;676.0;27.0
+Apartamento;Botafogo;1;0;1;40;2400.0;353.0;
+Apartamento;Barra da Tijuca;1;1;0;60;2300.0;1000.0;
+Apartamento;Recreio dos Bandeirantes;1;1;0;58;1500.0;1035.0;
+Apartamento;Vidigal;1;1;1;84;3000.0;1194.0;85.0
+Quitinete;Leme;1;0;0;40;1500.0;350.0;20.0
+Casa Comercial;Botafogo;1;6;0;500;23000.0;490.0;791.0
+Apartamento;São Conrado;1;0;1;80;2700.0;1188.0;230.0
+Apartamento;Pechincha;1;1;0;50;600.0;500.0;20.0
+Apartamento;Leblon;1;0;0;40;2900.0;380.0;
+Apartamento;Ipanema;1;0;0;68;6000.0;966.0;61.0
+Quitinete;Glória;1;0;0;32;920.0;480.0;38.0
+Apartamento;Centro;1;0;0;48;800.0;80.0;
+Apartamento;Leblon;1;0;0;32;2500.0;280.0;61.0
+Casa de Vila;Bento Ribeiro;1;1;0;35;500.0;;
+Quitinete;Copacabana;1;0;0;28;950.0;450.0;29.0
+Quitinete;Catete;1;0;0;25;800.0;420.0;22.0
+Apartamento;Copacabana;1;0;0;65;2200.0;650.0;130.0
+Apartamento;Copacabana;1;0;0;45;2400.0;;
+Apartamento;Copacabana;1;0;0;46;2000.0;631.0;
+Quitinete;Centro;1;0;0;20;850.0;231.0;198.0
+Apartamento;Tijuca;1;1;0;50;1600.0;560.0;20.0
+Apartamento;Flamengo;1;0;1;31;2100.0;470.0;27.0
+Casa de Vila;Vila da Penha;1;0;0;40;900.0;;
+Apartamento;Engenho Novo;1;1;0;45;590.0;270.0;16.0
+Quitinete;Botafogo;1;0;0;30;1900.0;471.0;25.0
+Quitinete;Catete;1;0;0;28;1400.0;286.0;30.0
+Quitinete;Copacabana;1;0;0;30;1000.0;365.0;
+Apartamento;Barra da Tijuca;1;1;0;60;1800.0;2079.0;339.0
+Apartamento;Copacabana;1;0;0;37;1300.0;522.0;58.0
+Quitinete;Copacabana;1;0;0;29;1800.0;380.0;532.0
+Apartamento;Flamengo;1;0;0;32;1200.0;360.0;25.0
+Apartamento;Copacabana;1;0;0;45;1600.0;450.0;20.0
+Apartamento;Laranjeiras;1;0;0;36;1500.0;391.0;
+Quitinete;Copacabana;1;0;0;48;1600.0;570.0;76.0
+Quitinete;Curicica;1;0;0;35;700.0;;
+Apartamento;Barra da Tijuca;1;1;0;42;950.0;650.0;15.0
+Quitinete;Copacabana;1;0;0;30;1200.0;450.0;25.0
+Apartamento;Vila Isabel;1;0;1;84;1700.0;;135.0
+Quitinete;Copacabana;1;0;0;25;2000.0;280.0;100.0
+Apartamento;Copacabana;1;0;0;40;1500.0;959.0;67.0
+Apartamento;Copacabana;1;0;0;31;1600.0;440.0;53.0
+Apartamento;Barra da Tijuca;1;1;1;45;1070.0;644.0;37.0
+Casa de Vila;Guaratiba;1;0;0;24;400.0;;
+Quitinete;Glória;1;0;1;55;2200.0;;
+Apartamento;Méier;1;0;0;33;700.0;315.0;14.0
+Apartamento;Botafogo;1;0;0;45;1800.0;450.0;67.0
+Apartamento;Copacabana;1;0;0;66;2500.0;573.0;162.0
+Apartamento;Tijuca;1;1;0;70;1600.0;688.0;
+Casa de Vila;Campo Grande;1;1;0;70;750.0;50.0;
+Apartamento;Humaitá;1;0;1;72;3200.0;1760.0;240.0
+Apartamento;Tauá;1;0;0;50;870.0;150.0;
+Apartamento;Santa Teresa;1;0;0;40;1200.0;240.0;
+Apartamento;Copacabana;1;0;0;50;2500.0;423.0;20.0
+Quitinete;Flamengo;1;0;0;26;1200.0;550.0;56.0
+Apartamento;Tijuca;1;0;0;43;1100.0;210.0;
+Apartamento;Vigário Geral;1;0;0;40;500.0;;
+Apartamento;Andaraí;1;0;0;50;1700.0;360.0;
+Quitinete;São Cristóvão;1;0;0;25;530.0;120.0;25.0
+Quitinete;Botafogo;1;0;0;17;850.0;356.0;
+Apartamento;Lapa;1;0;0;40;1800.0;500.0;
+Quitinete;Centro;1;0;1;28;1000.0;471.0;225.0
+Apartamento;Cachambi;1;0;0;50;900.0;;
+Quitinete;Tijuca;1;0;0;20;1000.0;300.0;
+Apartamento;Leblon;1;1;0;55;4500.0;4200.0;
+Apartamento;Botafogo;1;0;0;41;1500.0;457.0;70.0
+Apartamento;Ipanema;1;1;1;125;9500.0;2000.0;380.0
+Quitinete;Copacabana;1;0;0;30;1300.0;512.0;22.0
+Apartamento;Leblon;1;0;0;90;5500.0;500.0;209.0
+Quitinete;Centro;1;0;0;20;700.0;208.0;25.0
+Apartamento;Flamengo;1;0;1;122;12000.0;;
+Apartamento;Ipanema;1;0;0;50;1800.0;580.0;35.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;0;0;80;2400.0;;
+Loft;Copacabana;1;0;0;40;2000.0;411.0;
+Quitinete;Centro;1;0;0;29;700.0;269.0;24.0
+Quitinete;Leme;1;0;0;30;1600.0;600.0;25.0
+Apartamento;Flamengo;1;0;0;30;1500.0;400.0;
+Apartamento;Glória;1;0;0;43;1500.0;510.0;48.0
+Apartamento;Flamengo;1;1;0;44;1900.0;375.0;
+Apartamento;Vila da Penha;1;0;0;62;1200.0;505.0;
+Flat;Humaitá;1;1;0;55;2100.0;1344.0;163.0
+Flat;Ipanema;1;1;0;44;1800.0;2304.0;315.0
+Apartamento;Catete;1;0;0;39;1500.0;400.0;20.0
+Apartamento;Itanhangá;1;0;0;30;700.0;;
+Apartamento;Leblon;1;0;0;42;3200.0;550.0;260.0
+Apartamento;Copacabana;1;0;0;41;2800.0;407.0;68.0
+Apartamento;Leblon;1;1;1;86;5500.0;1300.0;312.0
+Apartamento;Ipanema;1;1;1;107;10000.0;2907.0;698.0
+Apartamento;Copacabana;1;0;0;40;1600.0;630.0;70.0
+Apartamento;Quintino Bocaiúva;1;1;0;35;650.0;314.0;
+Casa;Campo Grande;1;0;0;50;550.0;;
+Apartamento;Barra da Tijuca;1;1;1;68;2200.0;1400.0;
+Quitinete;Catete;1;0;0;25;1500.0;262.0;190.0
+Apartamento;Copacabana;1;0;1;105;5660.0;940.0;
+Apartamento;São Cristóvão;1;1;0;60;1100.0;400.0;11.0
+Apartamento;Olaria;1;0;0;49;1200.0;;
+Apartamento;Flamengo;1;0;1;41;1700.0;300.0;
+Loja Shopping/ Ct Comercial;Ricardo de Albuquerque;1;0;0;24;450.0;;
+Apartamento;Leme;1;0;1;40;2600.0;386.0;72.0
+Apartamento;Barra da Tijuca;1;1;0;50;6300.0;;
+Apartamento;Ramos;1;1;0;55;1000.0;;
+Apartamento;Vaz Lobo;1;0;0;60;800.0;;
+Apartamento;Flamengo;1;0;0;45;1800.0;371.0;70.0
+Apartamento;Barra da Tijuca;1;1;0;67;1600.0;951.0;176.0
+Apartamento;Botafogo;1;0;0;24;1500.0;470.0;24.0
+Apartamento;Lins de Vasconcelos;1;1;0;42;1050.0;504.0;16.0
+Apartamento;Rio Comprido;1;1;0;99;1000.0;777.0;68.0
+Apartamento;Centro;1;0;0;56;1900.0;917.0;2004.0
+Apartamento;Barra da Tijuca;1;2;1;186;3500.0;1400.0;480.0
+Apartamento;Leme;1;0;0;26;1100.0;605.0;26.0
+Flat;Leblon;1;0;0;56;4500.0;1900.0;1500.0
+Apartamento;São Cristóvão;1;0;0;41;1000.0;130.0;
+Apartamento;Barra da Tijuca;1;1;1;70;2200.0;1118.0;236.0
+Quitinete;Copacabana;1;0;0;25;700.0;520.0;
+Casa de Vila;Freguesia (Jacarepaguá);1;0;0;30;500.0;;
+Quitinete;Flamengo;1;0;0;34;1600.0;400.0;
+Casa;Bento Ribeiro;1;1;0;60;900.0;;
+Flat;Copacabana;1;1;0;65;2100.0;1930.0;154.0
+Apartamento;Higienópolis;1;0;0;45;700.0;130.0;
+Apartamento;Ipanema;1;2;1;80;3800.0;1400.0;
+Apartamento;Barra da Tijuca;1;0;0;30;1800.0;590.0;
+Apartamento;Copacabana;1;0;0;45;1500.0;460.0;71.0
+Apartamento;Barra da Tijuca;1;1;1;70;2300.0;1250.0;180.0
+Apartamento;Andaraí;1;1;0;69;1500.0;496.0;88.0
+Apartamento;Copacabana;1;0;0;50;1600.0;600.0;
+Quitinete;Botafogo;1;0;0;25;2000.0;;
+Apartamento;Tijuca;1;0;0;45;1200.0;315.0;21.0
+Quitinete;Grajaú;1;0;0;41;650.0;267.0;
+Apartamento;Jardim Botânico;1;0;0;37;2700.0;256.0;108.0
+Apartamento;Tijuca;1;0;0;24;1000.0;400.0;
+Apartamento;Copacabana;1;0;0;29;1600.0;520.0;26.0
+Apartamento;Catete;1;0;0;20;1200.0;154.0;
+Apartamento;Centro;1;0;0;36;900.0;230.0;20.0
+Loft;Ilha do Governador;1;0;0;70;750.0;;20.0
+Conjunto Comercial/Sala;Centro;1;0;0;27;700.0;325.0;111.0
+Apartamento;Tijuca;1;1;0;41;2000.0;388.0;
+Apartamento;Copacabana;1;0;0;42;1500.0;1718.0;41.0
+Apartamento;Campo Grande;1;0;0;45;950.0;;2.0
+Apartamento;Barra da Tijuca;1;1;0;65;2000.0;950.0;210.0
+Quitinete;Leme;1;0;0;25;1200.0;537.0;54.0
+Flat;Botafogo;1;1;0;39;2700.0;771.0;146.0
+Quitinete;Ipanema;1;0;0;30;1300.0;641.0;77.0
+Apartamento;Centro;1;0;0;35;950.0;425.0;25.0
+Flat;Barra da Tijuca;1;1;0;53;1500.0;1200.0;338.0
+Casa;Quintino Bocaiúva;1;0;0;55;800.0;;
+Apartamento;Vila Isabel;1;1;0;60;1300.0;830.0;89.0
+Apartamento;Grajaú;1;0;0;50;1200.0;378.0;25.0
+Quitinete;Copacabana;1;0;0;30;2500.0;;
+Apartamento;Flamengo;1;0;0;35;1400.0;277.0;29.0
+Apartamento;Barra da Tijuca;1;1;1;36;1550.0;475.0;
+Apartamento;Flamengo;1;1;0;58;3000.0;570.0;160.0
+Apartamento;Copacabana;1;0;0;33;3000.0;617.0;
+Apartamento;Copacabana;1;1;1;46;2800.0;;
+Apartamento;Copacabana;1;0;0;40;4500.0;2000.0;
+Apartamento;Barra da Tijuca;1;1;0;68;3500.0;1624.0;330.0
+Apartamento;Flamengo;1;0;0;36;1500.0;460.0;37.0
+Quitinete;Vila da Penha;1;0;0;25;750.0;100.0;
+Quitinete;Centro;1;0;0;34;800.0;330.0;
+Apartamento;Copacabana;1;0;0;55;3000.0;800.0;1000.0
+Quitinete;Flamengo;1;0;0;30;1600.0;300.0;24.0
+Apartamento;Santa Teresa;1;0;1;40;1700.0;680.0;90.0
+Apartamento;Copacabana;1;0;0;40;1500.0;630.0;35.0
+Apartamento;Copacabana;1;0;0;45;2000.0;468.0;166.0
+Apartamento;Leme;1;0;0;38;1300.0;620.0;27.0
+Loft;Recreio dos Bandeirantes;1;1;1;26;1400.0;200.0;
+Casa;Campinho;1;1;0;60;850.0;;
+Apartamento;Pitangueiras;1;1;0;50;1300.0;380.0;24.0
+Apartamento;Copacabana;1;0;0;36;1600.0;490.0;55.0
+Apartamento;Catete;1;0;0;39;1600.0;566.0;25.0
+Apartamento;Leblon;1;0;0;50;3500.0;1800.0;110.0
+Apartamento;Centro;1;0;0;28;1350.0;394.0;20.0
+Apartamento;Copacabana;1;0;0;27;1400.0;500.0;25.0
+Quitinete;Copacabana;1;0;0;22;1700.0;272.0;29.0
+Quitinete;Copacabana;1;0;0;27;2000.0;450.0;
+Apartamento;Copacabana;1;0;0;40;1500.0;447.0;25.0
+Apartamento;Maracanã;1;0;0;60;1200.0;553.0;21.0
+Casa de Vila;Alto da Boa Vista;1;0;0;40;600.0;65.0;19.0
+Quitinete;Copacabana;1;0;0;37;1350.0;612.0;22.0
+Apartamento;Botafogo;1;1;1;86;3500.0;951.0;
+Apartamento;Engenho Novo;1;1;0;51;800.0;532.0;16.0
+Flat;Barra da Tijuca;1;1;0;70;4500.0;1850.0;390.0
+Quitinete;Centro;1;0;1;24;1400.0;300.0;20.0
+Quitinete;Copacabana;1;0;0;35;1400.0;365.0;75.0
+Apartamento;Centro;1;0;0;40;1200.0;300.0;
+Quitinete;Copacabana;1;0;0;27;1200.0;450.0;54.0
+Flat;Centro;1;1;0;50;2000.0;600.0;200.0
+Quitinete;Copacabana;1;0;0;22;950.0;415.0;
+Apartamento;Centro;1;0;0;35;1150.0;430.0;180.0
+Apartamento;Irajá;1;0;0;40;700.0;;
+Apartamento;Copacabana;1;0;1;46;2100.0;732.0;90.0
+Apartamento;Copacabana;1;0;0;23;1230.0;340.0;30.0
+Quitinete;Copacabana;1;0;0;45;2600.0;600.0;700.0
+Apartamento;Andaraí;1;0;0;48;1050.0;195.0;20.0
+Apartamento;Copacabana;1;0;0;31;1850.0;584.0;67.0
+Apartamento;Piedade;1;1;0;40;650.0;305.0;16.0
+Apartamento;Copacabana;1;1;0;35;2200.0;560.0;64.0
+Quitinete;Copacabana;1;0;0;39;1900.0;518.0;34.0
+Flat;Barra da Tijuca;1;2;1;80;3500.0;800.0;120.0
+Apartamento;Centro;1;0;0;34;900.0;400.0;
+Quitinete;Flamengo;1;0;0;30;1900.0;285.0;30.0
+Apartamento;Barra da Tijuca;1;0;0;60;2800.0;610.0;
+Apartamento;Copacabana;1;0;0;30;1900.0;385.0;62.0
+Apartamento;Barra da Tijuca;1;1;1;43;3500.0;2660.0;253.0
+Apartamento;Copacabana;1;0;0;50;2400.0;550.0;100.0
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;1750.0;
+Apartamento;Tijuca;1;1;0;72;1600.0;572.0;
+Apartamento;Copacabana;1;0;0;36;1600.0;440.0;66030.0
+Flat;Ipanema;1;1;1;39;2500.0;2125.0;1900.0
+Apartamento;Jacarepaguá;1;0;1;30;2000.0;;
+Apartamento;Ipanema;1;0;0;70;2900.0;500.0;58.0
+Apartamento;Flamengo;1;0;0;43;1900.0;412.0;
+Apartamento;Freguesia (Jacarepaguá);1;1;0;67;1000.0;470.0;16.0
+Apartamento;Copacabana;1;0;0;40;1400.0;450.0;
+Apartamento;Centro;1;0;0;34;1500.0;480.0;25.0
+Apartamento;Jacarepaguá;1;1;0;55;900.0;480.0;40.0
+Apartamento;Botafogo;1;1;1;54;3200.0;1124.0;101.0
+Flat;Centro;1;0;1;32;2950.0;;
+Quitinete;Centro;1;0;0;25;900.0;280.0;26.0
+Apartamento;Rocha Miranda;1;0;0;44;750.0;;
+Quitinete;Botafogo;1;0;0;25;1000.0;650.0;30.0
+Apartamento;Cachambi;1;1;0;45;700.0;210.0;
+Quitinete;Centro;1;0;0;15;700.0;354.0;86.0
+Flat;Lagoa;1;1;0;45;2500.0;1630.0;207.0
+Quitinete;Botafogo;1;0;0;25;1500.0;530.0;30.0
+Apartamento;Barra da Tijuca;1;1;0;54;2500.0;1690.0;
+Apartamento;Tijuca;1;1;0;41;1300.0;496.0;24.0
+Apartamento;Centro;1;0;0;20;800.0;338.0;20.0
+Apartamento;Copacabana;1;0;0;36;1500.0;550.0;
+Loft;Freguesia (Jacarepaguá);1;0;0;25;1000.0;200.0;
+Flat;Recreio dos Bandeirantes;1;1;0;55;2750.0;1300.0;200.0
+Apartamento;Botafogo;1;0;0;33;1500.0;500.0;29.0
+Apartamento;São Cristóvão;1;0;0;45;700.0;270.0;20.0
+Quitinete;Copacabana;1;0;0;30;1400.0;440.0;30.0
+Apartamento;Copacabana;1;0;1;51;2000.0;695.0;215.0
+Apartamento;Campo Grande;1;0;0;40;490.0;;
+Apartamento;Copacabana;1;0;0;38;2700.0;570.0;300.0
+Apartamento;Tijuca;1;1;0;63;1400.0;590.0;55.0
+Apartamento;Copacabana;1;0;0;40;3500.0;1750.0;30.0
+Apartamento;Curicica;1;0;0;45;950.0;150.0;
+Apartamento;Centro;1;0;0;30;900.0;415.0;23.0
+Apartamento;Copacabana;1;0;0;21;2000.0;;
+Quitinete;Copacabana;1;0;0;33;1500.0;565.0;30.0
+Apartamento;Barra da Tijuca;1;2;1;71;2100.0;1730.0;160.0
+Apartamento;Ipanema;1;1;0;57;2970.0;880.0;129.0
+Apartamento;Copacabana;1;0;0;52;3500.0;2055.0;
+Apartamento;Copacabana;1;0;0;35;3000.0;;
+Apartamento;Centro;1;1;0;46;1100.0;560.0;490.0
+Quitinete;Flamengo;1;0;0;25;1300.0;451.0;30.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;77;1900.0;471.0;
+Apartamento;Botafogo;1;0;1;100;3700.0;;
+Quitinete;Flamengo;1;0;0;20;2500.0;650.0;29.0
+Quitinete;Ipanema;1;0;0;37;1800.0;400.0;70.0
+Apartamento;Ipanema;1;0;0;240;20000.0;5078.0;11453.0
+Apartamento;Barra da Tijuca;1;1;0;50;1700.0;1000.0;150.0
+Apartamento;Copacabana;1;0;0;56;1100.0;920.0;
+Apartamento;Pavuna;1;1;0;50;600.0;;
+Apartamento;Catete;1;0;0;22;900.0;446.0;
+Apartamento;Flamengo;1;0;0;44;1500.0;661.0;26.0
+Quitinete;Leblon;1;0;0;30;1800.0;500.0;30.0
+Apartamento;Ipanema;1;0;0;40;2800.0;653.0;103.0
+Apartamento;Laranjeiras;1;0;1;90;3300.0;1490.0;100.0
+Casa;Bonsucesso;1;0;0;30;650.0;;
+Apartamento;Copacabana;1;0;1;62;1700.0;764.0;129.0
+Casa;Santa Teresa;1;0;0;35;1000.0;50.0;
+Apartamento;Tijuca;1;1;0;31;1300.0;530.0;25.0
+Flat;Leblon;1;1;0;63;4000.0;1750.0;350.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;80;2490.0;900.0;1500.0
+Apartamento;Santo Cristo;1;1;0;27;800.0;120.0;
+Apartamento;Copacabana;1;0;1;57;1690.0;700.0;
+Apartamento;Leblon;1;0;0;34;1700.0;350.0;
+Apartamento;Ipanema;1;1;0;45;2500.0;500.0;
+Apartamento;Jardim Botânico;1;0;1;40;2200.0;500.0;75.0
+Apartamento;Copacabana;1;0;0;50;2500.0;500.0;
+Apartamento;Copacabana;1;0;0;45;1350.0;700.0;
+Quitinete;Copacabana;1;0;0;20;1100.0;490.0;30.0
+Apartamento;Humaitá;1;0;0;50;1500.0;272.0;
+Apartamento;Laranjeiras;1;1;0;40;1800.0;893.0;95.0
+Apartamento;Bento Ribeiro;1;1;0;51;600.0;;
+Apartamento;Flamengo;1;0;0;32;1550.0;650.0;30.0
+Apartamento;Copacabana;1;0;1;41;1600.0;516.0;68.0
+Apartamento;Copacabana;1;1;1;38;2500.0;1140.0;101.0
+Apartamento;Grajaú;1;0;0;30;1200.0;100.0;
+Apartamento;Barra da Tijuca;1;1;0;55;2000.0;1360.0;280.0
+Casa;Campo Grande;1;1;0;60;800.0;;
+Casa Comercial;Botafogo;1;0;0;540;20000.0;;3734.0
+Apartamento;Ipanema;1;0;0;28;2300.0;430.0;276.0
+Flat;Ipanema;1;1;1;50;3000.0;1720.0;252.0
+Apartamento;Jacarepaguá;1;0;0;30;700.0;112.0;
+Flat;Leblon;1;0;0;53;7500.0;;
+Casa;Braz de Pina;1;0;0;35;750.0;;
+Quitinete;Centro;1;0;0;38;1300.0;492.0;47.0
+Apartamento;Botafogo;1;1;1;45;3800.0;;
+Flat;Barra da Tijuca;1;1;1;45;1900.0;1080.0;
+Flat;Barra da Tijuca;1;1;1;35;1400.0;662.0;60.0
+Apartamento;Copacabana;1;0;0;49;2000.0;479.0;
+Apartamento;Laranjeiras;1;1;0;53;2300.0;767.0;71.0
+Apartamento;Barra da Tijuca;1;1;0;70;2000.0;1300.0;217.0
+Apartamento;Santa Teresa;1;0;0;36;1400.0;435.0;13.0
+Apartamento;Flamengo;1;0;0;50;1850.0;493.0;
+Flat;Botafogo;1;1;0;35;2500.0;750.0;80.0
+Apartamento;Copacabana;1;0;0;52;2300.0;542.0;75.0
+Quitinete;Centro;1;0;0;25;890.0;368.0;80.0
+Apartamento;Quintino Bocaiúva;1;0;0;60;700.0;270.0;
+Apartamento;Ipanema;1;1;0;41;2200.0;650.0;27.0
+Quitinete;Centro;1;0;0;22;700.0;295.0;19.0
+Apartamento;Barra da Tijuca;1;1;1;80;2200.0;1061.0;161.0
+Quitinete;Botafogo;1;0;0;30;1500.0;378.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;80;2000.0;1125.0;347.0
+Apartamento;Jardim Botânico;1;1;0;80;3000.0;850.0;229.0
+Apartamento;Barra da Tijuca;1;1;0;52;2600.0;2600.0;338.0
+Apartamento;Ipanema;1;1;0;52;2800.0;600.0;200.0
+Flat;Ipanema;1;0;0;50;2000.0;2100.0;333.0
+Apartamento;Copacabana;1;0;0;50;2800.0;1.0;1.0
+Apartamento;Copacabana;1;0;0;41;1200.0;655.0;
+Casa de Vila;Colégio;1;0;0;49;780.0;;
+Apartamento;Itanhangá;1;1;0;45;1000.0;;
+Apartamento;Tijuca;1;0;0;45;1150.0;458.0;46.0
+Quitinete;Botafogo;1;0;0;22;2200.0;350.0;20.0
+Apartamento;Centro;1;0;0;40;1300.0;460.0;
+Apartamento;Copacabana;1;0;0;35;1900.0;466.0;68.0
+Apartamento;Flamengo;1;0;0;49;1600.0;485.0;
+Apartamento;Copacabana;1;0;0;45;1700.0;528.0;71.0
+Quitinete;Vila da Penha;1;0;0;25;600.0;;
+Apartamento;Glória;1;0;0;35;1150.0;350.0;25.0
+Apartamento;Copacabana;1;0;0;45;1600.0;595.0;
+Apartamento;Botafogo;1;1;1;45;3600.0;883.0;298.0
+Quitinete;Copacabana;1;0;0;30;1300.0;620.0;161.0
+Quitinete;Copacabana;1;0;0;30;1600.0;500.0;
+Casa;Paciência;1;0;0;40;650.0;;
+Apartamento;Barra da Tijuca;1;1;0;47;1500.0;1624.0;440.0
+Apartamento;Botafogo;1;0;0;56;1500.0;650.0;
+Apartamento;Ipanema;1;0;1;55;2800.0;778.0;
+Apartamento;Barra da Tijuca;1;1;1;45;1500.0;670.0;1.0
+Apartamento;Gávea;1;1;0;50;2700.0;691.0;132.0
+Loft;Copacabana;1;0;0;24;3218.0;525.0;562.0
+Quitinete;Santa Teresa;1;0;0;25;900.0;400.0;15.0
+Apartamento;Leblon;1;1;0;48;3200.0;670.0;89.0
+Flat;Barra da Tijuca;1;1;0;45;3800.0;;
+Apartamento;Botafogo;1;1;1;65;2300.0;603.0;
+Quitinete;Glória;1;0;0;25;750.0;316.0;57.0
+Apartamento;Ipanema;1;0;1;40;6500.0;520.0;106.0
+Quitinete;Taquara;1;0;0;25;500.0;;
+Quitinete;Centro;1;0;0;24;1050.0;270.0;22.0
+Apartamento;Barra da Tijuca;1;1;0;70;1490.0;790.0;240.0
+Quitinete;Centro;1;0;0;28;850.0;139.0;25.0
+Apartamento;Anchieta;1;0;0;60;690.0;;
+Apartamento;Centro;1;0;0;47;950.0;250.0;
+Apartamento;Tijuca;1;1;0;63;1400.0;675.0;72.0
+Flat;Copacabana;1;1;1;70;3400.0;1320.0;340.0
+Apartamento;Praça Seca;1;1;0;56;900.0;240.0;125.0
+Quitinete;Catete;1;0;0;30;1200.0;441.0;25.0
+Apartamento;Laranjeiras;1;1;0;40;2000.0;903.0;80.0
+Quitinete;Flamengo;1;0;0;20;1500.0;258.0;
+Quitinete;Copacabana;1;0;0;27;1300.0;380.0;
+Apartamento;Tijuca;1;1;0;69;3000.0;;
+Apartamento;Ipanema;1;2;1;64;3770.0;1700.0;230.0
+Apartamento;Leblon;1;0;1;90;5900.0;1515.0;599.0
+Apartamento;Copacabana;1;0;0;40;1500.0;500.0;28.0
+Apartamento;Botafogo;1;0;1;35;1700.0;204.0;25.0
+Apartamento;Catete;1;0;0;31;1300.0;390.0;24.0
+Apartamento;Centro;1;0;0;30;800.0;280.0;24.0
+Apartamento;Centro;1;0;0;25;1000.0;280.0;
+Apartamento;Copacabana;1;0;0;38;1500.0;331.0;24.0
+Apartamento;Ipanema;1;0;0;50;2000.0;520.0;23.0
+Apartamento;Vicente de Carvalho;1;0;0;40;610.0;95.0;
+Loft;Barra da Tijuca;1;1;1;145;3500.0;1006.0;610.0
+Casa;Campo Grande;1;0;0;30;430.0;;
+Apartamento;Laranjeiras;1;0;0;30;1500.0;440.0;193.0
+Apartamento;Barra da Tijuca;1;1;1;71;2500.0;1100.0;
+Conjunto Comercial/Sala;Copacabana;1;0;0;40;490.0;;
+Apartamento;Copacabana;1;0;0;50;2000.0;430.0;
+Quitinete;Botafogo;1;0;0;25;1200.0;380.0;30.0
+Apartamento;Laranjeiras;1;1;0;41;1500.0;740.0;24.0
+Quitinete;Tijuca;1;0;0;30;1300.0;480.0;
+Apartamento;Campo Grande;1;0;0;40;480.0;;
+Quitinete;Catete;1;0;0;24;1400.0;317.0;
+Apartamento;Barra da Tijuca;1;1;0;64;1800.0;1135.0;1314.0
+Apartamento;Leblon;1;0;1;32;1500.0;715.0;120.0
+Quitinete;Copacabana;1;0;0;30;1350.0;387.0;29.0
+Flat;Lagoa;1;0;0;58;2500.0;1862.0;684.0
+Quitinete;Centro;1;0;0;35;1400.0;365.0;182.0
+Apartamento;Ipanema;1;1;0;40;2300.0;650.0;26.0
+Apartamento;Copacabana;1;0;0;32;1500.0;484.0;25.0
+Apartamento;Ipanema;1;1;0;54;3400.0;750.0;197.0
+Apartamento;Copacabana;1;0;0;40;4500.0;;
+Apartamento;Copacabana;1;1;0;53;1700.0;600.0;
+Apartamento;Centro;1;0;0;21;750.0;269.0;24.0
+Flat;Leblon;1;1;1;70;3100.0;1800.0;303.0
+Apartamento;Estácio;1;1;0;36;750.0;342.0;
+Apartamento;Flamengo;1;0;1;52;1600.0;520.0;60.0
+Apartamento;Botafogo;1;1;0;60;2250.0;580.0;129.0
+Casa de Vila;Engenho de Dentro;1;0;0;32;700.0;;17.0
+Apartamento;Botafogo;1;1;0;59;2500.0;672.0;130.0
+Apartamento;Grajaú;1;1;0;50;1100.0;500.0;25.0
+Quitinete;Copacabana;1;0;0;35;1100.0;500.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;54;1650.0;1150.0;380.0
+Apartamento;Campo Grande;1;0;0;50;550.0;;
+Apartamento;Copacabana;1;0;0;35;1400.0;350.0;70.0
+Apartamento;Tijuca;1;0;0;45;1950.0;550.0;55.0
+Apartamento;Méier;1;0;0;33;890.0;250.0;13.0
+Casa de Vila;Bento Ribeiro;1;0;0;40;600.0;;
+Apartamento;Flamengo;1;0;0;23;1450.0;340.0;27.0
+Apartamento;Ipanema;1;1;1;55;2700.0;2300.0;240.0
+Apartamento;Senador Vasconcelos;1;1;0;40;690.0;;
+Apartamento;Humaitá;1;1;0;58;2900.0;743.0;123.0
+Apartamento;Copacabana;1;0;0;40;2050.0;680.0;730.0
+Flat;Copacabana;1;1;1;60;4000.0;;
+Apartamento;Copacabana;1;1;0;50;2000.0;1200.0;120.0
+Apartamento;Barra da Tijuca;1;1;1;65;2600.0;1345.0;190.0
+Apartamento;Jardim Sulacap;1;1;0;45;850.0;70.0;
+Apartamento;Barra da Tijuca;1;1;1;66;2500.0;1300.0;188.0
+Quitinete;Copacabana;1;0;0;38;1950.0;390.0;25.0
+Flat;Ipanema;1;1;0;45;2200.0;2100.0;360.0
+Quitinete;Copacabana;1;0;0;45;1600.0;470.0;30.0
+Apartamento;Barra da Tijuca;1;1;1;80;1600.0;950.0;170.0
+Apartamento;Recreio dos Bandeirantes;1;2;1;180;2900.0;852.0;4885.0
+Apartamento;Copacabana;1;0;0;30;2650.0;650.0;30.0
+Apartamento;Copacabana;1;1;0;55;2600.0;710.0;150.0
+Apartamento;Vila Isabel;1;0;0;50;1000.0;325.0;34.0
+Flat;Botafogo;1;1;1;39;3000.0;771.0;120.0
+Apartamento;São Conrado;1;1;1;58;2970.0;960.0;190.0
+Apartamento;Todos os Santos;1;0;0;40;900.0;;34.0
+Quitinete;Ipanema;1;0;0;24;1400.0;200.0;30.0
+Apartamento;Glória;1;0;0;30;1100.0;348.0;13.0
+Apartamento;Copacabana;1;0;0;80;3500.0;;
+Apartamento;Copacabana;1;0;1;33;1500.0;650.0;22.0
+Quitinete;Centro;1;0;0;36;1000.0;320.0;
+Quitinete;Copacabana;1;0;0;29;1150.0;450.0;182.0
+Apartamento;Laranjeiras;1;1;1;50;2000.0;554.0;26.0
+Flat;Ipanema;1;0;0;46;6000.0;;
+Apartamento;Centro;1;0;0;40;1000.0;438.0;21.0
+Casa de Condomínio;Realengo;1;0;0;60;700.0;;
+Casa de Vila;Pavuna;1;0;0;40;450.0;40.0;
+Flat;Barra da Tijuca;1;1;1;75;2200.0;;700.0
+Quitinete;Copacabana;1;0;1;35;1400.0;531.0;25.0
+Apartamento;Flamengo;1;0;0;35;1250.0;405.0;29.0
+Apartamento;Ilha do Governador;1;0;0;71;1000.0;;
+Apartamento;Barra da Tijuca;1;1;0;50;1800.0;1400.0;300.0
+Apartamento;Pechincha;1;1;0;54;1200.0;347.0;
+Quitinete;Botafogo;1;0;0;25;1300.0;486.0;24.0
+Apartamento;Estácio;1;0;0;40;1500.0;200.0;15.0
+Apartamento;Copacabana;1;0;0;27;2500.0;550.0;20.0
+Apartamento;Flamengo;1;1;0;53;2300.0;485.0;56.0
+Quitinete;Copacabana;1;0;0;30;1500.0;380.0;
+Flat;Barra da Tijuca;1;1;0;50;4500.0;2000.0;300.0
+Apartamento;Humaitá;1;0;0;41;2200.0;343.0;24.0
+Flat;Recreio dos Bandeirantes;1;1;1;46;3000.0;900.0;220.0
+Casa de Vila;Cascadura;1;0;0;36;700.0;;
+Apartamento;Tijuca;1;0;0;45;1200.0;300.0;
+Flat;Copacabana;1;1;0;43;1887.0;2117.0;495.0
+Apartamento;Vila Isabel;1;0;0;36;1050.0;385.0;
+Casa;Cordovil;1;0;0;65;650.0;;
+Apartamento;Barra da Tijuca;1;1;0;54;1700.0;1710.0;290.0
+Apartamento;Botafogo;1;0;0;33;1970.0;583.0;
+Flat;Leblon;1;1;1;60;5500.0;1900.0;200.0
+Apartamento;Barra da Tijuca;1;1;0;71;1950.0;970.0;240.0
+Quitinete;Copacabana;1;0;0;35;2000.0;430.0;40.0
+Quitinete;Copacabana;1;0;0;32;1050.0;714.0;
+Quitinete;Copacabana;1;0;0;27;1200.0;450.0;
+Apartamento;Copacabana;1;0;0;28;2300.0;600.0;
+Apartamento;Usina;1;0;0;65;1300.0;390.0;26.0
+Quitinete;Ipanema;1;0;1;40;1500.0;600.0;
+Casa;Curicica;1;0;0;160;5500.0;;
+Apartamento;Catete;1;0;0;40;1500.0;525.0;
+Quitinete;Botafogo;1;0;0;17;1000.0;476.0;
+Quitinete;Tijuca;1;0;0;25;1000.0;346.0;
+Apartamento;Copacabana;1;0;1;38;4000.0;;
+Quitinete;Copacabana;1;0;0;30;1500.0;640.0;35.0
+Apartamento;Copacabana;1;0;0;40;2700.0;;
+Flat;Ipanema;1;0;0;46;6000.0;;
+Flat;Jacarepaguá;1;1;0;40;1200.0;800.0;
+Flat;Barra da Tijuca;1;1;1;65;2300.0;1562.0;306.0
+Apartamento;Catete;1;0;1;44;1600.0;580.0;28.0
+Flat;Copacabana;1;0;0;56;1500.0;1928.0;211.0
+Apartamento;Copacabana;1;0;0;35;1000.0;410.0;57.0
+Apartamento;Leblon;1;1;0;55;3700.0;728.0;126.0
+Apartamento;Maracanã;1;0;0;70;1700.0;160.0;73.0
+Apartamento;São Conrado;1;1;1;82;3600.0;700.0;305.0
+Flat;Leblon;1;1;1;60;5000.0;2229.0;250.0
+Quitinete;Copacabana;1;0;0;20;800.0;480.0;24.0
+Apartamento;Barra da Tijuca;1;1;1;50;1200.0;700.0;
+Apartamento;Copacabana;1;1;0;60;2000.0;650.0;98.0
+Apartamento;Tijuca;1;0;0;35;1500.0;370.0;47.0
+Quitinete;Copacabana;1;1;0;50;2299.0;614.0;78.0
+Apartamento;Copacabana;1;0;0;30;1500.0;540.0;77.0
+Quitinete;Flamengo;1;0;0;23;900.0;332.0;30.0
+Apartamento;Lagoa;1;1;1;51;2200.0;1790.0;369.0
+Flat;Ipanema;1;1;0;56;2600.0;2287.0;305.0
+Apartamento;Copacabana;1;0;0;45;1700.0;560.0;30.0
+Apartamento;Copacabana;1;0;0;52;1900.0;600.0;24.0
+Casa de Vila;Quintino Bocaiúva;1;0;0;40;550.0;;
+Quitinete;Copacabana;1;0;0;40;2000.0;500.0;53.0
+Flat;Barra da Tijuca;1;1;0;55;2100.0;1000.0;280.0
+Apartamento;Copacabana;1;1;0;55;2200.0;1680.0;80.0
+Apartamento;Ipanema;1;0;0;31;1900.0;523.0;61.0
+Quitinete;Praça da Bandeira;1;0;0;21;700.0;179.0;
+Flat;Lagoa;1;1;1;65;3000.0;1549.0;
+Apartamento;Centro;1;0;0;45;1000.0;350.0;23.0
+Apartamento;Barra da Tijuca;1;1;0;50;3300.0;1600.0;300.0
+Quitinete;Flamengo;1;0;0;21;1400.0;375.0;
+Apartamento;Ipanema;1;0;0;42;3500.0;;
+Apartamento;Barra da Tijuca;1;2;0;72;3100.0;1400.0;100.0
+Apartamento;Botafogo;1;0;0;17;1200.0;420.0;25.0
+Casa de Vila;Honório Gurgel;1;0;0;34;800.0;;
+Apartamento;Flamengo;1;0;0;15;900.0;401.0;23.0
+Quitinete;Copacabana;1;0;0;34;1500.0;475.0;
+Apartamento;Tijuca;1;1;0;60;1050.0;695.0;20.0
+Quitinete;Copacabana;1;0;0;27;950.0;605.0;
+Apartamento;Barra da Tijuca;1;1;1;52;1700.0;2640.0;555.0
+Apartamento;Glória;1;0;0;46;1200.0;447.0;
+Apartamento;Méier;1;0;0;32;900.0;180.0;
+Quitinete;Copacabana;1;0;0;20;1000.0;318.0;
+Apartamento;Pechincha;1;1;0;63;1250.0;560.0;
+Quitinete;Copacabana;1;0;0;27;1190.0;230.0;19.0
+Quitinete;Copacabana;1;0;0;25;1600.0;584.0;55.0
+Quitinete;Copacabana;1;0;0;27;1390.0;420.0;25.0
+Apartamento;Leme;1;0;0;80;3000.0;600.0;
+Apartamento;Flamengo;1;0;0;42;1450.0;550.0;54.0
+Apartamento;Copacabana;1;0;0;55;2700.0;;
+Apartamento;Madureira;1;1;0;50;650.0;450.0;
+Apartamento;Leme;1;0;1;70;4500.0;1180.0;700.0
+Quitinete;Leme;1;0;0;18;1100.0;490.0;
+Apartamento;Leblon;1;1;1;88;5500.0;1500.0;362.0
+Apartamento;Gávea;1;1;1;50;2300.0;820.0;150.0
+Apartamento;Barra da Tijuca;1;0;0;38;1000.0;410.0;15.0
+Apartamento;Icaraí;1;0;0;40;1200.0;485.0;107.0
+Apartamento;Bonsucesso;1;0;0;62;800.0;270.0;
+Casa de Vila;Realengo;1;0;0;70;750.0;;
+Apartamento;Vila Isabel;1;0;1;45;1100.0;500.0;24.0
+Apartamento;Riachuelo;1;0;0;53;1000.0;217.0;
+Apartamento;Engenho Novo;1;1;0;40;1150.0;310.0;
+Apartamento;Barra da Tijuca;1;1;0;50;6300.0;;
+Apartamento;Centro;1;0;0;38;1000.0;335.0;175.0
+Apartamento;Vila da Penha;1;1;0;48;1200.0;150.0;
+Quitinete;Leme;1;0;0;22;1400.0;550.0;24.0
+Apartamento;Copacabana;1;0;0;35;2000.0;;
+Quitinete;Centro;1;0;0;25;900.0;340.0;15.0
+Apartamento;Tijuca;1;0;0;52;1300.0;558.0;49.0
+Apartamento;Lagoa;1;1;0;90;5500.0;2163.0;453.0
+Apartamento;Botafogo;1;1;1;60;2000.0;550.0;120.0
+Quitinete;Copacabana;1;0;0;35;2500.0;1.0;1.0
+Apartamento;Copacabana;1;0;0;45;1800.0;700.0;25.0
+Apartamento;Copacabana;1;0;0;35;1500.0;484.0;24.0
+Apartamento;Méier;1;1;0;47;1200.0;623.0;363.0
+Apartamento;Barra da Tijuca;1;1;0;60;2300.0;1380.0;
+Quitinete;Glória;1;0;0;20;1000.0;480.0;27.0
+Apartamento;Ipanema;1;0;1;52;2300.0;800.0;28.0
+Apartamento;Tijuca;1;0;1;37;1200.0;696.0;
+Quitinete;Botafogo;1;0;0;17;900.0;436.0;
+Apartamento;Praça Seca;1;1;0;40;1000.0;270.0;
+Apartamento;Copacabana;1;0;1;41;1500.0;635.0;57.0
+Flat;Barra da Tijuca;1;0;1;35;1200.0;1050.0;450.0
+Casa;Bonsucesso;1;0;0;50;600.0;;
+Apartamento;Tijuca;1;0;0;50;1700.0;360.0;20.0
+Quitinete;Botafogo;1;0;0;29;1000.0;570.0;25.0
+Apartamento;Jardim Botânico;1;1;1;72;3500.0;965.0;222.0
+Apartamento;Copacabana;1;0;0;40;2200.0;580.0;
+Apartamento;Tijuca;1;1;0;40;1100.0;500.0;20.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;57;2500.0;1200.0;1300.0
+Apartamento;Centro;1;1;0;45;2000.0;600.0;150.0
+Apartamento;Centro;1;0;0;20;800.0;430.0;38.0
+Quitinete;Centro;1;0;0;28;950.0;350.0;
+Apartamento;Barra da Tijuca;1;1;1;70;1500.0;1600.0;220.0
+Casa de Vila;Andaraí;1;0;0;64;1200.0;80.0;
+Apartamento;Santa Teresa;1;0;0;25;750.0;400.0;
+Apartamento;Leblon;1;0;0;35;2200.0;370.0;72.0
+Apartamento;Jacarepaguá;1;1;0;56;600.0;692.0;
+Apartamento;Tijuca;1;0;0;40;1500.0;430.0;20.0
+Apartamento;Freguesia (Jacarepaguá);1;1;1;72;2000.0;600.0;
+Conjunto Comercial/Sala;Tijuca;1;1;0;30;1200.0;800.0;
+Quitinete;Glória;1;0;0;50;800.0;495.0;
+Conjunto Comercial/Sala;Engenho de Dentro;1;1;0;24;500.0;559.0;56.0
+Quitinete;Ipanema;1;0;0;25;1500.0;550.0;
+Quitinete;São Cristóvão;1;0;0;40;850.0;;
+Apartamento;Tijuca;1;0;0;30;1000.0;420.0;21.0
+Apartamento;Ipanema;1;1;0;41;2500.0;550.0;50.0
+Apartamento;Botafogo;1;0;0;48;1900.0;456.0;
+Apartamento;Campo Grande;1;1;0;40;500.0;200.0;
+Conjunto Comercial/Sala;Jacarepaguá;1;0;0;20;800.0;520.0;90.0
+Apartamento;Flamengo;1;0;0;47;2100.0;515.0;420.0
+Quitinete;Copacabana;1;0;0;40;2200.0;550.0;250.0
+Quitinete;Botafogo;1;0;0;25;1200.0;559.0;54.0
+Apartamento;Barra da Tijuca;1;1;0;60;1500.0;1800.0;320.0
+Quitinete;Anil;1;0;0;20;300.0;18.0;8.0
+Apartamento;Ipanema;1;0;0;54;3800.0;781.0;
+Apartamento;Copacabana;1;0;1;37;2300.0;442.0;22.0
+Flat;Barra da Tijuca;1;0;1;25;1600.0;;
+Casa de Vila;Taquara;1;0;0;60;1000.0;;
+Apartamento;Botafogo;1;0;0;46;1800.0;540.0;24.0
+Apartamento;Copacabana;1;0;0;32;1800.0;330.0;25.0
+Apartamento;Copacabana;1;0;0;40;1900.0;380.0;58.0
+Quitinete;Copacabana;1;0;0;25;1250.0;340.0;
+Apartamento;Flamengo;1;0;1;75;3200.0;281.0;69.0
+Apartamento;Centro;1;1;0;42;1700.0;560.0;47.0
+Apartamento;Barra da Tijuca;1;1;1;75;2100.0;1043.0;245.0
+Apartamento;Glória;1;0;0;44;1400.0;480.0;26.0
+Apartamento;Centro;1;0;0;25;1200.0;390.0;
+Apartamento;Glória;1;0;0;45;1400.0;450.0;40.0
+Apartamento;Catete;1;0;0;24;1100.0;435.0;225.0
+Apartamento;Barra da Tijuca;1;1;1;75;1900.0;984.0;280.0
+Flat;Curicica;1;1;1;40;1700.0;968.0;40.0
+Apartamento;Copacabana;1;1;0;56;5000.0;;
+Apartamento;Flamengo;1;0;0;41;1800.0;483.0;67.0
+Apartamento;Barra da Tijuca;1;1;1;70;2000.0;970.0;170.0
+Apartamento;Copacabana;1;0;0;35;1800.0;520.0;25.0
+Apartamento;Ipanema;1;0;0;46;1700.0;700.0;132.0
+Apartamento;Riachuelo;1;0;0;46;900.0;253.0;17.0
+Apartamento;Flamengo;1;0;0;47;1600.0;650.0;
+Quitinete;Copacabana;1;0;0;35;1600.0;462.0;67.0
+Flat;São Conrado;1;1;1;25;2000.0;;
+Casa;Grajaú;1;0;0;30;1000.0;;
+Quitinete;Centro;1;0;0;28;900.0;360.0;20.0
+Apartamento;Barra da Tijuca;1;1;1;75;1800.0;1200.0;200.0
+Apartamento;Méier;1;0;0;45;1000.0;;
+Apartamento;Copacabana;1;0;0;56;1400.0;505.0;56.0
+Apartamento;Glória;1;0;1;60;1900.0;600.0;
+Apartamento;Copacabana;1;0;0;32;2000.0;390.0;25.0
+Apartamento;Flamengo;1;0;0;31;1000.0;394.0;24.0
+Quitinete;Copacabana;1;0;0;20;1000.0;;
+Apartamento;Barra da Tijuca;1;1;1;50;1200.0;645.0;55.0
+Apartamento;Copacabana;1;0;0;68;2200.0;643.0;149.0
+Apartamento;Copacabana;1;2;1;156;3900.0;1650.0;320.0
+Apartamento;Moneró;1;0;0;55;1000.0;350.0;18.0
+Apartamento;Inhaúma;1;0;0;45;750.0;;
+Loft;Ipanema;1;0;1;75;4700.0;850.0;150.0
+Quitinete;Botafogo;1;0;0;35;1460.0;390.0;50.0
+Casa;Água Santa;1;1;0;40;1200.0;;14.0
+Apartamento;Ipanema;1;0;0;40;2100.0;430.0;124.0
+Apartamento;Copacabana;1;0;0;40;1800.0;483.0;
+Apartamento;Catete;1;0;0;45;1800.0;495.0;25.0
+Apartamento;Pedra de Guaratiba;1;0;0;42;460.0;;
+Apartamento;Copacabana;1;0;0;42;3000.0;560.0;
+Apartamento;Lagoa;1;1;0;75;2100.0;1250.0;341.0
+Apartamento;Copacabana;1;0;1;33;1400.0;501.0;
+Quitinete;Copacabana;1;0;0;24;1300.0;430.0;
+Apartamento;Barra da Tijuca;1;1;0;65;2800.0;1100.0;250.0
+Quitinete;Centro;1;0;0;30;1000.0;235.0;70.0
+Quitinete;Centro;1;0;0;27;600.0;658.0;
+Casa de Vila;Cascadura;1;1;0;30;750.0;30.0;
+Apartamento;Ipanema;1;1;0;45;4000.0;2425.0;271.0
+Apartamento;Copacabana;1;0;0;45;1400.0;737.0;56.0
+Apartamento;Centro;1;0;0;31;850.0;560.0;115.0
+Apartamento;Gávea;1;1;1;79;3600.0;984.0;258.0
+Apartamento;Centro;1;0;0;41;1100.0;390.0;24.0
+Flat;Botafogo;1;1;1;44;3000.0;1071.0;102.0
+Quitinete;Centro;1;0;0;34;750.0;470.0;
+Apartamento;Barra da Tijuca;1;1;1;70;2150.0;1136.0;260.0
+Apartamento;Senador Vasconcelos;1;1;1;40;850.0;180.0;
+Casa de Vila;Catumbi;1;0;0;45;900.0;;6.0
+Apartamento;Copacabana;1;0;0;28;1800.0;750.0;
+Apartamento;Barra da Tijuca;1;1;0;45;1700.0;1252.0;213.0
+Apartamento;Flamengo;1;0;0;50;1950.0;590.0;68.0
+Apartamento;Jardim Botânico;1;1;0;40;2000.0;300.0;
+Flat;Lagoa;1;1;1;60;2500.0;1490.0;368.0
+Apartamento;Méier;1;1;0;54;1200.0;534.0;10.0
+Apartamento;Barra da Tijuca;1;1;0;64;2200.0;1278.0;
+Apartamento;Vila da Penha;1;0;0;27;750.0;;
+Apartamento;Flamengo;1;0;0;38;1200.0;640.0;55.0
+Apartamento;Tijuca;1;0;1;62;1800.0;550.0;
+Quitinete;Botafogo;1;0;0;35;1600.0;400.0;
+Apartamento;Madureira;1;1;0;60;650.0;220.0;
+Apartamento;Copacabana;1;0;0;38;1300.0;482.0;
+Apartamento;Vila da Penha;1;1;0;48;1100.0;150.0;
+Apartamento;Centro;1;0;0;34;1000.0;600.0;129.0
+Apartamento;Vista Alegre;1;0;0;35;750.0;;
+Casa;Santa Teresa;1;0;0;60;1300.0;;85.0
+Apartamento;Glória;1;1;0;75;1900.0;800.0;188.0
+Apartamento;Barra da Tijuca;1;0;0;60;1300.0;1695.0;247.0
+Apartamento;Botafogo;1;1;0;60;2000.0;750.0;89.0
+Apartamento;Copacabana;1;0;1;48;2200.0;509.0;18.0
+Apartamento;Copacabana;1;0;0;30;1500.0;500.0;40.0
+Quitinete;Ipanema;1;0;0;30;1500.0;641.0;76.0
+Apartamento;Bangu;1;0;0;50;750.0;;100.0
+Quitinete;Flamengo;1;0;0;16;1100.0;344.0;25.0
+Apartamento;Jardim América;1;0;0;60;600.0;;
+Apartamento;Copacabana;1;0;1;37;1500.0;1670.0;
+Apartamento;Copacabana;1;0;0;22;1700.0;840.0;30.0
+Flat;Botafogo;1;1;1;60;2900.0;1200.0;90.0
+Quitinete;Ipanema;1;0;0;38;1400.0;530.0;77.0
+Apartamento;Santa Teresa;1;0;0;50;1500.0;60.0;100.0
+Quitinete;Flamengo;1;0;0;28;1300.0;365.0;
+Apartamento;Estácio;1;1;0;50;1200.0;240.0;15.0
+Flat;Copacabana;1;0;0;65;6000.0;1800.0;1835.0
+Apartamento;Centro;1;0;0;38;800.0;383.0;
+Quitinete;Botafogo;1;0;0;22;1200.0;270.0;
+Apartamento;Barra da Tijuca;1;1;0;79;1900.0;2127.0;239.0
+Apartamento;Copacabana;1;1;1;41;2500.0;554.0;67.0
+Apartamento;Copacabana;1;0;0;35;1900.0;481.0;
+Apartamento;Barra da Tijuca;1;0;1;72;1500.0;1050.0;230.0
+Apartamento;Copacabana;1;1;0;60;2900.0;1200.0;
+Apartamento;Freguesia (Ilha do Governador);1;0;1;70;1500.0;150.0;
+Apartamento;Ipanema;1;0;0;36;1500.0;642.0;
+Apartamento;Copacabana;1;0;0;51;1600.0;550.0;75.0
+Apartamento;Santa Teresa;1;0;0;36;1300.0;180.0;14.0
+Apartamento;Copacabana;1;0;0;50;2500.0;450.0;
+Casa Comercial;Humaitá;1;0;0;200;16000.0;;12000.0
+Quitinete;Copacabana;1;0;0;24;1300.0;500.0;
+Quitinete;Copacabana;1;0;0;30;1500.0;551.0;30.0
+Apartamento;Glória;1;0;1;35;2500.0;520.0;25.0
+Apartamento;Barra da Tijuca;1;1;0;57;1900.0;1500.0;310.0
+Apartamento;Barra da Tijuca;1;1;1;70;2100.0;1136.0;260.0
+Apartamento;Copacabana;1;0;0;44;1600.0;424.0;24.0
+Quitinete;Flamengo;1;0;0;23;1300.0;420.0;25.0
+Casa;Irajá;1;0;0;35;700.0;;
+Apartamento;Marechal Hermes;1;0;0;70;520.0;;25.0
+Flat;Barra da Tijuca;1;1;1;40;3000.0;;
+Apartamento;Centro;1;0;0;45;1700.0;300.0;25.0
+Quitinete;Tijuca;1;0;0;28;1500.0;390.0;30.0
+Casa Comercial;Ipanema;1;0;1;213;30000.0;;2346.0
+Apartamento;Maracanã;1;1;0;60;1800.0;514.0;81.0
+Quitinete;Copacabana;1;0;0;40;1300.0;528.0;25.0
+Apartamento;Leblon;1;1;0;70;3000.0;623.0;121.0
+Quitinete;Copacabana;1;0;0;21;900.0;358.0;58.0
+Apartamento;Taquara;1;0;0;40;800.0;;13.0
+Apartamento;Grajaú;1;0;0;50;1400.0;295.0;20.0
+Apartamento;Copacabana;1;0;0;40;6000.0;;
+Quitinete;Flamengo;1;0;0;30;1700.0;390.0;29.0
+Apartamento;Flamengo;1;1;1;64;2700.0;980.0;
+Casa;Ramos;1;0;0;45;850.0;;
+Loja/Salão;Tijuca;1;1;0;84;2100.0;995.0;276.0
+Apartamento;Botafogo;1;0;0;25;1800.0;;
+Apartamento;Copacabana;1;0;0;40;1600.0;342.0;
+Apartamento;Botafogo;1;1;0;36;2900.0;1020.0;172.0
+Apartamento;Barra da Tijuca;1;1;0;61;1600.0;1700.0;350.0
+Apartamento;Barra da Tijuca;1;1;0;60;1500.0;862.0;140.0
+Apartamento;Botafogo;1;1;0;40;1950.0;614.0;56.0
+Apartamento;Barra da Tijuca;1;1;0;65;1800.0;1750.0;288.0
+Quitinete;Centro;1;0;0;19;600.0;308.0;25.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;100;4500.0;1500.0;200.0
+Casa de Vila;Cascadura;1;0;0;40;850.0;;
+Apartamento;Laranjeiras;1;1;1;50;2500.0;697.0;
+Quitinete;Centro;1;0;0;34;750.0;420.0;21.0
+Apartamento;Copacabana;1;0;1;47;1915.0;670.0;70.0
+Apartamento;Centro;1;0;0;45;1200.0;305.0;46.0
+Apartamento;Glória;1;0;1;39;1200.0;600.0;30.0
+Apartamento;Leblon;1;0;0;86;2000.0;690.0;180.0
+Quitinete;Flamengo;1;0;0;29;1900.0;474.0;108.0
+Quitinete;Saúde;1;0;0;23;600.0;445.0;
+Apartamento;Centro;1;0;0;31;1200.0;354.0;
+Quitinete;Copacabana;1;0;0;30;2500.0;440.0;
+Quitinete;Copacabana;1;0;0;30;1200.0;520.0;70.0
+Apartamento;Grajaú;1;0;0;48;1300.0;193.0;
+Apartamento;Barra da Tijuca;1;1;0;50;2000.0;958.0;335.0
+Quitinete;Copacabana;1;0;0;36;1000.0;503.0;57.0
+Apartamento;Copacabana;1;0;0;62;1800.0;838.0;13.0
+Apartamento;Botafogo;1;0;0;65;2000.0;700.0;
+Apartamento;Ricardo de Albuquerque;1;0;0;25;350.0;;
+Apartamento;Barra da Tijuca;1;1;1;78;2200.0;1400.0;347.0
+Flat;Copacabana;1;1;0;55;2100.0;1900.0;125.0
+Quitinete;Leblon;1;0;1;22;2500.0;335.0;
+Quitinete;Centro;1;0;0;27;650.0;203.0;20.0
+Quitinete;Copacabana;1;0;0;25;2200.0;450.0;120.0
+Flat;Lagoa;1;1;1;62;2600.0;1300.0;300.0
+Quitinete;São Conrado;1;0;0;30;1400.0;545.0;26.0
+Loja/Salão;Ipanema;1;0;0;28;1200.0;820.0;
+Casa;Madureira;1;0;0;30;1100.0;;
+Apartamento;Copacabana;1;0;0;19;1100.0;488.0;30.0
+Apartamento;Flamengo;1;0;0;38;1500.0;504.0;57.0
+Apartamento;Barra da Tijuca;1;1;0;60;1900.0;1900.0;300.0
+Quitinete;Leblon;1;0;0;20;1800.0;672.0;58.0
+Apartamento;Leblon;1;1;0;60;3000.0;850.0;200.0
+Apartamento;Flamengo;1;1;0;50;2000.0;580.0;70.0
+Flat;Botafogo;1;1;1;46;3200.0;1150.0;100.0
+Apartamento;Pechincha;1;1;0;54;850.0;347.0;14.0
+Quitinete;Copacabana;1;0;0;28;1100.0;450.0;54.0
+Casa;Vigário Geral;1;0;0;40;550.0;;
+Casa;Oswaldo Cruz;1;1;0;60;700.0;;
+Flat;Leblon;1;1;0;45;4000.0;1800.0;234.0
+Apartamento;Bonsucesso;1;1;0;50;950.0;170.0;26.0
+Apartamento;Flamengo;1;0;0;40;2000.0;500.0;70.0
+Casa;Encantado;1;0;0;40;1000.0;;17.0
+Apartamento;Glória;1;0;0;40;2000.0;600.0;50.0
+Apartamento;Méier;1;0;0;47;900.0;320.0;16.0
+Quitinete;Copacabana;1;0;0;35;1100.0;450.0;558.0
+Apartamento;Barra da Tijuca;1;1;1;50;1900.0;1129.0;352.0
+Quitinete;Tijuca;1;0;0;30;990.0;;
+Apartamento;Ipanema;1;0;0;60;3200.0;610.0;126.0
+Apartamento;Copacabana;1;0;0;40;1100.0;800.0;100.0
+Quitinete;Gardênia Azul;1;0;0;18;485.0;;
+Apartamento;Vila Isabel;1;0;0;50;800.0;176.0;24.0
+Quitinete;Centro;1;0;0;30;800.0;350.0;
+Apartamento;Recreio dos Bandeirantes;1;0;0;30;2000.0;;
+Quitinete;Curicica;1;0;0;45;900.0;;
+Flat;Ipanema;1;1;0;50;3000.0;2287.0;305.0
+Loft;Barra da Tijuca;1;2;1;103;2450.0;1520.0;
+Casa de Vila;Ramos;1;0;0;40;600.0;;
+Flat;Barra da Tijuca;1;1;1;50;1700.0;1430.0;180.0
+Apartamento;Barra da Tijuca;1;1;0;40;1300.0;590.0;
+Apartamento;Tijuca;1;0;1;30;1200.0;560.0;20.0
+Quitinete;Glória;1;0;0;25;1100.0;394.0;29.0
+Casa;Vila Kosmos;1;0;0;60;1000.0;;
+Apartamento;Recreio dos Bandeirantes;1;1;1;77;2200.0;310.0;45.0
+Apartamento;Tijuca;1;0;0;45;1200.0;400.0;
+Apartamento;Centro;1;0;0;40;1300.0;300.0;
+Apartamento;Leme;1;0;0;50;2300.0;870.0;23.0
+Apartamento;Botafogo;1;0;1;48;1800.0;410.0;
+Apartamento;Copacabana;1;1;0;58;1600.0;1695.0;197.0
+Conjunto Comercial/Sala;Ipanema;1;0;0;30;2200.0;1250.0;180.0
+Quitinete;Glória;1;0;0;20;800.0;290.0;
+Apartamento;Copacabana;1;0;1;43;2000.0;600.0;73.0
+Apartamento;Catete;1;0;0;49;1600.0;605.0;68.0
+Apartamento;Botafogo;1;1;1;55;2000.0;675.0;130.0
+Quitinete;Copacabana;1;0;0;38;1500.0;599.0;198.0
+Apartamento;Copacabana;1;0;0;30;1800.0;500.0;27.0
+Apartamento;Flamengo;1;0;0;45;1650.0;653.0;70.0
+Apartamento;Vila Isabel;1;0;0;61;1300.0;;20.0
+Apartamento;Ipanema;1;0;0;35;1600.0;470.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;70;1400.0;1349.0;358.0
+Apartamento;Gávea;1;1;0;61;2000.0;655.0;
+Apartamento;Flamengo;1;0;0;28;900.0;380.0;29.0
+Flat;Botafogo;1;0;1;40;2300.0;500.0;30.0
+Apartamento;Engenho Novo;1;0;0;40;850.0;381.0;
+Apartamento;Botafogo;1;1;1;90;1950.0;750.0;213.0
+Apartamento;Copacabana;1;0;0;30;1400.0;484.0;53.0
+Apartamento;Maracanã;1;1;0;63;1400.0;590.0;528.0
+Apartamento;Ipanema;1;1;0;50;2200.0;2150.0;571.0
+Loft;Barra da Tijuca;1;1;1;35;1500.0;1050.0;450.0
+Apartamento;Leme;1;0;0;51;1500.0;560.0;
+Apartamento;Tijuca;1;0;0;57;1000.0;517.0;
+Casa de Vila;Campo Grande;1;0;0;70;750.0;;
+Apartamento;Leblon;1;1;0;48;2500.0;1850.0;125.0
+Quitinete;Copacabana;1;0;0;36;1200.0;438.0;24.0
+Apartamento;Copacabana;1;0;1;40;1500.0;670.0;56.0
+Apartamento;Guadalupe;1;0;0;30;400.0;;
+Apartamento;Botafogo;1;0;0;40;700.0;150.0;
+Apartamento;Flamengo;1;0;0;50;1500.0;550.0;68.0
+Apartamento;Copacabana;1;0;0;32;1200.0;567.0;
+Apartamento;Copacabana;1;0;0;43;2000.0;440.0;
+Apartamento;Leblon;1;0;1;50;2997.0;680.0;100.0
+Apartamento;Engenho de Dentro;1;0;0;45;600.0;200.0;
+Apartamento;Botafogo;1;1;1;40;1800.0;1021.0;183.0
+Apartamento;Barra da Tijuca;1;1;0;50;2800.0;1200.0;
+Apartamento;Copacabana;1;0;0;50;2000.0;567.0;95.0
+Apartamento;Copacabana;1;0;1;40;3600.0;608.0;
+Quitinete;Centro;1;0;0;32;850.0;435.0;21.0
+Quitinete;Flamengo;1;0;0;26;2000.0;456.0;56.0
+Loft;Vargem Grande;1;3;0;30;800.0;220.0;
+Casa de Vila;Cavalcanti;1;0;0;45;600.0;;30.0
+Apartamento;Flamengo;1;1;0;65;2000.0;658.0;122.0
+Apartamento;Ipanema;1;1;1;122;9000.0;35579.0;660.0
+Apartamento;Barra da Tijuca;1;1;1;52;2200.0;1374.0;414.0
+Quitinete;Botafogo;1;0;0;32;1300.0;417.0;22.0
+Apartamento;Vila Isabel;1;1;0;72;1200.0;560.0;83.0
+Casa de Condomínio;Barra da Tijuca;1;0;1;40;1750.0;;
+Quitinete;Tijuca;1;0;0;35;1100.0;327.0;
+Apartamento;Pechincha;1;1;0;46;1100.0;300.0;
+Apartamento;Centro;1;1;0;39;1800.0;980.0;21.0
+Quitinete;Braz de Pina;1;0;0;37;600.0;;
+Apartamento;Copacabana;1;0;0;38;1700.0;400.0;300.0
+Apartamento;Vila Isabel;1;1;0;60;1000.0;500.0;
+Apartamento;Taquara;1;1;1;50;600.0;367.0;16.0
+Apartamento;Ribeira;1;1;0;48;1200.0;500.0;47.0
+Apartamento;Copacabana;1;0;0;45;1500.0;650.0;
+Quitinete;Copacabana;1;0;0;30;1300.0;677.0;57.0
+Apartamento;Méier;1;1;0;33;900.0;550.0;12.0
+Apartamento;Ipanema;1;1;1;65;4500.0;;
+Apartamento;Lagoa;1;1;1;64;4000.0;1025.0;
+Apartamento;Flamengo;1;1;0;44;2000.0;666.0;95.0
+Flat;Leblon;1;1;1;70;3300.0;1800.0;340.0
+Casa;Marechal Hermes;1;0;0;45;700.0;;
+Apartamento;Vila Isabel;1;0;0;44;1200.0;427.0;24.0
+Apartamento;Copacabana;1;0;0;35;1800.0;390.0;55.0
+Apartamento;Engenho Novo;1;1;0;58;1000.0;580.0;17.0
+Apartamento;Barra da Tijuca;1;1;0;55;2300.0;1525.0;295.0
+Apartamento;Recreio dos Bandeirantes;1;0;0;30;900.0;35.0;9.0
+Apartamento;Copacabana;1;1;0;65;1500.0;1200.0;140.0
+Apartamento;Copacabana;1;0;0;45;2500.0;477.0;50.0
+Quitinete;Copacabana;1;0;0;26;1100.0;523.0;
+Apartamento;Vila da Penha;1;0;0;30;700.0;;
+Quitinete;Anil;1;0;0;28;680.0;70.0;
+Casa de Vila;Ramos;1;0;0;35;700.0;;
+Quitinete;Catete;1;0;0;42;1600.0;790.0;
+Apartamento;Lagoa;1;1;0;45;2400.0;1565.0;230.0
+Apartamento;Flamengo;1;1;0;49;2200.0;380.0;97.0
+Apartamento;Grajaú;1;0;0;60;1300.0;578.0;20.0
+Quitinete;Copacabana;1;0;0;20;1140.0;435.0;25.0
+Apartamento;Copacabana;1;0;0;39;1500.0;475.0;35.0
+Casa de Condomínio;Praça Seca;1;1;0;50;780.0;;
+Apartamento;Glória;1;0;0;45;1400.0;508.0;20.0
+Apartamento;Centro;1;0;0;40;1600.0;350.0;20.0
+Casa;Méier;1;0;0;50;900.0;;14.0
+Quitinete;Flamengo;1;0;0;30;1300.0;441.0;147.0
+Apartamento;Copacabana;1;0;0;40;2200.0;550.0;
+Apartamento;Barra da Tijuca;1;1;1;45;1450.0;640.0;12.0
+Quitinete;Copacabana;1;0;0;35;1850.0;543.0;
+Flat;Botafogo;1;1;0;45;2950.0;1071.0;100.0
+Flat;Leblon;1;0;0;60;3200.0;1900.0;185.0
+Casa;Campo Grande;1;0;0;70;700.0;;
+Apartamento;Centro;1;0;0;41;1400.0;180.0;20.0
+Quitinete;Vila Isabel;1;0;0;22;700.0;20.0;22.0
+Apartamento;Jardim Guanabara;1;1;0;50;1200.0;;
+Quitinete;Centro;1;0;0;28;850.0;428.0;21.0
+Apartamento;Barra da Tijuca;1;1;1;40;1400.0;700.0;13.0
+Casa;Olaria;1;0;1;11;800.0;;
+Apartamento;Botafogo;1;1;0;44;1799.0;440.0;20.0
+Quitinete;Higienópolis;1;0;0;96;700.0;;
+Quitinete;Copacabana;1;0;0;30;1600.0;400.0;220.0
+Quitinete;Copacabana;1;0;0;38;1800.0;380.0;31.0
+Apartamento;Senador Vasconcelos;1;1;1;50;800.0;180.0;
+Quitinete;Tijuca;1;0;1;25;1500.0;350.0;20.0
+Quitinete;Botafogo;1;0;0;27;1100.0;500.0;19.0
+Apartamento;Barra da Tijuca;1;1;0;64;1800.0;800.0;180.0
+Apartamento;Copacabana;1;2;1;55;4000.0;750.0;80.0
+Apartamento;Grajaú;1;1;0;63;1500.0;500.0;
+Apartamento;Ipanema;1;0;0;25;1200.0;555.0;61.0
+Quitinete;Irajá;1;0;0;40;700.0;;
+Quitinete;Laranjeiras;1;0;0;28;1100.0;480.0;25.0
+Quitinete;Praça da Bandeira;1;0;0;30;800.0;459.0;
+Apartamento;Engenho Novo;1;1;0;62;1200.0;440.0;
+Apartamento;Copacabana;1;0;0;29;1200.0;520.0;20.0
+Apartamento;Barra da Tijuca;1;1;0;81;1500.0;2130.0;236.0
+Apartamento;Flamengo;1;0;0;38;1800.0;229.0;25.0
+Flat;Copacabana;1;1;0;54;2400.0;1531.0;183.0
+Apartamento;Maracanã;1;1;0;63;1400.0;590.0;24.0
+Apartamento;Pavuna;1;1;0;40;400.0;220.0;
+Apartamento;Cocotá;1;0;0;37;700.0;200.0;20.0
+Flat;Copacabana;1;1;1;41;2300.0;1400.0;140.0
+Apartamento;Botafogo;1;0;0;124;3500.0;820.0;120.0
+Apartamento;Leme;1;0;1;40;2300.0;870.0;23.0
+Apartamento;Jardim Botânico;1;1;1;63;3000.0;1400.0;150.0
+Apartamento;Copacabana;1;0;0;20;1300.0;500.0;
+Apartamento;Cacuia;1;1;0;42;1050.0;330.0;
+Apartamento;Copacabana;1;0;0;140;4250.0;1650.0;230.0
+Apartamento;Centro;1;0;0;35;1600.0;580.0;150.0
+Apartamento;Glória;1;0;1;45;1350.0;450.0;20.0
+Casa de Vila;Padre Miguel;1;0;0;33;600.0;;60.0
+Apartamento;Copacabana;1;0;0;42;1500.0;450.0;68.0
+Apartamento;Campo Grande;1;0;0;65;700.0;;
+Apartamento;Copacabana;1;1;0;25;1900.0;650.0;20.0
+Apartamento;Barra da Tijuca;1;1;1;90;6500.0;2100.0;5000.0
+Apartamento;Centro;1;0;0;22;1000.0;420.0;24.0
+Apartamento;Botafogo;1;1;1;91;3300.0;883.0;298.0
+Flat;Arpoador;1;1;0;55;3500.0;1200.0;300.0
+Apartamento;Copacabana;1;0;0;45;2000.0;920.0;56.0
+Casa de Vila;Campo Grande;1;0;0;40;500.0;;
+Apartamento;Lapa;1;1;0;39;1600.0;800.0;15.0
+Casa;Honório Gurgel;1;0;0;40;500.0;;
+Apartamento;Gávea;1;0;0;33;1500.0;1006.0;
+Casa de Vila;Olaria;1;0;0;45;700.0;;
+Apartamento;Jacarepaguá;1;1;0;55;1100.0;580.0;
+Apartamento;Ipanema;1;2;1;90;4100.0;1700.0;220.0
+Apartamento;Barra da Tijuca;1;1;0;67;2300.0;1580.0;
+Casa;Campo Grande;1;2;1;160;2300.0;;
+Quitinete;Copacabana;1;0;0;29;1350.0;514.0;182.0
+Casa;Vila da Penha;1;0;0;50;900.0;;
+Quitinete;Catete;1;0;0;28;1300.0;482.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;70;3000.0;1400.0;
+Flat;Botafogo;1;1;1;45;2400.0;700.0;100.0
+Flat;Ipanema;1;1;0;50;3000.0;2100.0;500.0
+Casa;Pilares;1;0;0;50;900.0;;
+Apartamento;Irajá;1;0;0;55;850.0;110.0;
+Apartamento;Santa Teresa;1;0;0;31;1000.0;330.0;15.0
+Apartamento;Botafogo;1;0;0;28;2400.0;;
+Apartamento;Cacuia;1;1;0;37;900.0;214.0;
+Flat;Barra da Tijuca;1;1;0;55;2100.0;1100.0;350.0
+Apartamento;São Francisco Xavier;1;0;0;76;800.0;415.0;14.0
+Casa de Vila;Vila Militar;1;0;0;30;500.0;;
+Quitinete;Copacabana;1;0;0;30;1150.0;278.0;25.0
+Apartamento;Flamengo;1;0;0;46;1600.0;400.0;57.0
+Apartamento;Copacabana;1;0;0;50;2200.0;459.0;79.0
+Quitinete;Flamengo;1;0;0;28;1400.0;400.0;
+Apartamento;Leblon;1;0;0;55;3700.0;318.0;90.0
+Casa;Pedra de Guaratiba;1;2;0;70;660.0;;
+Apartamento;Jacarepaguá;1;1;1;38;2500.0;;
+Apartamento;Botafogo;1;1;0;61;2200.0;664.0;27.0
+Apartamento;Andaraí;1;1;0;60;1000.0;230.0;23.0
+Apartamento;Botafogo;1;0;0;25;2000.0;481.0;25.0
+Quitinete;Copacabana;1;0;0;22;1500.0;570.0;116.0
+Apartamento;Leblon;1;0;0;90;4000.0;900.0;200.0
+Apartamento;Barra da Tijuca;1;1;1;75;1700.0;930.0;156.0
+Apartamento;Barra da Tijuca;1;1;1;80;3500.0;1250.0;150.0
+Apartamento;Copacabana;1;0;1;60;1450.0;748.0;151.0
+Apartamento;Leblon;1;0;1;45;3000.0;680.0;80.0
+Quitinete;Tijuca;1;0;0;25;1000.0;380.0;
+Flat;Botafogo;1;1;0;55;3000.0;1200.0;100.0
+Quitinete;Copacabana;1;0;0;30;1200.0;490.0;
+Apartamento;Centro;1;0;0;34;1100.0;313.0;25.0
+Flat;Copacabana;1;0;1;70;4500.0;1700.0;80.0
+Quitinete;Flamengo;1;0;0;29;1100.0;364.0;
+Apartamento;Praça da Bandeira;1;0;0;42;1800.0;270.0;25.0
+Apartamento;Centro;1;0;0;25;1490.0;390.0;9.0
+Quitinete;Senador Vasconcelos;1;0;0;40;550.0;;
+Apartamento;Vila Isabel;1;0;0;60;1300.0;323.0;83.0
+Apartamento;Tijuca;1;0;1;45;1300.0;380.0;47.0
+Quitinete;Glória;1;0;0;21;1100.0;338.0;15.0
+Quitinete;Copacabana;1;0;0;30;1500.0;700.0;50.0
+Casa;Jardim América;1;0;0;38;550.0;;
+Apartamento;Copacabana;1;1;0;35;1500.0;679.0;53.0
+Apartamento;Barra da Tijuca;1;1;0;59;1200.0;2000.0;246.0
+Apartamento;Flamengo;1;0;0;41;3200.0;430.0;29.0
+Casa;Vila Valqueire;1;0;0;60;900.0;;
+Apartamento;Humaitá;1;0;1;60;1900.0;666.0;110.0
+Casa;Bento Ribeiro;1;1;0;50;1100.0;;
+Apartamento;Humaitá;1;1;0;60;2200.0;816.0;100.0
+Quitinete;Centro;1;0;0;30;750.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;45;1700.0;316.0;71.0
+Apartamento;Flamengo;1;0;0;30;1400.0;650.0;
+Quitinete;Copacabana;1;0;0;35;1800.0;500.0;50.0
+Apartamento;Pedra de Guaratiba;1;0;0;40;500.0;;
+Quitinete;Praça da Bandeira;1;0;0;22;900.0;381.0;25.0
+Quitinete;Leblon;1;1;0;30;2350.0;560.0;620.0
+Apartamento;Penha Circular;1;0;0;50;650.0;120.0;
+Apartamento;Barra da Tijuca;1;1;1;70;1800.0;1125.0;347.0
+Apartamento;Copacabana;1;0;0;40;2000.0;450.0;70.0
+Apartamento;Laranjeiras;1;0;0;26;800.0;458.0;29.0
+Apartamento;Leme;1;0;1;60;2200.0;600.0;70.0
+Apartamento;Copacabana;1;0;1;68;2000.0;658.0;24.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;58;1450.0;960.0;240.0
+Apartamento;Copacabana;1;0;0;42;1700.0;383.0;24.0
+Apartamento;Del Castilho;1;0;0;55;800.0;;
+Casa;Ipanema;1;0;1;39;3000.0;500.0;200.0
+Quitinete;Copacabana;1;0;0;20;1000.0;520.0;67.0
+Apartamento;Copacabana;1;0;0;48;1800.0;662.0;68.0
+Apartamento;São Cristóvão;1;1;0;36;1000.0;280.0;136.0
+Apartamento;Pechincha;1;1;0;52;850.0;585.0;36.0
+Apartamento;Copacabana;1;0;0;35;2000.0;500.0;60.0
+Apartamento;Higienópolis;1;0;0;50;650.0;;
+Quitinete;Catete;1;0;0;28;1200.0;430.0;24.0
+Quitinete;Flamengo;1;0;0;25;1300.0;330.0;
+Apartamento;Copacabana;1;0;0;37;1600.0;416.0;73.0
+Apartamento;Tijuca;1;1;0;48;1300.0;496.0;51.0
+Apartamento;Copacabana;1;1;0;43;1800.0;784.0;75.0
+Apartamento;Copacabana;1;0;1;45;1800.0;450.0;
+Apartamento;Flamengo;1;0;0;33;1200.0;500.0;25.0
+Quitinete;Centro;1;0;0;30;900.0;500.0;115.0
+Apartamento;Barra da Tijuca;1;0;1;24;3300.0;;
+Apartamento;Vila Isabel;1;0;0;60;1700.0;300.0;20.0
+Apartamento;Humaitá;1;0;0;34;1600.0;320.0;67.0
+Flat;Barra da Tijuca;1;0;0;62;2000.0;1663.0;266.0
+Apartamento;Leblon;1;1;1;70;4500.0;780.0;230.0
+Apartamento;Centro;1;0;0;44;1600.0;619.0;18.0
+Apartamento;Centro;1;0;0;45;1600.0;570.0;25.0
+Quitinete;Copacabana;1;0;1;40;1800.0;550.0;250.0
+Apartamento;Centro;1;0;0;22;1050.0;280.0;24.0
+Apartamento;Fátima;1;0;0;25;800.0;300.0;20.0
+Apartamento;Barra da Tijuca;1;2;1;186;2500.0;1500.0;400.0
+Apartamento;Jardim Guanabara;1;0;0;39;1100.0;250.0;25.0
+Apartamento;Humaitá;1;0;0;31;1650.0;380.0;25.0
+Quitinete;Laranjeiras;1;0;0;23;1300.0;250.0;20.0
+Quitinete;Botafogo;1;0;0;25;1350.0;445.0;
+Apartamento;Centro;1;0;0;40;900.0;400.0;21.0
+Flat;Leblon;1;0;0;50;4400.0;1897.0;260.0
+Quitinete;Copacabana;1;0;0;28;2000.0;270.0;28.0
+Apartamento;Botafogo;1;0;0;35;1000.0;293.0;86.0
+Flat;Copacabana;1;1;1;50;3900.0;;
+Quitinete;Santa Teresa;1;0;0;16;650.0;380.0;12.0
+Apartamento;Copacabana;1;0;0;28;1200.0;424.0;55.0
+Apartamento;Centro;1;0;0;21;830.0;355.0;24.0
+Apartamento;Copacabana;1;0;0;35;1250.0;592.0;56.0
+Apartamento;Vila da Penha;1;0;0;30;800.0;;
+Apartamento;Santa Teresa;1;0;0;25;1500.0;650.0;90.0
+Quitinete;Centro;1;0;0;31;850.0;362.0;25.0
+Flat;Leblon;1;1;0;50;6500.0;2034.0;
+Apartamento;Flamengo;1;1;1;58;2000.0;833.0;
+Apartamento;Barra da Tijuca;1;1;1;50;1300.0;780.0;157.0
+Apartamento;Barra da Tijuca;1;1;0;70;1800.0;1130.0;280.0
+Flat;Barra da Tijuca;1;1;0;50;2100.0;1150.0;253.0
+Apartamento;Oswaldo Cruz;1;1;0;50;1000.0;150.0;
+Apartamento;Glória;1;0;0;48;1800.0;400.0;66.0
+Casa;Campo Grande;1;1;0;37;600.0;;
+Flat;Copacabana;1;1;1;55;2200.0;1450.0;250.0
+Apartamento;Catete;1;0;0;70;2400.0;500.0;
+Apartamento;Glória;1;0;0;30;800.0;495.0;
+Quitinete;Botafogo;1;0;0;22;1100.0;438.0;
+Quitinete;Copacabana;1;0;0;30;1500.0;500.0;
+Apartamento;Ipanema;1;0;1;30;2300.0;719.0;27.0
+Apartamento;Copacabana;1;0;0;69;2300.0;640.0;92.0
+Apartamento;Barra da Tijuca;1;1;0;70;1900.0;1050.0;
+Apartamento;Ipanema;1;2;0;108;5000.0;1045.0;1600.0
+Apartamento;Leme;1;0;0;50;2300.0;870.0;68.0
+Apartamento;Ipanema;1;1;1;263;7000.0;3150.0;
+Apartamento;Flamengo;1;0;0;28;1450.0;400.0;
+Apartamento;Barra da Tijuca;1;1;1;84;2000.0;1300.0;
+Apartamento;Copacabana;1;0;0;40;1500.0;448.0;50.0
+Apartamento;Copacabana;1;0;0;45;1600.0;316.0;70.0
+Apartamento;Copacabana;1;0;0;32;1100.0;561.0;29.0
+Apartamento;Barra da Tijuca;1;1;0;66;1400.0;1046.0;
+Loft;Ipanema;1;0;0;30;2800.0;620.0;60.0
+Apartamento;Flamengo;1;0;0;43;2200.0;445.0;
+Apartamento;Copacabana;1;0;0;35;3000.0;;
+Casa de Vila;Campo Grande;1;0;0;40;600.0;;25.0
+Apartamento;Copacabana;1;0;0;29;790.0;480.0;95.0
+Quitinete;Vila da Penha;1;0;0;15;600.0;;
+Flat;Botafogo;1;0;1;50;2800.0;1200.0;100.0
+Apartamento;Barra da Tijuca;1;2;1;72;3000.0;1300.0;100.0
+Apartamento;Barra da Tijuca;1;2;1;60;3000.0;1000.0;228.0
+Quitinete;Copacabana;1;0;0;27;1100.0;606.0;252.0
+Apartamento;Centro;1;0;0;25;1100.0;316.0;24.0
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;550.0;;
+Apartamento;Centro;1;0;0;27;1000.0;420.0;
+Apartamento;Tijuca;1;0;0;37;1000.0;462.0;
+Quitinete;Copacabana;1;0;0;30;1400.0;364.0;
+Apartamento;Copacabana;1;0;0;70;2500.0;680.0;90.0
+Apartamento;Ipanema;1;0;0;50;1700.0;815.0;130.0
+Quitinete;Copacabana;1;0;0;25;1200.0;500.0;
+Apartamento;São Conrado;1;1;1;100;2600.0;1745.0;1200.0
+Apartamento;Ipanema;1;1;1;40;3400.0;2400.0;250.0
+Quitinete;Leme;1;0;0;26;1000.0;499.0;24.0
+Quitinete;Copacabana;1;0;0;30;1500.0;350.0;
+Apartamento;Copacabana;1;0;0;47;2000.0;610.0;114.0
+Casa de Vila;Braz de Pina;1;0;0;50;800.0;;
+Casa de Vila;Cascadura;1;0;0;42;800.0;;
+Apartamento;Copacabana;1;1;0;64;2500.0;1035.0;41.0
+Quitinete;Santa Teresa;1;0;0;30;1000.0;425.0;
+Quitinete;Copacabana;1;0;0;62;1800.0;500.0;112.0
+Apartamento;Ipanema;1;0;0;32;1500.0;665.0;99.0
+Quitinete;Copacabana;1;0;0;30;700.0;620.0;29.0
+Apartamento;Laranjeiras;1;0;0;30;1000.0;70.0;29.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;30;1200.0;976.0;210.0
+Apartamento;Copacabana;1;0;0;40;3800.0;614.0;250.0
+Quitinete;Ipanema;1;0;0;35;1600.0;338.0;98.0
+Apartamento;Copacabana;1;0;0;64;2500.0;560.0;25.0
+Quitinete;Praça da Bandeira;1;0;0;32;800.0;264.0;25.0
+Apartamento;Andaraí;1;0;0;70;1300.0;30.0;
+Apartamento;Lapa;1;0;0;35;1100.0;300.0;25.0
+Apartamento;Copacabana;1;0;0;45;1900.0;450.0;125.0
+Loft;Copacabana;1;0;0;42;2200.0;500.0;25.0
+Apartamento;Tauá;1;1;0;50;1000.0;424.0;
+Apartamento;Ipanema;1;1;0;52;3000.0;600.0;
+Quitinete;Santa Teresa;1;0;0;20;600.0;;
+Flat;Curicica;1;1;1;36;1600.0;550.0;13.0
+Apartamento;Copacabana;1;0;0;45;2000.0;560.0;190.0
+Apartamento;Tijuca;1;0;0;45;1950.0;550.0;55.0
+Apartamento;Copacabana;1;1;1;80;3300.0;;
+Casa de Vila;Realengo;1;0;0;45;650.0;;
+Flat;Ipanema;1;1;0;50;2600.0;2100.0;450.0
+Apartamento;Copacabana;1;0;0;50;1500.0;698.0;25.0
+Apartamento;Méier;1;0;0;41;850.0;430.0;14.0
+Apartamento;Botafogo;1;1;0;47;3250.0;540.0;
+Apartamento;Copacabana;1;0;0;41;1400.0;670.0;
+Flat;Barra da Tijuca;1;1;0;50;2500.0;1750.0;565.0
+Apartamento;Copacabana;1;0;0;32;1500.0;474.0;25.0
+Apartamento;Tijuca;1;0;0;50;1500.0;650.0;
+Flat;Lagoa;1;1;1;65;4000.0;1500.0;690.0
+Apartamento;Praça da Bandeira;1;0;0;39;1200.0;200.0;
+Apartamento;Barra da Tijuca;1;2;0;78;2200.0;406.0;95.0
+Apartamento;Tijuca;1;0;0;45;1500.0;509.0;
+Apartamento;Centro;1;0;1;40;1400.0;350.0;300.0
+Apartamento;Ipanema;1;0;0;50;2750.0;650.0;75.0
+Apartamento;Botafogo;1;0;0;30;2300.0;;
+Apartamento;Barra da Tijuca;1;1;0;79;1300.0;1942.0;240.0
+Apartamento;Botafogo;1;0;0;42;1800.0;482.0;
+Apartamento;Botafogo;1;0;0;25;1800.0;;25.0
+Apartamento;Copacabana;1;0;0;45;2300.0;510.0;23.0
+Apartamento;Copacabana;1;0;0;30;1500.0;760.0;56.0
+Apartamento;Cachambi;1;1;1;59;1400.0;680.0;
+Flat;Barra da Tijuca;1;0;1;25;1520.0;710.0;70.0
+Apartamento;Flamengo;1;0;0;48;2050.0;310.0;60.0
+Quitinete;Urca;1;0;0;19;1200.0;200.0;24.0
+Apartamento;Copacabana;1;0;0;30;1400.0;477.0;
+Apartamento;Copacabana;1;0;0;40;2000.0;617.0;
+Terreno Padrão;Barra da Tijuca;1;0;0;529;35000.0;;1222.0
+Quitinete;Glória;1;0;0;21;1100.0;303.0;29.0
+Apartamento;Irajá;1;0;0;48;850.0;120.0;
+Apartamento;Laranjeiras;1;1;1;40;2200.0;315.0;47.0
+Quitinete;Copacabana;1;0;0;35;1300.0;400.0;250.0
+Apartamento;Barra da Tijuca;1;1;1;42;1350.0;740.0;1350.0
+Apartamento;Flamengo;1;0;1;52;2000.0;650.0;
+Apartamento;Vila da Penha;1;1;0;65;1000.0;369.0;
+Apartamento;Glória;1;0;0;42;1200.0;450.0;54.0
+Apartamento;Copacabana;1;0;1;45;2300.0;600.0;203.0
+Apartamento;Copacabana;1;0;0;30;1250.0;395.0;25.0
+Quitinete;Centro;1;0;0;20;900.0;217.0;21.0
+Quitinete;Fátima;1;0;0;25;650.0;370.0;24.0
+Quitinete;Flamengo;1;0;1;45;1700.0;442.0;25.0
+Apartamento;Gávea;1;1;1;49;2200.0;802.0;140.0
+Apartamento;Copacabana;1;0;0;30;2000.0;600.0;20.0
+Quitinete;Ipanema;1;0;0;19;1600.0;456.0;72.0
+Apartamento;Ipanema;1;1;0;50;2600.0;660.0;
+Apartamento;Copacabana;1;0;1;38;1300.0;564.0;35.0
+Casa;Paciência;1;0;0;40;650.0;;
+Quitinete;Laranjeiras;1;0;0;20;900.0;280.0;
+Apartamento;Centro;1;0;0;40;1000.0;400.0;
+Apartamento;Méier;1;0;0;60;900.0;283.0;17.0
+Apartamento;Barra da Tijuca;1;1;0;56;3000.0;1260.0;310.0
+Apartamento;Copacabana;1;0;0;40;1450.0;680.0;
+Apartamento;Gávea;1;1;1;48;2498.0;787.0;158.0
+Apartamento;Recreio dos Bandeirantes;1;1;0;50;1500.0;1166.0;
+Quitinete;Copacabana;1;0;0;25;2000.0;500.0;20.0
+Apartamento;Leblon;1;1;0;55;3500.0;780.0;183.0
+Quitinete;Botafogo;1;0;0;22;1000.0;364.0;25.0
+Apartamento;Ipanema;1;0;0;60;2700.0;752.0;94.0
+Apartamento;Barra da Tijuca;1;1;1;67;2500.0;1130.0;295.0
+Apartamento;Copacabana;1;0;1;36;1800.0;633.0;70.0
+Apartamento;Vila Isabel;1;0;0;50;850.0;369.0;24.0
+Apartamento;Copacabana;1;0;0;48;1500.0;740.0;26.0
+Apartamento;Grajaú;1;0;0;45;1600.0;275.0;
+Apartamento;Barra da Tijuca;1;1;0;57;4900.0;958.0;280.0
+Quitinete;Copacabana;1;0;0;38;1500.0;760.0;
+Apartamento;Vila da Penha;1;0;0;40;1000.0;;
+Quitinete;Copacabana;1;0;0;30;1900.0;600.0;242.0
+Apartamento;Copacabana;1;1;0;50;2500.0;1296.0;
+Casa;Campo Grande;1;1;0;50;550.0;;2.0
+Quitinete;Centro;1;0;0;30;1100.0;235.0;70.0
+Quitinete;Centro;1;0;0;20;700.0;312.0;8.0
+Quitinete;Glória;1;0;0;30;800.0;495.0;
+Apartamento;Copacabana;1;0;0;46;2800.0;450.0;250.0
+Apartamento;Copacabana;1;1;1;46;3000.0;;
+Apartamento;Catete;1;0;0;27;1200.0;295.0;30.0
+Apartamento;Península;1;1;1;66;2800.0;1150.0;120.0
+Flat;Copacabana;1;0;0;55;1800.0;1933.0;190.0
+Apartamento;Del Castilho;1;1;0;55;800.0;350.0;
+Apartamento;Abolição;1;0;0;42;800.0;260.0;16.0
+Apartamento;Copacabana;1;0;0;30;2700.0;;
+Apartamento;Botafogo;1;0;0;28;1300.0;500.0;
+Apartamento;Barra da Tijuca;1;1;0;68;1600.0;900.0;235.0
+Quitinete;Flamengo;1;0;0;35;1700.0;400.0;53.0
+Apartamento;São Cristóvão;1;0;0;33;780.0;;
+Apartamento;Centro;1;0;0;45;1350.0;450.0;50.0
+Apartamento;Flamengo;1;0;0;45;1500.0;465.0;67.0
+Quitinete;Centro;1;0;0;34;900.0;330.0;
+Quitinete;Leblon;1;0;0;22;1690.0;350.0;27.0
+Apartamento;Gávea;1;1;1;50;2900.0;400.0;10.0
+Loft;Jacarepaguá;1;1;0;35;2000.0;;
+Quitinete;Copacabana;1;0;0;29;1300.0;1020.0;
+Casa;Santa Teresa;1;0;0;70;1400.0;;21.0
+Casa;Bento Ribeiro;1;0;0;38;600.0;;
+Apartamento;Ipanema;1;1;0;40;2300.0;649.0;96.0
+Apartamento;Barra da Tijuca;1;1;0;75;1900.0;984.0;280.0
+Loft;Jacarepaguá;1;0;0;40;1000.0;200.0;76.0
+Apartamento;Leblon;1;1;0;62;3990.0;950.0;
+Apartamento;Centro;1;0;0;24;750.0;322.0;21.0
+Apartamento;Flamengo;1;1;1;60;2900.0;1000.0;200.0
+Apartamento;Botafogo;1;0;0;41;1750.0;474.0;25.0
+Apartamento;Barra da Tijuca;1;1;1;65;1000.0;2650.0;180.0
+Casa de Vila;São Cristóvão;1;0;0;33;1400.0;;53.0
+Flat;Jacarepaguá;1;1;0;35;1100.0;950.0;20.0
+Conjunto Comercial/Sala;Catete;1;0;0;40;2200.0;700.0;90.0
+Apartamento;Glória;1;0;0;39;900.0;246.0;
+Conjunto Comercial/Sala;Centro;1;0;0;25;700.0;325.0;107.0
+Apartamento;Leblon;1;0;1;90;6000.0;600.0;138.0
+Apartamento;Tijuca;1;0;0;40;1200.0;398.0;25.0
+Apartamento;Tijuca;1;0;0;50;1100.0;350.0;21.0
+Apartamento;Taquara;1;1;0;49;800.0;465.0;35.0
+Apartamento;Botafogo;1;1;1;38;1500.0;480.0;24.0
+Quitinete;Botafogo;1;1;0;64;4000.0;;
+Apartamento;Méier;1;0;0;52;1200.0;320.0;
+Apartamento;Flamengo;1;0;0;38;2980.0;350.0;50.0
+Quitinete;Flamengo;1;0;0;27;1300.0;467.0;54.0
+Apartamento;Barra da Tijuca;1;1;0;58;1900.0;1100.0;
+Quitinete;Centro;1;0;0;42;650.0;460.0;
+Casa;Ramos;1;0;1;50;800.0;;
+Quitinete;Engenho Novo;1;0;0;30;700.0;100.0;500.0
+Apartamento;Copacabana;1;0;0;45;1300.0;570.0;59.0
+Apartamento;Barra da Tijuca;1;2;1;102;3800.0;1500.0;
+Apartamento;Ipanema;1;0;0;60;3000.0;;
+Apartamento;Flamengo;1;0;0;43;1800.0;432.0;58.0
+Apartamento;Freguesia (Jacarepaguá);1;1;1;70;1500.0;640.0;
+Apartamento;Barra da Tijuca;1;0;0;67;2500.0;1553.0;266.0
+Flat;Ipanema;1;1;1;50;6500.0;;
+Apartamento;Lagoa;1;1;0;70;2200.0;1350.0;303.0
+Quitinete;Centro;1;0;0;32;800.0;278.0;20.0
+Apartamento;Barra da Tijuca;1;1;0;68;1800.0;1305.0;280.0
+Casa de Vila;Curicica;1;0;0;24;500.0;60.0;250.0
+Apartamento;Leblon;1;0;0;70;2700.0;1070.0;176.0
+Apartamento;Tijuca;1;0;0;48;1000.0;650.0;47.0
+Apartamento;Madureira;1;0;0;55;700.0;200.0;
+Apartamento;Copacabana;1;0;0;38;1150.0;780.0;
+Quitinete;Copacabana;1;0;0;37;1600.0;631.0;69.0
+Apartamento;Lagoa;1;1;1;68;2390.0;1430.0;320.0
+Apartamento;Botafogo;1;1;1;65;1850.0;900.0;100.0
+Apartamento;Leme;1;0;1;45;2300.0;870.0;23.0
+Apartamento;Centro;1;0;0;35;1000.0;500.0;24.0
+Quitinete;Ramos;1;0;0;25;650.0;;
+Apartamento;Ipanema;1;0;0;37;1500.0;554.0;122.0
+Apartamento;Copacabana;1;0;1;38;2300.0;506.0;24.0
+Apartamento;Copacabana;1;0;0;40;950.0;579.0;67.0
+Apartamento;Botafogo;1;1;0;57;2500.0;1300.0;130.0
+Quitinete;Copacabana;1;0;0;45;1600.0;580.0;24.0
+Apartamento;Vila da Penha;1;0;0;64;700.0;200.0;
+Apartamento;Copacabana;1;0;0;50;2000.0;660.0;71.0
+Apartamento;Botafogo;1;0;0;50;2200.0;340.0;
+Apartamento;Copacabana;1;0;0;36;1300.0;458.0;72.0
+Quitinete;Copacabana;1;0;1;35;2300.0;400.0;30.0
+Apartamento;Riachuelo;1;1;0;55;1000.0;500.0;
+Apartamento;Tijuca;1;1;0;57;1700.0;595.0;495.0
+Apartamento;Engenho Novo;1;1;0;54;1000.0;450.0;34.0
+Casa;Engenho de Dentro;1;0;0;50;800.0;;17.0
+Apartamento;Ipanema;1;0;0;38;5500.0;;
+Apartamento;Barra da Tijuca;1;1;1;48;1200.0;660.0;55.0
+Casa;Paciência;1;0;0;40;700.0;;
+Apartamento;Barra da Tijuca;1;1;1;70;2400.0;1000.0;260.0
+Apartamento;Vila Isabel;1;0;0;50;1200.0;450.0;
+Apartamento;Ipanema;1;0;0;60;1800.0;620.0;50.0
+Apartamento;Tijuca;1;0;0;39;1400.0;251.0;24.0
+Apartamento;Copacabana;1;0;0;45;1500.0;784.0;65.0
+Apartamento;Laranjeiras;1;0;0;51;1400.0;505.0;30.0
+Apartamento;Barra da Tijuca;1;0;0;68;1600.0;1100.0;255.0
+Apartamento;Centro;1;0;0;34;800.0;330.0;18.0
+Apartamento;Flamengo;1;0;0;50;1700.0;570.0;
+Quitinete;Copacabana;1;0;0;30;2700.0;400.0;25.0
+Apartamento;Copacabana;1;0;0;39;2500.0;590.0;25.0
+Apartamento;Botafogo;1;1;0;45;2150.0;;80.0
+Apartamento;Leblon;1;0;0;50;2800.0;710.0;
+Flat;Barra da Tijuca;1;1;1;52;4000.0;2400.0;500.0
+Quitinete;Flamengo;1;0;0;35;1100.0;500.0;29.0
+Apartamento;Barra da Tijuca;1;1;0;82;1800.0;2100.0;248.0
+Quitinete;Centro;1;0;0;34;800.0;400.0;130.0
+Apartamento;Copacabana;1;0;0;40;1400.0;560.0;62.0
+Apartamento;Copacabana;1;0;0;39;1600.0;408.0;
+Quitinete;Ipanema;1;0;0;50;2200.0;650.0;81.0
+Apartamento;Centro;1;0;0;20;900.0;238.0;10.0
+Apartamento;Laranjeiras;1;0;0;70;1800.0;800.0;80.0
+Apartamento;Copacabana;1;0;0;50;2100.0;630.0;240.0
+Apartamento;Botafogo;1;1;0;37;1800.0;1021.0;
+Apartamento;Humaitá;1;0;0;41;2300.0;350.0;
+Apartamento;Barra da Tijuca;1;1;0;38;1600.0;480.0;80.0
+Loja Shopping/ Ct Comercial;Guadalupe;1;0;0;41;800.0;;
+Apartamento;Portuguesa;1;0;0;16;1200.0;;
+Quitinete;Centro;1;0;0;50;1000.0;400.0;50.0
+Casa;Praça Seca;1;0;0;30;400.0;35.0;
+Apartamento;Botafogo;1;1;0;40;1800.0;1021.0;
+Apartamento;Copacabana;1;0;0;30;2800.0;;
+Apartamento;Centro;1;0;0;42;1100.0;410.0;
+Quitinete;Flamengo;1;0;0;40;1600.0;450.0;91.0
+Apartamento;Leme;1;0;0;50;2000.0;600.0;90.0
+Quitinete;Copacabana;1;1;0;30;1300.0;300.0;100.0
+Quitinete;Barra da Tijuca;1;1;1;20;1800.0;;
+Apartamento;Barra da Tijuca;1;1;0;65;1600.0;1750.0;350.0
+Quitinete;Botafogo;1;0;0;25;1200.0;480.0;
+Casa;Madureira;1;0;0;40;800.0;;
+Apartamento;Catete;1;0;0;30;1200.0;360.0;25.0
+Quitinete;Copacabana;1;0;0;29;1300.0;420.0;30.0
+Flat;Leblon;1;1;0;45;4000.0;1600.0;400.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;30;1300.0;950.0;150.0
+Apartamento;Jardim Guanabara;1;1;0;59;1500.0;360.0;90.0
+Quitinete;Flamengo;1;0;0;30;1200.0;460.0;25.0
+Apartamento;Copacabana;1;1;0;55;2200.0;1300.0;276.0
+Quitinete;Catete;1;0;0;30;1300.0;400.0;23.0
+Apartamento;Copacabana;1;0;0;40;1800.0;625.0;68.0
+Apartamento;Botafogo;1;1;0;50;2600.0;1230.0;137.0
+Apartamento;Jardim Botânico;1;1;0;72;3000.0;895.0;175.0
+Apartamento;Catete;1;0;0;45;1500.0;509.0;58.0
+Apartamento;Ipanema;1;0;0;40;2990.0;450.0;
+Quitinete;Botafogo;1;0;0;22;1200.0;472.0;24.0
+Apartamento;Botafogo;1;0;0;38;1800.0;788.0;24.0
+Apartamento;Centro;1;0;0;27;1100.0;370.0;
+Apartamento;Ipanema;1;0;0;32;1800.0;666.0;
+Casa de Vila;Vaz Lobo;1;0;0;50;700.0;;
+Quitinete;Ipanema;1;0;1;30;6500.0;;
+Casa de Vila;Rocha Miranda;1;0;0;44;700.0;;
+Apartamento;Barra da Tijuca;1;1;0;60;1600.0;973.0;140.0
+Apartamento;Centro;1;0;0;59;1400.0;499.0;10.0
+Apartamento;Copacabana;1;0;0;45;2000.0;630.0;25.0
+Quitinete;Catete;1;0;0;20;900.0;408.0;25.0
+Apartamento;Ipanema;1;1;0;51;3000.0;635.0;4398.0
+Apartamento;Santa Teresa;1;1;0;40;1500.0;317.0;34.0
+Flat;Lagoa;1;1;0;73;5000.0;2253.0;5504.0
+Apartamento;Centro;1;0;0;59;1200.0;700.0;40.0
+Apartamento;Vila Isabel;1;1;0;40;1000.0;400.0;24.0
+Apartamento;Leblon;1;0;0;50;2290.0;530.0;100.0
+Quitinete;Botafogo;1;0;0;18;900.0;457.0;
+Apartamento;Barra da Tijuca;1;1;0;74;2300.0;1227.0;148.0
+Quitinete;Centro;1;0;0;32;700.0;300.0;21.0
+Quitinete;Leblon;1;0;0;30;2800.0;715.0;
+Apartamento;Leblon;1;0;1;44;3800.0;1670.0;550.0
+Apartamento;Copacabana;1;0;0;45;1800.0;633.0;55.0
+Casa de Vila;Madureira;1;1;0;52;900.0;;
+Apartamento;Barra da Tijuca;1;2;1;115;5500.0;2500.0;
+Apartamento;Andaraí;1;1;0;60;1000.0;400.0;21.0
+Apartamento;Copacabana;1;0;0;58;2400.0;550.0;132.0
+Apartamento;Rio Comprido;1;0;0;58;1200.0;425.0;12.0
+Apartamento;Copacabana;1;0;0;41;1900.0;390.0;58.0
+Casa de Vila;Bento Ribeiro;1;0;0;35;780.0;;14.0
+Apartamento;Vila Isabel;1;0;0;50;1100.0;450.0;20.0
+Apartamento;Copacabana;1;0;1;40;2300.0;520.0;
+Apartamento;Jacarepaguá;1;1;1;30;2700.0;1350.0;
+Apartamento;Copacabana;1;0;0;35;2000.0;587.0;
+Quitinete;Copacabana;1;0;0;25;1000.0;290.0;
+Quitinete;Centro;1;0;0;40;1100.0;300.0;
+Flat;Copacabana;1;1;1;60;5000.0;;
+Flat;Copacabana;1;1;0;55;2700.0;1300.0;
+Flat;Leblon;1;1;0;50;3200.0;1850.0;215.0
+Apartamento;Copacabana;1;0;0;30;2350.0;1.0;
+Apartamento;Copacabana;1;0;0;27;1000.0;655.0;55.0
+Apartamento;Rocha Miranda;1;0;0;28;900.0;;
+Flat;Copacabana;1;1;0;60;2500.0;1534.0;161.0
+Apartamento;São Cristóvão;1;1;0;47;1500.0;390.0;34.0
+Flat;Icaraí;1;1;0;76;2100.0;650.0;230.0
+Quitinete;Padre Miguel;1;0;0;55;450.0;;
+Quitinete;Vila Isabel;1;0;0;20;920.0;80.0;
+Apartamento;Catete;1;0;0;45;1100.0;327.0;54.0
+Apartamento;Flamengo;1;0;0;40;3000.0;;
+Casa de Vila;Vila da Penha;1;0;0;40;850.0;;
+Apartamento;Barra da Tijuca;1;1;1;71;1400.0;730.0;
+Apartamento;Flamengo;1;0;0;41;1700.0;400.0;71.0
+Apartamento;Gardênia Azul;1;0;0;27;650.0;;
+Apartamento;Campo Grande;1;0;0;40;500.0;;
+Flat;Barra da Tijuca;1;1;1;36;1200.0;1000.0;20.0
+Apartamento;Lagoa;1;0;0;51;2295.0;400.0;105.0
+Apartamento;Copacabana;1;0;0;27;1200.0;350.0;53.0
+Quitinete;Botafogo;1;0;0;25;1000.0;582.0;24.0
+Apartamento;Humaitá;1;1;1;59;2600.0;750.0;95.0
+Apartamento;Barra da Tijuca;1;1;0;40;2200.0;460.0;
+Apartamento;Barra da Tijuca;1;0;0;50;2000.0;1000.0;
+Flat;Barra da Tijuca;1;1;0;58;1600.0;1397.0;133.0
+Apartamento;Copacabana;1;0;0;42;1550.0;550.0;
+Apartamento;Lins de Vasconcelos;1;0;0;35;500.0;360.0;15.0
+Quitinete;Leblon;1;0;0;21;1800.0;700.0;27.0
+Apartamento;Copacabana;1;0;0;35;1300.0;350.0;50.0
+Quitinete;Catete;1;0;0;30;1100.0;390.0;24.0
+Apartamento;Catete;1;0;0;40;1300.0;438.0;29.0
+Apartamento;Botafogo;1;0;0;24;2200.0;;
+Apartamento;Centro;1;0;0;31;1000.0;400.0;20.0
+Quitinete;Flamengo;1;0;0;24;1290.0;283.0;25.0
+Flat;Leblon;1;1;0;60;4800.0;2034.0;
+Apartamento;Humaitá;1;1;1;45;2000.0;493.0;80.0
+Apartamento;Copacabana;1;1;1;65;3000.0;1250.0;125.0
+Apartamento;Copacabana;1;0;0;49;1800.0;659.0;194.0
+Apartamento;Barra da Tijuca;1;1;0;50;2500.0;1200.0;
+Apartamento;Taquara;1;0;0;30;700.0;;
+Apartamento;Recreio dos Bandeirantes;1;1;1;52;1400.0;511.0;
+Flat;Botafogo;1;1;1;44;2500.0;850.0;120.0
+Quitinete;Flamengo;1;0;0;29;950.0;400.0;
+Apartamento;Estácio;1;1;1;32;1000.0;409.0;14.0
+Apartamento;Barra da Tijuca;1;1;1;60;1800.0;1000.0;256.0
+Apartamento;Copacabana;1;0;0;55;1900.0;678.0;28.0
+Apartamento;Flamengo;1;0;0;30;1200.0;570.0;
+Quitinete;Flamengo;1;0;0;29;900.0;555.0;25.0
+Apartamento;Ipanema;1;0;0;60;3500.0;780.0;
+Apartamento;Leblon;1;0;0;38;3800.0;1800.0;170.0
+Quitinete;Botafogo;1;0;0;18;900.0;463.0;
+Apartamento;Engenho de Dentro;1;0;0;32;800.0;;
+Apartamento;Flamengo;1;1;0;47;2200.0;380.0;30.0
+Casa de Vila;São Cristóvão;1;0;0;45;1000.0;;15.0
+Apartamento;Barra da Tijuca;1;1;0;64;1750.0;1177.0;219.0
+Casa de Vila;Vila Isabel;1;0;0;32;1000.0;125.0;12.0
+Apartamento;Jardim Guanabara;1;1;0;53;1500.0;310.0;19.0
+Flat;Barra da Tijuca;1;1;1;55;5500.0;1250.0;2150.0
+Casa;Barra da Tijuca;1;0;1;55;1600.0;;
+Apartamento;Recreio dos Bandeirantes;1;1;1;77;1900.0;471.0;
+Apartamento;Pechincha;1;1;1;40;850.0;442.0;15.0
+Apartamento;Botafogo;1;0;0;44;3700.0;850.0;125.0
+Apartamento;Ipanema;1;0;0;60;4000.0;500.0;200.0
+Apartamento;Leblon;1;0;0;50;4400.0;1898.0;270.0
+Flat;Copacabana;1;1;1;38;5500.0;1100.0;99.0
+Apartamento;Ramos;1;1;0;47;750.0;470.0;
+Apartamento;Copacabana;1;0;0;37;1500.0;319.0;67.0
+Apartamento;Copacabana;1;0;1;30;1700.0;360.0;22.0
+Apartamento;Santa Teresa;1;0;0;50;1450.0;400.0;
+Apartamento;Botafogo;1;0;0;45;1990.0;480.0;20.0
+Apartamento;Ipanema;1;0;0;45;2500.0;505.0;100.0
+Apartamento;Copacabana;1;0;0;35;2000.0;574.0;24.0
+Casa;Cosmos;1;1;0;36;500.0;;
+Quitinete;Botafogo;1;0;0;25;1100.0;550.0;250.0
+Quitinete;Gardênia Azul;1;0;0;25;490.0;;
+Quitinete;Irajá;1;0;0;20;500.0;;
+Quitinete;Santa Teresa;1;0;0;30;1000.0;200.0;
+Apartamento;Ipanema;1;1;1;65;6000.0;;
+Casa;Campo Grande;1;1;0;61;830.0;;
+Apartamento;Centro;1;0;0;40;1000.0;300.0;20.0
+Apartamento;Copacabana;1;0;0;70;2100.0;650.0;82.0
+Casa de Vila;Olaria;1;0;0;40;800.0;;
+Apartamento;Vila Isabel;1;1;0;75;1500.0;600.0;80.0
+Flat;Barra da Tijuca;1;1;0;72;1800.0;1282.0;
+Apartamento;Barra da Tijuca;1;1;0;68;1700.0;1002.0;1567.0
+Prédio Inteiro;São Cristóvão;1;40;0;5583;330000.0;;27053070.0
+Apartamento;Copacabana;1;0;0;40;1200.0;705.0;69.0
+Casa;Inhoaíba;1;0;0;50;600.0;;
+Apartamento;Vaz Lobo;1;1;0;39;600.0;175.0;
+Apartamento;Copacabana;1;0;0;50;2000.0;590.0;72.0
+Apartamento;Barra da Tijuca;1;1;1;60;2300.0;1769.0;360.0
+Quitinete;Flamengo;1;0;0;22;1000.0;378.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;52;2100.0;1200.0;130.0
+Apartamento;Pechincha;1;1;0;45;780.0;370.0;30.0
+Apartamento;Humaitá;1;0;0;60;1900.0;1232.0;175.0
+Apartamento;Jardim Botânico;1;1;1;95;2600.0;1007.0;209.0
+Apartamento;Botafogo;1;0;0;38;1390.0;405.0;
+Apartamento;Copacabana;1;0;0;35;3000.0;;
+Quitinete;Glória;1;0;0;32;1250.0;320.0;
+Apartamento;Copacabana;1;0;0;41;2000.0;647.0;24.0
+Apartamento;Barra da Tijuca;1;0;1;60;1500.0;1100.0;245.0
+Flat;Barra da Tijuca;1;1;0;60;3700.0;1300.0;250.0
+Apartamento;Sampaio;1;0;0;36;650.0;293.0;14.0
+Apartamento;Botafogo;1;1;0;55;2600.0;800.0;150.0
+Apartamento;Copacabana;1;0;0;25;1600.0;400.0;20.0
+Quitinete;Copacabana;1;0;0;36;1600.0;610.0;54.0
+Apartamento;Pechincha;1;1;0;68;1150.0;554.0;13.0
+Apartamento;Cachambi;1;1;0;36;600.0;407.0;
+Apartamento;Praça da Bandeira;1;0;0;40;900.0;435.0;
+Apartamento;Flamengo;1;0;0;45;1100.0;514.0;67.0
+Flat;Barra da Tijuca;1;1;1;60;2000.0;2821.0;555.0
+Apartamento;Copacabana;1;0;0;39;2000.0;528.0;
+Apartamento;Flamengo;1;1;0;30;1600.0;490.0;25.0
+Conjunto Comercial/Sala;Barra da Tijuca;1;1;0;30;900.0;915.0;270.0
+Apartamento;Cachambi;1;0;0;30;600.0;100.0;13.0
+Apartamento;Copacabana;1;0;0;30;2600.0;;
+Apartamento;Centro;1;0;0;25;1300.0;280.0;30.0
+Apartamento;Copacabana;1;0;1;33;1400.0;644.0;69.0
+Apartamento;Copacabana;1;0;0;35;1400.0;580.0;25.0
+Flat;Botafogo;1;1;0;45;2800.0;1000.0;250.0
+Apartamento;Laranjeiras;1;0;0;45;2000.0;430.0;67.0
+Loft;Vargem Grande;1;3;0;43;800.0;220.0;
+Casa de Condomínio;Vargem Grande;1;1;0;50;1600.0;220.0;
+Flat;Copacabana;1;1;0;48;2800.0;1800.0;200.0
+Apartamento;Urca;1;0;0;35;1580.0;360.0;
+Apartamento;Flamengo;1;0;0;35;1300.0;585.0;
+Apartamento;Campo Grande;1;0;0;40;480.0;;
+Flat;Centro;1;0;1;32;2950.0;;
+Apartamento;Copacabana;1;0;0;38;1800.0;295.0;29.0
+Apartamento;Lagoa;1;1;0;80;6000.0;1047.0;
+Apartamento;Barra da Tijuca;1;1;1;73;4500.0;2800.0;275.0
+Apartamento;Grajaú;1;1;0;56;1100.0;580.0;420.0
+Apartamento;Flamengo;1;1;0;60;1800.0;650.0;138.0
+Apartamento;Copacabana;1;2;0;88;2600.0;992.0;
+Apartamento;Grajaú;1;0;1;37;1000.0;200.0;
+Casa;Rocha Miranda;1;0;0;44;700.0;;
+Apartamento;Pechincha;1;0;1;69;900.0;640.0;126.0
+Apartamento;Glória;1;0;0;46;1100.0;453.0;32.0
+Apartamento;Copacabana;1;0;0;52;2500.0;980.0;109.0
+Apartamento;Guadalupe;1;0;0;40;550.0;;
+Apartamento;Lagoa;1;1;1;60;2900.0;1444.0;
+Apartamento;Tijuca;1;0;0;44;1500.0;257.0;20.0
+Casa;Engenho Novo;1;0;0;40;450.0;;
+Apartamento;Copacabana;1;1;0;45;2300.0;1500.0;180.0
+Apartamento;Bonsucesso;1;0;0;60;1000.0;;
+Apartamento;Copacabana;1;0;0;50;2500.0;516.0;30.0
+Apartamento;Botafogo;1;0;0;21;1000.0;282.0;25.0
+Quitinete;Leblon;1;0;0;32;2400.0;715.0;121.0
+Apartamento;Copacabana;1;1;1;65;5000.0;1650.0;
+Apartamento;Botafogo;1;0;0;51;2000.0;590.0;26.0
+Apartamento;Leme;1;0;0;40;1600.0;390.0;20.0
+Apartamento;Copacabana;1;0;0;59;1700.0;562.0;92.0
+Apartamento;Barra da Tijuca;1;1;1;65;3500.0;1500.0;280.0
+Quitinete;Copacabana;1;0;0;32;1600.0;692.0;
+Quitinete;Glória;1;0;0;10;400.0;107.0;10.0
+Apartamento;Copacabana;1;1;1;90;3000.0;1358.0;
+Apartamento;Ipanema;1;0;1;52;2800.0;749.0;
+Apartamento;Catete;1;0;0;45;1400.0;520.0;40.0
+Apartamento;Recreio dos Bandeirantes;1;1;1;50;1500.0;1150.0;220.0
+Apartamento;Copacabana;1;0;0;45;2000.0;640.0;22.0
+Apartamento;Leblon;1;0;0;62;3000.0;890.0;173.0
+Quitinete;Flamengo;1;0;0;23;900.0;605.0;
+Apartamento;Recreio dos Bandeirantes;1;1;1;79;1900.0;479.0;
+Apartamento;Copacabana;1;0;0;30;1600.0;480.0;70.0
+Quitinete;Centro;1;0;0;24;1100.0;323.0;
+Casa;Campo Grande;1;0;0;50;600.0;;
+Conjunto Comercial/Sala;Jardim Botânico;1;3;0;500;17000.0;;1000.0
+Apartamento;Laranjeiras;1;1;0;50;2500.0;800.0;600.0
+Apartamento;Copacabana;1;0;0;60;2400.0;530.0;78.0
+Apartamento;Flamengo;1;0;0;48;2200.0;478.0;
+Apartamento;Ipanema;1;0;0;55;2000.0;630.0;19.0
+Apartamento;Barra da Tijuca;1;1;0;62;1700.0;945.0;180.0
+Apartamento;Leblon;1;1;1;50;4300.0;1730.0;259.0
+Apartamento;Copacabana;1;0;0;50;1950.0;450.0;70.0
+Quitinete;Copacabana;1;0;0;22;1500.0;286.0;200.0
+Apartamento;Tijuca;1;0;0;28;1000.0;360.0;25.0
