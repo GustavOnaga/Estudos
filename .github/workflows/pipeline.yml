@@ -1,36 +1,37 @@
-name: Hello Github actions
+name: Hello Github Actions
 
-on: 
+on:
   push:
-    - main
+    branches:
+      - main
   pull_request:
-    - main
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  Hello-job:
+  hello-job:
     runs-on: ubuntu-latest
 
-  steps:
-    - name: checkout Codigo
-      uses: actions/checkout@v4
-    
-    - name: Executar Hello World
-      run: echo " Hello Github Actions "
-    
-    - name: Mostrar informações de sistema
-      run: |
-        echo " Sistema Operacional: ${{ runner.os}} "
-        echo " Diretorio Atual: ${pwd} "
-        echo " Data atual: $(date) "
-        echo " Usuario: $ (whoami) "
-    
-    - name: Lista arquivos do repositorio
-      run: ls -la
+    steps:
+      - name: Checkout Código
+        uses: actions/checkout@v4
 
-    - name: Comandos multiplos
-      run: |
-        echo "Este é o lab 01 do curso de github actions"
-        echo "Workflow executado com sucesso"
-        echo "Pronto para os proximos desafio"
-           
+      - name: Executar Hello World
+        run: echo "Hello Github Actions"
+
+      - name: Mostrar informações do sistema
+        run: |
+          echo "Sistema Operacional: ${{ runner.os }}"
+          echo "Diretório Atual: $(pwd)"
+          echo "Data atual: $(date)"
+          echo "Usuário: $(whoami)"
+
+      - name: Listar arquivos do repositório
+        run: ls -la
+
+      - name: Comandos múltiplos
+        run: |
+          echo "Este é o lab 01 do curso de GitHub Actions"
+          echo "Workflow executado com sucesso"
+          echo "Pronto para os próximos desafios"
