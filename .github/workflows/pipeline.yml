@@ -12,11 +12,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Informações do schedule
-        uses: |
+        run: |
           echo "Worflow disparado por schedule"
           echo "Data atual: $(date)"
           echo "Horario UTC: $(date-u)"
-          echo " Timezone: $(date+%z)"
+          echo "Timezone: $(date+%z)"
         
       - name: Relatorio diario automatizado
         run: |
