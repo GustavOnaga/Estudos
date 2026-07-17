@@ -1,6 +1,6 @@
 on:
   schedule:
-    - con: '55 21 * * *' #Executa as 21:51 horario Brasilia (utc)
+    - cron: '55 21 * * *' #Executa as 21:51 horario Brasilia (utc)
   workflow_dispatch:
 
 jobs:
